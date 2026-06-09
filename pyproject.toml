@@ -1,0 +1,21 @@
+[project]
+name = "ai201-p1-unofficial-guide"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=0.6.0",
+    "groq==0.15.0",
+    "planetterp==1.0.0",
+    "sentence-transformers==3.4.1",
+]
+
+[tool.uv]
+add-bounds = "exact"
+exclude-newer = "7 days"
+
+[dependency-groups]
+dev = [
+    "ruff==0.15.15",
+]
