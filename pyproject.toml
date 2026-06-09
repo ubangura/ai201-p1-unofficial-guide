@@ -6,9 +6,12 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "chromadb>=0.6.0",
+    "gradio==6.15.2",
     "groq==0.15.0",
     "planetterp==1.0.0",
+    "pydantic-settings==2.14.1",
     "sentence-transformers==3.4.1",
+    "transformers==4.57.6",
 ]
 
 [tool.uv]

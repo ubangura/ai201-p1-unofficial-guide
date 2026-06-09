@@ -15,11 +15,11 @@ class Settings(BaseSettings):
     EMBEDDING_MODEL: str = "multi-qa-MiniLM-L6-cos-v1"
 
     # --- Vector store ---
-    CHROMA_COLLECTION: str = "rulesbot"
+    CHROMA_COLLECTION: str = "umd_cs_professors"
     CHROMA_PATH: Path = Path("./chroma_db")
 
     # --- Retrieval ---
-    N_RESULTS: int = 3
+    N_RESULTS: int = 4
 
     # --- Documents ---
     DOCS_PATH: Path = Path("./docs")
