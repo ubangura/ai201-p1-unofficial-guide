@@ -87,9 +87,8 @@ def fetch_professor_grades() -> None:
     for professor in _professors:
         name_prefix = professor.replace(" ", "_").lower()
 
-        with open(f"{settings.DOCS_PATH}/{name_prefix}_reviews.json", "r") as f:
-            professor_data = json.load(fp=f)
-            courses: set[str] = set(professor_data["courses"])
+        professor_data = planetterp.professor(name=professor)
+        courses: set[str] = set(professor_data["courses"])
 
         grades: list[dict] = [
             grade
@@ -205,19 +204,3 @@ def _normalize_date(date_str: str) -> str:
 
     # ISO 8601 e.g. "2013-05-12T03:56:00Z"
     return datetime.fromisoformat(date_str.replace("Z", "+00:00")).strftime("%Y-%m-%d")
-
-
-docs = load_documents()
-chunks = []
-
-for doc in docs:
-    chunks.extend(chunk_document(doc))
-
-for chunk in chunks:
-    print("---")
-    print(f"type: {chunk.metadata.type}")
-    print(f"professor: {chunk.metadata.professor}")
-    print(f"course: {chunk.metadata.course}")
-    print(f"created: {chunk.metadata.created}")
-    print(f"text: {chunk.text[:300]}")
-    print()
