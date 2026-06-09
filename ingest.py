@@ -130,7 +130,7 @@ def _chunk_reviews(document: dict) -> DocumentChunks:
     for review in reviews:
         metadata = ChunkMetadata(
             professor=review["professor"],
-            course=review["course"],
+            course=review["course"] or "",
             created=_normalize_date(review["created"]),
             type="review",
         )
@@ -172,7 +172,7 @@ def _chunk_grades(document: dict) -> DocumentChunks:
     for grade in grades:
         key = ChunkMetadata(
             professor=grade["professor"],
-            course=grade["course"],
+            course=grade["course"] or "",
             created=_normalize_date(grade["semester"]),
             type="grade_distribution",
         )
