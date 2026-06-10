@@ -1,0 +1,167 @@
+{
+  "courses": [
+    "GEMS297",
+    "CMSC651",
+    "GEMS396",
+    "GEMS397",
+    "GEMS296",
+    "GEMS496",
+    "CMSC287",
+    "GEMS497",
+    "CMSC858L",
+    "CMSC798",
+    "CMSC420",
+    "CMSC454",
+    "CMSC454",
+    "CMSC451",
+    "CMSC858C",
+    "CMSC454",
+    "CMSC858A",
+    "CMSC454",
+    "CMSC454",
+    "CMSC454",
+    "CMSC651"
+  ],
+  "average_rating": 3.8824,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "He seems nice and caring.\n\r\nBut don't expect him to be nice on grade. He will fail you regardless of what situation you are in...even if it's your last semester ever, he will make you stay.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2011-12-20T18:49:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "Very reasonable guy.  He's very open to questions and dedicates fridays to recapping what he over the prior week and for student questions (no one takes advantage of this).\n\r\nAs for exams, he is incredibly reasonable.  As long as you attend class regularly, you don't even have to study for the exam.  He focuses more on the general idea more than anything else.  I can't say that I found the course itself too interesting (CMSC414, which I took the same semester, had a section about crypto that basically went over anything I was interested in), but the course was pretty good in conjunction with CMSC414.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-12-19T22:07:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "He is a good lecturer and is very open to students' questions. The homework is very hard (even if you know the material very well) but the tests are VERY easy. He curves the grades so that the median is somewhere around a C+/B-.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-12-29T19:10:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "Does a good job at teaching. He answers any questions about the proofs, theorems, and constructions during lectures. He also references some real world examples outside the course work to keep the class interested. Exams were very easy (20min midterm, 40min final) if you studied the material and did well on the homeworks. Homeworks may be ridiculously difficult at times but the challenges was certainly enjoyed.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-12-28T22:18:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC451",
+      "review": "It is clear that Aravind has a vast knowledge of algorithms, and is very passionate about the subject as well. He teaches the course via lectures based off of the recommended textbook, following very closely to the examples and ideas from the chapters he tells you that you must understand. I found the lectures, if you pay attention, to be very interesting and relevant.\r\nAs for assignments, the course had 5 homework assignments, each giving you a deeper understanding of the topics covered in the past few lectures. They were graded moderately harshly.\r\nThe mid terms were pretty difficult and took the entire class time to complete for almost all of the class. None of the questions were unfair or anything he hadn't covered, and if you do the book problems and redo the homework assignments the tests are manageable. ",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2019-05-14T16:40:41Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC451",
+      "review": "Pretty good professor. Cares about his students and is interesting enough. Much better run class than 351 for sure.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2019-06-11T17:55:11Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC420",
+      "review": "Two stars because he was a nice guy.\r\n\r\nI learned very little from this course. He is a tenured professor and it seems that the department threw him in to teach this class after Jason left again. The exams were easy and didn't test on most of the course material. Our midterms were worth 15% each and our homeworks were worth 11% each....\r\n\r\nHe clearly did not prepare to teach this course, and used Dave Mount's notes as a fallback for any lack of preparation on his part.\r\n\r\nThe class was not difficult, but we are here to learn. If you like to cram for exams and learn nothing take him. If you want to actually learn the content take anyone else.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2021-12-24T18:03:41Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC420",
+      "review": "Prof Srinivasan is genuine and cares about his students. \r\n\r\nPeople are saying that he just \"falls back\" on Dave Mount's course material, but to me it seemed that Prof Srinivasan did not lack any knowledge at all on any of the topics we studied. Yes, he does use Dave Mount's course material, but I do not think it is out of laziness... Prof was always prepared and knew his stuff. Dave Mount's course layout is just GOOD, and the extra provided resources were great to have in addition to lecture material. This way, we didnt have to buy an expensive, boring book. Using Mount's course is no different than using a textbook, except Mount's resources are much better than any boring CS textbook. \r\n\r\nHe was very clear with exam expectations, and doesn't make your life hell with homework. \r\nThe projects and homework are representative and provide good practice on what is actually taught in class. \r\n\r\nProf Srinivasan's way of teaching was unique and very appreciated: instead of trying to make you memorize every little detail, what was most important is that you understand the concepts, why they work, when you might want to use them. \r\n\r\nI am so glad that I took 420 with Professor Srinivasan in Fall 2021, I had a very good experience. \r\n\r\n",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-02-23T21:30:02Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC451",
+      "review": "Very nice guy, always believes in his students. The class is more organized than 351, so it's easier in that way. It's also harder than 351 in that the homeworks are unbelievably difficult and time consuming, and the exams do not have anything to do with the homeworks (or even the practice exams). The 40% final exam is also scary. At least there is a massive curve. Definitely one of the harder CS classes, plan accordingly.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-01-05T20:51:27.765255Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC454",
+      "review": "I think this is the first review of how Professor Srinivasan has taught CMSC454. This is a midsemester review for Fall 2023. I think the class is well-organized as all the lecture notes and recordings are provided, the TAs and Prof Srinivasan have in-person and online OH, and the TAs and professor are very responsive to questions on Piazza and emails. Prof Srinivasan writes his notes in OneNote and records via Panopto and uploads them later in the day so people who were absent can catch up. He highly encourages students to come to lecture in-person though. The TAs did a great job at answering my questions and providing guidance during OH on HW and clarifying concepts. The HW problems aren't too bad as we get to work on them in groups of 3, which is very convenient and a nice effort on Prof Srinivasan's part to help students further learn how to work in teams. The HW solutions are provided a few days after the deadline and we get about 1-2 weeks to work on each HW assignment. We received opportunities to submit regrade requests for HWs. The TAs also organized a review session to go over probability concepts and a midterm review session (those recordings were also made available). We also got a practice midterm from the Spring 2022 semester when Prof Srinivasan last taught the course. Prof Srinivasan does a great job at answering questions during lecture and provides interesting real-world examples for the different data science algorithms we cover. He does a brief review of probability concepts and linear algebra fundamentals as they are essential to the algorithms covered within the class. I would strongly suggest you come into this course having already taken an Intro to Probability & Stats course and Linear Algebra course (STAT400 and MATH240). It will make it easier to keep up with the material. One concern I have about this class is that the actual midterm was more challenging than the practice midterm we received but I'm sure that the TAs and Professor Srinivasan recognize this and will be fair with the grading as they are all very understanding. Aside from that, I would say that this is a manageable and well-structured class. Would definitely recommend taking this class with Srinivasan. He's also a very experienced data science industry scholar.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-10-27T15:35:46.840083Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC454",
+      "review": "Please disregard the 5* rating, this class has been nothing short of unfairly tested! :)",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2023-12-14T02:08:17.644255Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC454",
+      "review": "The professor is very caring about his students, he provides a decent amount of resources for students to utilize throughout the class including another professors' slides that follows the course's topics halfway through the semester, pdfs of class notes, lecture videos, review session videos, and a textbook pdf for the topics that were went over in class. He encourages attendance in his class but it isn't required, and he can be reached outside of class easily with his office hours, email, or Piazza. He and the TAs were also fairly active on Piazza, and were helpful in providing homework hints and topic clarification. The homeworks contained more harder questions that expanded on the topics that were learned for the week that kinda deepened your understanding of certain topics. You also were paired up with a couple of people to complete the homework as a group, and for me it helped me get the concepts better. The exams contained questions that were easier than the homeworks, but do expect questions on topics he hasn't covered on previous exams as drilling strictly previous exam questions may make you fall short of what you actually need to know. The prof does curve the grades at the end of the semester based on how the class has done overall. Overall I would say this class is challenging but very manageable, definitely brush up on probability and linear algebra if you're not too strong with it.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2023-12-18T17:07:16.045045Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC454",
+      "review": "I made a review about how Prof Srinivasan taught this class back in October 2023 so this is an update for the Fall 2023 semester now that it's over (apologies for the late review). My review is basically the same as the midsemester one I made. The first thing I wanted to add was that we got a practice final exam and a final review session via Zoom and in-person. The actual final exam is cumulative and was slightly more difficult than the practice final. I still recommend students to take this class with Prof Srinivasan if you get the opportunity.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-01-01T22:30:19.214588Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC858A",
+      "review": "He was an excellent teacher. Very knowledgeable: made the exams easier than homework, but still doable and challenging. Helpful in OH, teaches you how to think about randomized algorithms in a research context. Explains concepts with significant clarity. Homework was all in groups as well, and this was quite similar to randomized algorithms. Highly recommend",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-02-22T04:41:58.300601Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC454",
+      "review": "tldr: This is a MATH class that is proof-based with hard homeworks, medium-hard exams, and no coding required. You'll learn about algorithms/data structures that have a high probability of working well, but are not perfect and you will have to calculate how often they are not perfect.\r\n\r\nPros:\r\n- Prof Srinivasan is very knowledgable, can answer your questions very well, and will even hold extra office hours for you.\r\n- Records class and posts notes.\r\n- TA's Nitya and Nate are super helpful. Go to their review sessions before exams and you'll feel much more confident about exams.\r\n- Class has some cool content. You get to learn about a lot of hacky algorithms that are used by big companies for various things.\r\n\r\nCons:\r\n- His notes are written on his tablet with OneNote, and his handwriting isn't always the best\r\n- No exam practice materials given. I understand not wanting to \"teach the test\", but it left many students extremely anxious about a 20% midterm on a class with so many topics. The midterm then only covered maybe 40% of what was taught and was pretty manageable.\r\n- Homeworks are pretty challenging, but you get to work on them in a group with 2 others, so you can split up the questions.\r\n\r\nWill update at the end of the semester if needed",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-04-09T20:54:50.350521Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC454",
+      "review": "This class ended up being really chill. Aravind is very a kind prof and cares about your learning full stop. The whole grade for the semester I took this class was 6 HWs (one dropped) and 2 exams. The homeworks were all done in groups and did not have too many parts. \r\n\r\nThe lectures are very boring but he records all of them and posts his notes online. His lecture flow was hard to follow at times, and the concepts got pretty complicated, but he loves answering questions and will work with you very patiently in office hours. He also does not give any practice exams, but the good news is though the exam questions were all incredibly easy versions of what he does in class or what is on the HWs, and if you have any decent understanding of the material you'll do just fine. Overall I think its a fairly chill class to take as an upper level credit, and I would definitely recommend pairing this class with another that has a much higher workload as this one was super manageable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-16T21:29:14.678461Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC454",
+      "review": "CMSC454 with Aravind Srinivasan is an overall fairly decent experience. Firstly, I want to preface that while this class does not require any statistics or linear algebra prerequisites, it heavily focuses on both, and will require a significant commitment to get used to if you're not already familiar with them. The class is 45% Homework, which was graded extremely leniently, worked in groups, and was fairly easy to get 100% on. The tests, however, were 20% and 35% over two exams. Most of these tests and homework require a lot of proof, stats, and general creativity/work. For that reason, even though the first test was much easier than the homework, it still gave people a lot of trouble, and the median ended up being around 50%. \r\n\r\nProfessor Srinivasan did make sure to make the final easier, which did help, but I still want to preface the fact that this course can be quite difficult if you don't have significant math experience. When it comes to the actual content of the lectures... it was sort of back and forth. The material was interesting and could often get extremely advanced/difficult to follow along with. You often didn't need to focus on all the material for the tests, which did help. Sometimes the lectures overall could get a little bit messy with the math, but luckily, they were recorded. Professor Srinivasan is overall extremely nice and willing to help you and answer any question, despite the complexity of the material.\r\n\r\nOverall, I would not recommend taking this class if you're not interested in it/have good confidence in your capabilities of doing math. I would also really, really hammer against using AI for any of the homework, because it will hurt your ability to study for tests.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-20T02:20:20.538330Z"
+    }
+  ],
+  "name": "Aravind Srinivasan",
+  "slug": "srinivasan"
+}

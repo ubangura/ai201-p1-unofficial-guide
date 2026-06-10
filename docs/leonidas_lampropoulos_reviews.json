@@ -1,0 +1,80 @@
+{
+  "courses": [
+    "CMSC631",
+    "CMSC430",
+    "CMSC838G",
+    "CMSC488B",
+    "CMSC388X",
+    "CMSC631",
+    "CMSC838G",
+    "CMSC631",
+    "CMSC433",
+    "CMSC631",
+    "CMSC433",
+    "CMSC631",
+    "CMSC389X",
+    "CMSC433"
+  ],
+  "average_rating": 4.8571,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC488B",
+      "review": "I didn't take away much from this class, but that's kind of my fault for slacking off. All in all the professor is great and explains things well. Just be prepared to spend a good amount of time on each project. The midterm was pretty fair though.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2022-04-19T18:57:36Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC488B",
+      "review": "Genuinely amazing professor. Taught the concepts really well and was also super open to any questions or related topics or even ways to do things that weren't originally part of the lecture. The class felt very interactive as a result, and, if you paid attention, you really got a lot out of it. In addition, Leo is also super easy to talk to about topics during or after class - and is generally just always very approachable. He's very enthusiastic about what he teaches and you can really tell. Class discussion was over Discord so you can get very quick feedback on any quick questions on the content or assignments. The projects were all really fun while remaining adequately challenging and workload was never too high. Leo made this probably my favorite class at UMD and I cannot recommend him highly enough.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-16T06:17:52Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "Amazing professor. Often grants extensions if he feels the class needs it, and ensures we understand the projects fully so that we are all successful. The midterm was really difficult, but projects are manageable so a good grade is definitely doable.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-02T02:29:34.559710Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "An excellent professor. He is very helpful and informative during office hours and he answers questions very quickly on Discord. He is very understanding and will sometimes give students additional time to complete assignments and also does a great job of explaining important concepts in class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-21T05:43:47.689198Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC631",
+      "review": "An excellent professor who was extremely lax with assignments and whose lectures were concise and easy to follow. Homework assignments were based on lecture material and were generally easy to follow. The midterm was a bit nuanced but fair, and the final project was a gimme for the course. Awesome guy and appreciated the use of discord for class communication.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-10T23:12:04.973522Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "overall, great professor! he definitely wants students to succeed; he records most lectures (except for review sessions) and provided extensions on 2 of the projects solely because many students were asking him. i personally found it a little difficult to follow his lectures since he's fairly monotonous, but he himself seems to be quite kind and understanding. the projects were all pretty straightforward except for the parser project, and his exams are tricky with the averages being fairly low (he did provide a pretty generous curve to account for this, though). my only nitpicks would be that he uses discord rather than a forum like piazza (i think discord is worse for organizational purposes, as it was a little hard to tell what had previously been asked/answered), didn't record his review session lectures, and didn't provide an answer key for the practice midterm or actual midterms themselves (granted, he was willing to answer questions via discord; but since he didn't provide answer keys for our midterms and his rubrics are incredibly vague, it was difficult to determine what was or wasn't regradeable). overall though, i enjoyed his class a lot!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-06-02T01:28:50.565168Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC631",
+      "review": "very cool and chill professor - the class was pretty straightforward, which most of your grade coming from homework assignments that were extensions of class content and released on tuesdays + thursdays, with both assignments due the next tuesday. we also had one midterm where the median was 80%, and a final project where basically everyone got 100% (i think the low was a 95%). honestly, not too many complaints about this class - i ended up not being as interested in the content as i thought i would, but the class was still very manageable",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-25T18:11:34.162492Z"
+    }
+  ],
+  "name": "Leonidas Lampropoulos",
+  "slug": "lampropoulos"
+}

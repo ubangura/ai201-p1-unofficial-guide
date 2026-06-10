@@ -1,0 +1,299 @@
+{
+  "courses": [
+    "CMSC425",
+    "IMDM227",
+    "IMDM101",
+    "CMSC425",
+    "CMSC425",
+    "IMDM227",
+    "CMSC425",
+    "IMDM101",
+    "CMSC398C",
+    "CMSC425",
+    "CMSC425",
+    "CMSC425",
+    "IMDM227",
+    "CMSC425",
+    "IMDM101",
+    "CMSC425",
+    "IMDM227",
+    "CMSC425",
+    "IMDM101",
+    "IMDM127",
+    "CMSC425",
+    "CMSC425",
+    "IMDM227",
+    "CMSC425",
+    "IMDM101"
+  ],
+  "average_rating": 3.0909,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "I really enjoyed this class. Stevens clearly put in the time for each lecture, and made the class interesting, with lots of live coding examples. Plenty of supplemental material to go along with the lectures as well, and VERY generous with how the class was graded. I'm talking getting a grade back, being permitted to fix the problems, and resubmitting for FULL POINTS. He did reverse curve at the end of the semester (which was scandalous and caused a huge conflict), but honestly, just doing the minimum on the assignments and the easy exams netted me a 97 in the class. I don't consider myself a genius either. The only reason he upcurved is because everyone was doing so well in the class. Highly recommend him as a professor, and I would definitely take him again.   ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-01-25T21:11:45Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Do not trust these IGNORANT 1-star reviews. He upcurved because this was the easiest class in all of existence. HE LETS YOU REDO PROJECTS FOR FULL CREDIT. If you get a bad grade on a project you can just resubmit a week after the deadline for full credit. All of his projects are super straight forward and he has great informative lectures. Rubrics were super straight forward and his exams were also very straight forward (one exam which is a 40 question online assignment with no time limit). He was super nice and down to Earth, not pretentious like some ignorant people say. The midterm wasn't even an exam it was just a project that he gave you 2 weeks to do. He also records all of his lectures. \r\n\r\nStevens was by far the best CS professor I have ever had. Anyone who tells you otherwise is just mad they didn't take advantage of his resubmit policy because they didn't think he would up curve even though resubmit policy is so BS and overly benefits the student. I didn't even need to use the resubmit policy because the projects were so straightforward and easy to understand and do.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-01-25T21:11:58Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Curving backwards is unacceptable, a teacher should not move the goalpost and suddenly tell students the grade they've been working towards is now a different grade. A LOWER grade.\r\nAlso I'm 99% sure Miller wrote those good reviews himself:\r\n1) They're both posted on the same day\r\n2) Who writes a review the day before the next semester starts, and the class has been over for 4 weeks\r\n3) If you go to rate my professor there is another good review posted, what do you know, the same day as the good reviews here.\r\n\r\nMan has to write his own good reviews.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-05-28T16:21:25Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "This is the definition of a 2-star class. The material was original and the lectures were just interesting enough to keep me from withdrawing.\r\n\r\nThe class is terribly organized for the following reasons:\r\n1. Homework assignments are out of between 4 and 7 points, so when you lose half a point on a question, it turns out to be around 10% of the total grade for the assignment, even if your mistake isn't that big.\r\n2. Assignments are graded without any indication of what you lost points for (rubric not filled out and no comments), so for each assignment, you have to make a piazza post asking where you lost points. Archaic and pointless way of doing things. Also, they don't post solutions for most of the homework assignments.\r\n3. You have two days to request a regrade on assignments, which is unreasonably short when they don't post solutions and you have to ask what you lost points on.\r\n4. You're only allowed one submission per assignment, so if you submit and then realize you did something wrong you're out of luck, even though the deadline hasn't passed yet.\r\n5. You'll lose points on questions if your answers contain too much information. Whatever that means.\r\n6. During some of the synchronous lectures, he just played recordings of his previous lectures, which is fine, but why hold synchronous classes if you're barely going to interact with the students?\r\n7. While my class didn't seem to experience a downward curve (perhaps even a slight upward curve?), the possibility of having one is absolutely ridiculous. It really just exemplifies how poorly organized this class is. If the students do well on the assignments, they should get the grades they earned, and if the assignments are easy enough that everyone aces them, make them harder. Don't leave me guessing whether I'll be bumped down a grade because you're having a bad day.\r\n8. Somehow after all the assignment grades were in, it took them over a week to put in final grades, which was incredibly stressful given the lack of transparency regarding the curve.\r\n9. There was no mention of redoing assignments for full credit, so I'm not sure where the previous reviews got that from, but this was the summer session, so that could be part of it.\r\n\r\nNo single point is that bad on its own (except maybe curving down), but it's infuriating to deal with poor organization in every part of this class. Game programming is cool, and I learned a bunch, but it wasn't really worth the stress and poor organization.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-07-23T02:40:23Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": null,
+      "review": "The dude really went and wrote 2 reviews on the same day and capitalized the exact same points. Poorly organized class",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-08-02T02:44:39Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM101",
+      "review": "If you're going to take this course and not do the major, do NOT take it with Stevens. While very VERY knowledgeable, he is really harsh and critical for a 101 level course. He grades really harshly and if you're new to programming you might struggle with class content. It is literally his goal to keep you from getting an A at all costs. While that's funny and all for upper level classes, in my opinion it is brutal considering its literally an an intro course. You have been warned.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-05-15T05:02:20.437726Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Course consisted of weekly/biweekly homework assignments in Unity covering all sorts of topics in class. Final project is the semester long creation of a game with your (5 person) group. There was also an exam the week before the final game is due of 30 multiple choice questions covering the class. \r\n\r\nI personally felt like the homeworks were tough and took a good bit of time but were definitely doable. Stevens clearly has a ton of knowledge about the field and is very passionate. Overall I felt like a lot of the lectures were slow and repetitive and not always relevant to things I needed for assignments like the final project. For someone interested in game programming and entering the field the lectures would likely be much more interesting. Had to do a lot of self research for assignments, especially the final game (Lot of Unity documentation) but the final project was fun and rewarding and  you can really do whatever you want. \r\n\r\nThe class is certainly not a walk in the park, but its not a bad class to take if you need a class.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2023-11-29T15:49:42.353535Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM227",
+      "review": "average teacher. he underestimated how hard his assignments were, so he extended the due dates to almost all of them. if anything, it feels like he's still trying to get his footing with how to teach this class. lectures don't relate to the assignments as much as they should. if you don't understand the basics of coding (like logistically), the class will be a bit harder. i came in with little c# experience but the class was manageable.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-12-21T05:31:19.478624Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "This was a decent class. The lectures were somewhat dry, but I felt I learned a few interesting tricks about Unity Game Programming. There were HW's every two or three works, and they were tricky because we usually did not learn how to do them in class. They took maybe 4-5 hours each. The final project was making a full game, and I had fun with it. The final exam was reasonable. \r\nThis professor reminds me of Larry Herman--he is quite particular about rules and he is very specific about how he says things. He also has the same sort of monotone voice. If you don't follow his strict rules, then he gets angry with you, which I didn't appreciate.\r\nI'd suggest this class to anyone wanting to get into game programming.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-28T04:26:43.657553Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "His lectures are a little boring, but he makes up for it with easy projects. He's very understanding as an instructor (I accidentally submitted a wrong file for an assignment and he gave me credit back after I submitted the right one). Final project is make or break and he's consistently putting emphasis on starting early, so choosing good teammates and sticking to a development schedule is important. He takes the class and the projects seriously, but as long as you're respectful and reciprocate his passion for the course, it's pretty fun overall.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-07T17:44:31.062113Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "I think that Stevens means well. He is clearly a big fan of game programming. Unfortunately, this class was basically a trainwreck for the year. His lectures are him rambling at the class about a topic that he sees fit, which are NOT RECORDED, and the notes he puts on canvas do not accurately match the content covered in class. \r\n\r\nWorse still, his homework assignments ranged from pretty easy if you came to class, to mathematical nonsense that we had never seen before. Some of the homework was completely arbitrary and took hours to complete in office hours. Because of the shoddy state of the course's canvas and the lack of recordings, if you don't remember every detail from class, it is downright impossible to do some of the homework. Making matters worse, there are too many assignments that take away from your ability to actually work towards the final project.\r\n\r\nThe final project is team based, and I would highly recommend taking this class with a few people that you already know, because if you get stuck with a bad team, your semester is basically hell. Stevens did not provide any form of rubric or expectations for the final's content, and provided very little useful information on getting it done (besides meta level content about how to be a good team worker)\r\n\r\nThe class content did not teach us anything useful for the final until the last few weeks of the class. This means that to actually maintain a good pace of work on the final, you'd have to go to the internet for tutorials. \r\n\r\nOverall, Stevens ultimately reinforces a lot of the issues that the gamedev industry has, and while I would say that I learned a lot about Unity and game programming, this class was the worst CMSC4XX class that I have taken.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-05-09T15:25:22.029553Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM101",
+      "review": "Stevens is honestly a good professor. I found his lectures genuinely interesting and he's clearly extremely knowledgeable about pretty much anything in the realm of coding or immersive media design. He made his material interesting, the workload was always fair (tbf it is a 101 class...) and he can help you with your code very quickly and explain the problem quite well. Only reason I can't give the 5th star is just because during his lectures he comes off as a bit smug, always reminding his students that not only is he an accomplished computer scientist, but he also has a degree in physics and he's a lawyer. This wasn't entirely insufferable, but for me, at least, it made him less approachable when I did have a problem I needed help on.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-10T16:06:03.641552Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Guy is bland, loves hearing his own voice, and makes such a fun topic uninteresting. The homeworks are infrequent and not very difficult, although he doesn't really teach you how to do them. The final project is fun, but you get left in the dark for the whole semester to do it, without any guidance or progress checks. I'd suggest that if you're interested, just learn Unity on your own, because that's what you'll be doing anyways.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-05-12T21:25:33.483090Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM101",
+      "review": "Thought I would leave a review since I had a very pleasant experience with Stevens and most other reviews seem outdated/inaccurate.\r\n\r\nI found the lectures entertaining and Stevens is clearly very knowledgable about not just the content of the course but also many other fields, and I especially appreciated his input about presentation and public speaking. This class has a big amount of group work, which I think you'll need to be comfortable with if you're going into the IMD major, but if that's not your thing and you're planning on taking it as an elective then you might want to find another option.\r\n\r\nThe grading policies in this class seem to be massively improved compared to the review of this class from last year. While the mid-term and final exam did both feel more difficult than necessary, he gave heavy curves (averaging your actual score with a perfect score on both), and the median for both was a B. He also specifically stated that he recognized this was a 100-level course and was reasonably lenient because of that when it came to grading and late policies. The biggest problem was that there was no written homework in this class and no study guides/practice problems for either test, and so actually sitting down and taking a test on paper felt alien and you wouldn't really know what to expect. I really think this course would benefit from practice exams (maybe some short quizzes on ELMS?) or at least practice problems before the tests. With that said, all of the questions were definitely covered by the content posted on ELMS as he promised, and he allowed you to bring handwritten notes to use during the test. My biggest gripe was that no calculator was allowed, forcing you to do arithmetic (including long division) by hand. The vast majority of questions didn't involve math anyways, but this restriction felt very arbitrary, especially in the context of a major/field that encourages the use of tech to solve problems.\r\n\r\nOverall I get the impression that Stevens has taken the feedback he received previously into consideration and made an effort to improve those aspects of his teaching, which to me is the most important indicator of a good professor and why I'm even bothering to leave a review.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-19T01:06:15.462419Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "The class was engaging and his lecturing was very good. It could have been a bit better with some more concrete materials to follow along with, but could be hard due to the nature of the material. He was very fair with his grading and requirements. The HWs were a bit hard, but manageable. The final project lasted the entire course, where you have a team of 4 others working on making a video game. I got a bit stiffed because of an absent teammate, but overall was a fun and rewarding experience.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-31T13:56:50.702012Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Stevens is a really cool dude. He was a lawyer for a long time and then decided to start teaching college students how to make video games. He's super knowledgeable about the subject and holds more knowledge and sophistication in Unity programming than most YouTube tutorial creators have. His lectures can get a little dry and it's easy to lose focus due to his calming voice (think Larry Herman), but he speaks well. He touches on all aspects of game development; mainly coding, but also art, geometry, music, psychology, and laws.  He's also super reachable outside of class and makes himself as available as possible. Your main assignment is to work in a team of ~5 other people to create a 3D game of your own over the semester, and to present and submit it at the end of the semester. I had a good team and really enjoyed working on our game. I'd suggest this class to anyone with a decently strong interest in game development, but it was also difficult and a lot of work, so I wouldn't take it as a random elective.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-31T16:17:40.951433Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM227",
+      "review": "This course is a mixed bag. It's definitely a step down from IMDM101, and a lot more focused on coding. Every class consists of lectures about random topics and demonstrations on Unity/Avalonia that may/may not be helpful for the assignments. I'd recommend taking notes because I found myself slightly distracted in class, and then completely clueless on some assignments. As of Fall 2024, there are only projects, and no exams. The content feels very disorganized, as if it's not even targeted towards us students. Luckily, as someone without much coding experience, a lot of the assignments can be done with other people. For the individual assignments, the TAs and the professor definitely helped with questions. It's just annoying when you have to ask someone for help for nearly EVERY SINGLE ASSIGNMENT! This would've been a different experience if it weren't a 9:30 class. I did get through most of the projects, and when I couldn't finish one perfectly, I still got partial credit. The assignments aren't meant to be time consuming, but they can be if you don't know what you're doing conceptually. Professor, TA, and other students in the class are all open to help you so don't be afraid to ask.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-11-15T23:47:37.288422Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "The class is interesting enough and Stevens is an entertaining guy in terms of personality but his lectures are the most boring thing I have ever endured. The content is also super disorganized. Instead of having a clear schedule of content he just posts modules on with dense paragraphs of confusing concepts that he doesn't even cover in class sometimes. He provides some example code but again accessing it is disorganized and there seems to be no real emphasis on what topics are important. Each assignment is weighted its percentage of your grade, so a project worth 15 points is 15% of your grade so losing one point is pretty detrimental. The final project is 40% of your grade and the presentation is super stressful. He literally pulls up your code and  goes line by line why you did what you did. If you have experience with unity, work well in groups, and are okay with disorganized content, this class is really cool. Otherwise, just take CMSC335 and go on with your day.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-12-04T21:45:24.947806Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM227",
+      "review": "I have now taken Stevens Miller twice and I felt it necessary to write him a new review. In my old review I said that his lectures were interesting and that he is extremely knowledgeable in multiple fields, but that he could be a little bit smug about his background. This semester, however, I have not noticed that. I am not sure if I just got used to it or if he has genuinely improved, but either way, I no longer feel like he rubs his intelligence in your face, not that he ever did so on purpose, but I certainly felt that he did so nonetheless. I will say that his mastery of computer science, background in physics, and a degree in law does make him a little intimidating and hard to approach for me. Nonetheless, he is extremely knowledgeable and explains concepts in very interesting ways; a lot of his lectures also include tangents about how older technology (like CRT TV's) functioned, which I find genuinely interesting, but I could understand someone disagreeing. If you are into Computer Science or Immersive Media Design, you will probably find him interesting if you come to class and pay attention, but I wouldn't take him as an elective/for fun. His content is interesting and taught me a lot and he has also been very lenient to me during an ongoing medical issue of mine, and for that I could not be more thankful.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-10T02:41:08.215014Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Stevens is great. He's super coherent and deliberate, probably from his lawyer days, and it makes the lectures way more interesting. Listening to him is simply awesome and engaging. However, the class itself is heavily dependent on 2 things: 1. the group for your final project, 2. how much unity knowledge you know beforehand. I knew absolutely no unity, so some of his lectures threw a lot at me way too fast and he doesn't teach everything you need to know for a game like animations and sound design. Also, the homeworks take a bit of time, only half of them are useful, and some of them take a good bit of math which I was not exposed to beforehand. I'd take the class if you can balance it, but don't think of it as an easy A. Most of all, remember it is a game PROGRAMMING class. You will not be playing games and you will spend a lot of time trying to debug. For some reason, some people think the class will be as fun as playing games which doesn't make sense to me.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-21T23:37:42.283485Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM101",
+      "review": "This class was incredibly interesting and I learned a lot of very cool things like animation and computer design. With that, it was incredibly difficult for me. Stevens has apparently gotten more programming heavy in recent years, and as someone who has never coded, it was a challenge. The grading was also kind of harsh. He says that you don't have to have written a single line of code to be in the class, but it really isn't true. He'll go slow in the beginning, but be more demanding with the code and expectations as the class moves on. He lectures a unit/how code is written for one class, then assigns an assignment to use the skills he just lectured. Understanding how code runs is a very different skill than writing code!!!! He is open to office hours and meeting outside class, but if you don't have experience with code or C# or Unity, this class will be very hard for you.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-05-06T14:27:02.863003Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Stevens is an old-school professor. His assignments are graded surprisingly strictly, and he docks points for little mistakes, so make sure to make sure they are perfect before you submit. As for the final projects, he is a stickler for making sure you incorporate stuff from class. He also roasts students during final presentations, so be ready for that. Otherwise, it is a reasonable class that is very well structured and he is up front with his expectations from the beginning,g which I like. Would recommend.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-15T15:02:50.386580Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Lectures are pretty decent if you can pay attention. He's not the most interesting to listen to but he explains the content pretty well. He posts a lot of lecture material and extra course material on ELMS so you can go back to it to see examples that were presented in lecture later. He also posts most of the code so you can (mostly) copy any of it if it helps you for an assignment or the final project. \r\nI gave him 3 stars because his grading is unnecessarily stingy. For pretty much every assignment he and his TAs will find any and every reason to knock points off. Also, some assignments aren't particularly clear, so you can't be sure if you uploaded perfect work.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-11-17T02:15:52.312931Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "This class was not interesting at all and has honestly been more of a headache than anything. This class had a quiz, semester long group project, and various other programming/math assignments throughout the semester. The grading is VERY strict, so make sure you do extra work on top of the rubric to guarantee full credit. In addition, assignment details are designed to make your life harder for no reason. For example, we had an assignment that had a specific due date listed on canvas, but when you open the assignment details, he would manually write down a WHOLE OTHER DUE DATE which he preferred over the one he set on canvas. So, this means that if you submitted your assignment before the due date listed on canvas, your assignment would be late. He also has a policy of NOT accepting ANY late work.\r\n\r\nLectures are extremely dry and pretty much a mandatory attendance because he would sometimes have graded activities in class that he would not announce ahead of time.\r\n\r\nThese graded activities are usually done on the days where there are legitimate reasons to miss class. The first graded activity he did was on the LITERAL first day of class, and the other was done on the day before Thanksgiving break which, mind you, practically every other class cancelled because some people just can't show up.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-26T17:25:45.471653Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "This professor is a strict grader so just by following the rubric will not get you an A. Some of the assignments were nonsensical and harder for no reason at all. I tried contacting him for help on one of these assignments but received no response. It\u2019s almost the end of the semester and I have yet to see anything. Don\u2019t bother sending him an email he won\u2019t read it.\r\n\r\nAssignments also take a long long time to grade. We have assignments from last month that still have not been graded. On the note of assignments, they are pure chaos. It ranges from writing, programming, and pure math.\r\n\r\nI think what I hate the most are what he calls in-class activities which are graded exercises that requires you to be in class. And they are on random days.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-03T00:30:37.637971Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "This class is really disorganized. Most of the time, you end up teaching yourself the material for the semester-long project before it ever gets explained in class. Stevens also does random in-class \u201ccrunch time\u201d coding challenges that last about 30 minutes, and he never tells you ahead of time. Because of this, basically every class is mandatory, even the day before Thanksgiving break, when all other classes were canceled and most people skipped. Stevens is also kind of a hit or miss. Sometimes he seems like a nice person, but other times he just criticizes everything you do. \r\n\r\nThe whole class is centered around a semester-long group project where you make a game and present it at the end. During the presentation you demonstrate your game to the class and at the end he will go through your code. You would think he would ask questions about your code to make sure you wrote it, but actually he points out everything that is wrong with your code. The lectures and slides are all over the place, and the homework assignments don\u2019t really line up with what we\u2019re covering at the time. Due dates are also confusing: he\u2019ll say something is due one day, but Canvas will show a completely different date.\r\n\r\nGrading is frustrating too. Every point is worth 1%, so it\u2019s hard to tell how you\u2019re actually doing in the class until the very end, especially since the final game is worth 35% of your grade. Partial credit feels random. Sometimes you get some, sometimes you get none, with no clear explanation. There\u2019s also an early quiz on rotations at the early days of class and you pick groups for the game project (make sure you get a good group who have diverse strengths).",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-13T03:24:18.724687Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Unity Tutorial but it's in person. \r\n\r\nHe's passionate about game development sure, but he is extremely bias and grade super strictly. Most of his content is just \"here's how to do this\" as if he's recording a Youtube video. He would throw in random graded assignments during a random day he felt like. Who throw in 5% of the entire class grade one day before Thanksgiving? Without announcement? I'm pretty sure only 1/5th of the class were there. \r\n\r\nInstructions for assignments are just vague. He graded based on how he understand his instructions. The instruction was just \"describe your game project mechanic\", and our project got minus point for \"okay but that's really not a game mechanic though\"\r\n\r\nDuring Final Project showcase, he would straight up demotivate you if he thinks your project is just ass. If he thinks the project is good to his liking, he would straight up announce \"PAY ATTENTION, THIS PROJECT IS VERY SOLID MATERIAL. BE LIKE THEM!!!!!\" in front of the whole class. I can't wait the final project that is vague and we worked so hard on the entire semester get an average score because another team did better.\r\n\r\nTldr; Fun Class! Fun Content! Teacher is a narcissist, would throw in random assignments unannounced. He basically treat this class as a competitive game market, who grades the final project based on how other project does? Takes creative of game dev and turn it into something tedious and competitive.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-12-19T01:20:50.602155Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "I honestly wish someone had warned me before I took this class. I have no idea how this guy doesn\u2019t have worse reviews. Taking it is my own fault. Don\u2019t make the same mistake as me.\r\n\r\nStevens gives a small introduction to Unity, but it is nowhere near enough to actually prepare you to use it. Unity is not something you can learn just by listening to lectures or reading notes. You have to actually use it and practice. Expecting students to basically teach themselves a complicated game engine on their own time is pretty unreasonable, especially for a CS elective. Maybe that\u2019s fine if you already care about game development, but that expectation is never made clear.\r\n\r\nThe course itself is extremely disorganized. There is no real structure, and topics jump all over the place from week to week. On top of that, he gives \u201cChallenges\u201d during random lectures, and if you miss them, you miss the points. Each one is worth 1% of your final grade. Missing a single class can directly hurt your grade, which feels more punishing than helpful.\r\n\r\nLectures are also very dry. He talks in a complete monotone and clearly enjoys hearing himself talk, but it makes it really hard to stay engaged unless you already love the topic. A lot of what was covered in lecture felt irrelevant to the actual assignments, which made sitting through them even worse.\r\n\r\nMy biggest issue by far was grading. The instructions for many assignments were vague and hard to understand. While example code was given, it often did not clearly show what was actually expected, and students were left guessing. On top of that, grading was extremely harsh. On one assignment worth 10% of the entire class grade, I had a fully working program that was missing one very small object, and I lost three points. That is three percentage points of the entire class for a tiny mistake.\r\n\r\nThe final project was also pretty bad. It is worth 35% of your final grade, yet the instructions are unclear and lack detail. There are no real progress checks, and it is hard to know how well you are doing because you have very little idea of what constitutes a \u201cgood\u201d game. You basically just hope you are on the right track until it is graded.\r\n\r\nThis is easily the worst CMSC4xx class I have taken, and it is not close. I had a much better experience in CMSC351 with Clyde Kruskal, which says a lot.\r\n\r\nUnless you are genuinely interested in game development and already have experience with Unity, I strongly recommend avoiding this course. Take CMSC335 or CMSC320 instead.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-12-19T01:23:34.688895Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Pros: I think Professor Stevens is a good lecturer. He explains concepts in Unity pretty well. I believe the topics we learn in class are actually pretty interesting. The class itself is pretty light, with homeworks with a lot of time to do, a semester long project, 1 quiz, and in class activities. The class itself was pretty straightforward, I think you should take this class if you don't mind working on a game that you present at the end of the semester instead of a final. \r\n\r\nCons: The in class activities are unannounced. One was on the first day. One was the day before Thanksgiving break so make sure you come to class that day, unless you don't mind losing those points. The homeworks are graded very strictly. Like very strictly, so make sure you go over your answers. Some homeworks didn't really have much to do with game programming themself but more so was more \"mathy\", even though it was still game-related, it felt a bit overkill. This wasn't really that bad though to be honest, so don't feel intimidated by that. Some homeworks, you won't know how to do from the lectures, so you are basically on your own to figure those out unless you get help from a TA. \r\n\r\nMOST IMPORTANTLY\r\nPLEASE PLEASE PLEASE PICK your groupmates carefully for the final project. You passing the class basically depends on this project. You don't want to be working on it a lot towards the end of the semester because you'll have other finals. My groupmates didn't really contribute much (one quite literally didn't do anything) and there were other groups who had group members drop mid semester. Pick your group members carefully, and work on it throughout the semester. A lot of people underestimate this.\r\n\r\nI think this was a good class. If you are looking for an elective to take, then take this one. The main things to worry about are the homeworks which get graded strictly, and the final project. Other than that, it was easy.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-22T00:57:23.630758Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "IMDM227",
+      "review": "Really strange guy. If you're interested in the history of programming and computer science, you'll love his lectures. If not... you'll definitely want to fall asleep every day. His assignments for 227 are very closed-ended (aside from the final), and you have exactly zero creative freedom. And I don't usually mention TAs, but his choice in TAs is pretty awful as well. They will take 3 points off a 9 point assignment for slightly misunderstanding one part of his extremely convoluted assignment descriptions, and will never grade anything in less than 3 weeks. \r\n\r\nTLDR; easy class held back by kind of ridiculous TAs in some cases, and boring lectures with no creative freedom on assignments.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-12-23T18:39:24.369147Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Hard deadlines, strict grading, somewhat interesting lectures, and random graded activities in class (so make sure you attend, especially the day before Thanksgiving break).\r\n\r\nThere is a semester-long project, so choose your group wisely. It\u2019s very obvious when a game only had the effort of 3 people compared to a full group of 5.\r\n\r\nStevens rating makes sense at around 3-4 stars. I\u2019m giving this class a 4 mainly because I like game dev, and the final project was pretty fun in my opinion. Just don\u2019t go into this class thinking it\u2019s an easy A. You should at least be interested in the content.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-25T19:37:00.359293Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "Pretty boring lectures, and I didn't learn much from them. I learned more about the projects/homeworks. The grading is not very strict; you have to be trying to lose points to lose any. There was an in-class quiz on rotations that was literally just common sense, like you just look at a plane, and the question is like \"rotate it 90 degrees, which way is the nose pointing?\" Overall, a free A, the final project was pretty fun, but 3/5 of us were actually doing work. I'm not sure what the person below is writing about the due dates. I submitted basically everything at the Canvas due date, and one assignment I submitted late, and it was still graded as if on time.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-27T03:37:40.733933Z"
+    },
+    {
+      "professor": "Stevens Miller",
+      "course": "CMSC425",
+      "review": "This class is very interesting. I didn\u2019t like the random in-class assignments, which often felt strict in grading. The homework progressively gets more challenging, and success in the class largely depends on self-learning Unity and the course topics. One major downside is that feedback is often unclear, so when points are taken off, it\u2019s hard to understand exactly what went wrong.\r\n\r\nMY ADVICE (pls pls pls read this carefully): The final project makes up a large portion of your grade, and grading is strict. Make sure you have a clear idea of what game genre you want to build. This was a mistake I made. I ended up working on a project I wasn\u2019t very interested in, which made it much harder to contribute meaningfully. I even had to pull an all-nighter just to get it submitted. You also have to present the project and understand the code very well, since he will pull up any random snippet and ask you questions about it (if you can't answer it properly, you're basically cooked).\r\n\r\nPersonally, I didn\u2019t feel like I learned much from the lectures or ELMS materials, and they often made things more confusing. The professor is clearly very knowledgeable, but the focus sometimes felt misaligned with what I expected from an elective-style game programming class. There was also a quiz on rotations that felt more like MATH431 than game programming, which affected many students\u2019 grades.\r\n\r\nI\u2019d still recommend taking this class though. The workload can be heavy, but it\u2019s manageable if you space your work throughout the semester. It\u2019s doable to get a decent grade if you put in consistent effort. Learning Unity is certainly valuable, and it\u2019s an engine used across many domains, so the skills do transfer beyond this class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-01-15T19:47:57.220420Z"
+    }
+  ],
+  "name": "Stevens Miller",
+  "slug": "miller_stevens"
+}

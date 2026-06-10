@@ -1,0 +1,259 @@
+{
+  "courses": [
+    "CMSC330",
+    "CMSC818O",
+    "CMSC389O",
+    "CMSC818F",
+    "CMSC389R",
+    "CMSC798",
+    "CMSC614",
+    "CMSC414",
+    "CMSC388U",
+    "CMSC396H",
+    "CMSC388U",
+    "CMSC388U",
+    "CMSC396H",
+    "CMSC614",
+    "CMSC396H",
+    "CMSC614",
+    "CMSC396H",
+    "CMSC414",
+    "CMSC396H",
+    "CMSC614",
+    "CMSC396H",
+    "CMSC414",
+    "CMSC396H",
+    "CMSC414",
+    "CMSC389Y"
+  ],
+  "average_rating": 4.2143,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "AMAZING AMAZING AMAZING Professor.\r\nOne of the best professors I had at UMD.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-05-04T04:26:33Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Wonderful lecturer. Great teacher, and great guy in office hours. His projects are difficult and the specs contain typos, but I believe that is the fault of the grad student TAs, not Dave's. I recommend taking the class, but make sure we're working with someone.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2018-05-11T00:00:28Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Best lectures I've had for a computer science course. Lecture recordings were also posted online so attendance wasn't mandatory. Exams and projects weren't easy but they were certainty fair. Highly recommend taking CMSC414 with professor Levin.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2018-06-02T16:50:16Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Love this man. We would do our work in the student lounge, he would pass by and say hello since he recognized us and would hang out for a little while or ask us about the class. Always went up to him after lecture to ask questions and he was very cool about it.\r\n\r\nThe material itself I became less and less interested in. The exams were quite open ended. A lot of short answers and a few multiple choice or word bank style questions thrown in. I did awful on all the exams, but fortunately the projects for the class were 50% of the final course grade. I did very well on all the projects but they were quite challenging...Basically they are a bunch of individual tasks you have to try out and they range from write a .c file that does this or make a txt file with a piece of code that does blah. \r\n\r\nI really disliked the final project which was a paired/team project. It caused me a lot of distress. Also several people did not submit a working project so there were only 20% of the class where you had to try and 'break' their code and write reports about it.\r\n\r\nTaking this class, I learned that Security is NOT for me. This class was more security than it was Networking which I actually like a lot more. Maybe the last month or so was focused on the Networking aspect of the class which I found quite disappointing.\r\n\r\nIf you like security and networking, Dave is the man for you. His shiney bald head will make you fall in love with him.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2018-07-29T19:06:00Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Favorite cs professor ive had. great lecturer. super nice guy. projects and exams were extremely fair",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2018-10-23T21:37:32Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "He seemed like a good professor, but I think co-teaching 414 was a mistake. Between the three professors (Bobby, Michelle), he was the best lecturer but was barely there and oftened talked about the more interesting but less important (for exams) topics.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2019-06-11T18:01:44Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Great lecturer, poor administrator. He co-taught the class with Bobby and Michelle and logistics were an absolute nightmare. Project descriptions were changed in random, unpinned Piazza posts at a whim, right up until the day a project was due. Points were deducted arbitrarily as there was no grading rubric and no defined test cases on the submit server like there are in other cs classes, so if you fail a single edge case that might have been covered in one test on the submit server, it could cost you a lot of points. After a while into the semester his lecture start to sound more like Ted talks than informative lectures about cyber security. At least they were entertaining. Build it break it at the end of the semester was very disappointing. Most of the points were just for writing a report, and there was very little emphasis on actually trying to break your peer's code.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2019-11-17T20:21:41Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "He is a super passionate professor that knows a lot about security. His lectures are great since he seems to really enjoy it, and brings up ideas from his research and experiences. The only negative of his lecture style is that he doesn't do a lot code modeling which hurts some students.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2020-06-08T21:29:27Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "(Disclaimer: had him during fall 2020 virtual semester)\r\n\r\nHe\u2019s a really chill and caring professor. Some of the projects were a bit difficult, but he provided plenty of extra credit so you can definitely make up for a poor project grade with that. We were virtual so tests were open note, but I thought they were fair. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-26T16:53:55Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Really interesting lectures and great instructor!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-09-28T19:37:37Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "He's nice and includes all sorts of really cool cybersecurity stuff in the lectures including some of his research. The course organization was stressful at times BUT he also gave us a million extensions and wild amounts of extra credit, and the exams were easy and take home. So it all works out, 5/5.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-01-23T02:27:40Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC396H",
+      "review": "The guy is really great. The class has barely any work at all, really just a way to connect with professors to do research with. I was able to do that, so this class deserves an 5 star from me.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-30T18:48:25.546552Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Pros:\r\nExcellent lecturing\r\nKind professor\r\nReasonable grade distribution (projects are weighted 50% and exams are the other 50%)\r\nNice workload (though I wish we have more practice)\r\n\r\nCons:\r\nPiazza is fairly unanswered\r\nProjects are released far later than stated\r\nGrades are far behind schedule. Midterm 2 was a month after 1, but we took the 2nd midterm without having grades for the 1st.\r\nOH are limited <10 hrs a week total with insane queues.\r\n\r\nDave is great. His TAs were the problem imo. I'm giving him 5 stars because he did a pretty great job overall.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-15T08:00:54.153625Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "One of the best lecturers UMD has, but his research is what really makes them interesting. Always has funny stories and is a real expert in his field. Couldn't recommend this class (with Dave) any more to any CS undergrad. The content is super relevant, eye-opening, and you'll learn a lot. First two projects were most challenging. Take the class seriously and you'll be rewarded, not something that can be said about every upper level cs class.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-16T10:05:15.863031Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "The content of this class is incredibly useful, even to those who are going for a career in software engineering, which is something the title might not initially suggest. Dave does a really good job of covering the essentials for all the topics in the class, without diving into details that aren't relevant. He reminded us regularly that this is not a course in networking or crypto, and thus when we get to the security of those topics we treat concepts as \"black-boxes\", as in he goes over applicable functionality without diving into details. This is something I really appreciated, because it kept the class relevant and focused on security.\r\n\r\nAssignments in this class are each weighted heavily because there aren't that many of them. Projects are generally somewhat difficult, but you have plenty of time to work on them and they reinforce the topics well. The exams are fair, the questions are hard but he gives tons of partial credit and practice exams.\r\n\r\nThe grading in this course wasn't great. It took about 6 weeks to get our midterm 1 grade back, and some of the project grades didn't come back until weeks after the deadlines. Going into the last week of the semester a lot of students weren't sure where they stood in the class since we were missing a lot of our grades. He frequently missed the deadlines he set for himself to get grades back to us. This was my only real complaint with the class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-19T20:10:33.995910Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Dave's an engaging lecturer and explains topics relatively well. His exams are fair, but he likes to throw some curveballs. The projects were not too difficult, but the TAs were awful. The only issue is that he's really bad with course organization. Projects and midterms have an extremely late turnaround which can get quite annoying. However, he makes it up by lowering cutoffs and giving extra credit (up to 5%). He covered some topics this semester such as ML security which didn't fit in the scope of the class, and he also didn't do the traditional build-it/break-it which was disappointing.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-05-23T01:42:38.967959Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "INST335",
+      "review": "Dr. Levin is a great professor; and very dedicated to her students. She is very knowledgeable in her field and committed to her students' success. Her lectures were not only informative but also engaging, and directly connected with real-world situations. Each class session felt like fun, and I always was looking forward to attending her lectures.\r\nProfessor Levin is always accessible after lectures, she not only teaches but mentors students and she is eager to provide support every step of the way. I am grateful for the opportunity to learn from her and cannot recommend her courses highly enough. If you have the chance to study under Professor Levin's guidance, grab it\u2014you will not be disappointed.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-06-11T14:25:16.564629Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "I had an A in this class but he refused to acknowledge my regrade requests and ignored all my emails so I received a 17 percent on project 4 and my grade dropped 3 letter grades gg",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-08-27T19:17:09.885586Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC396H",
+      "review": "This class is super fun, Dave is like the best at talking about stuff it actually made the class so fun, that being said I always got the vibe that he didnt care a lot about the class itself, the canvas wasn't open until like 3 weeks into the semester, and the final project felt kind of disorganized and we didn't get too much guidance (that being said I think most people didn't seek out guidance and he did offer guidance if needed). Gradewise the class is super easy, it was mostly graded for completion. I would recommend taking it since it also counts towards your CS electives",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-20T13:44:06.780715Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "wonderful lecturer and really cool guy! it's a hard class but he's super passionate about the material and it shows in every class, so the course was really enjoyable despite the difficulty and i feel like i learned a lot\r\n\r\nprojects and exams were really challenging and grades take a while to get back, but tas and class materials were pretty helpful with both of them",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-21T04:28:48.622080Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC396H",
+      "review": "Not much to say here since this class is very chill: the only work are a few discussion posts at the beginning of the semester than a research project that you must present and write-up a formal paper for. Dave is pretty cool as a guy, but I can't speak to his teaching since he wasn't doing much of it this semester.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-23T18:16:49.668577Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Goat lecturer but just be aware his grading takes FOREVER.\r\nLike at least a month for exams and projects and like a week for final. We didn't get back 2 project grades (worth 30% of our grades) until 5 days after the final. \r\nHe does give a good amount of extra credit points for projects so be sure to take advantage of that. \r\nExams are all pretty fair, the first two projects were pretty easy but the last two took a good amount of time (Try to start early).\r\nHis research is so cool, don't skip his classes cuz they are so interesting. He also records so thats another plus.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-25T15:13:51.967854Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC396H",
+      "review": "Very easy and chill class. A few discussion posts at the start of the semester with a final mini research project. He doesn't take it too seriously, just talks about different aspects of research with the occasional guest speaker. No grades posted on canvas but an A+ in the grade book.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-27T19:34:42.433481Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Pros:\r\nGreat lecturer, he loves this content and makes lecture very engaging.\r\nI found the course content very interesting and relevant.\r\nThe projects were fun to implement, and the exams were not unreasonably difficult\r\n\r\nCons\r\nHe's basically unreachable outside of class. And the TAs aren't helpful because he doesn't tell them anything. The Piazza was rarely helpful. I you have a serious question or concern about a grade - good luck.\r\nGrading takes forever.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-12-14T05:40:54.193235Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Do not be fooled by his high rating: his rating is him as a person NOT as a college professor.\r\n\r\nThis is the worst organized class I have ever taken, with almost no communication at all from Dave about anything. It is less than 36 hours before our final as I'm writing, and he has not even told us the location of our final exam. Every other lecture involved him going on long tangents, either unprompted or from a malicious student question, about the research he does and how cool it is (with no connection to projects or exams).\r\n\r\nHe has not responded to one piazza post this semester, with one TA being in charge of that. However, to no fault of the TA, all of the actually important non-trivial questions are ignored/unanswered as they require an instructor to determine them. And of the questions that are answered, many are answered with \"I will contact Dave and follow up\", with no follow up, or \"Have you tried contacting Dave?\".\r\n\r\nAdditionally, he says to communicate with him via email, to which he never responds. He told us that the guest lecture we had the Tuesday before thanksgiving would be on the final, and that he'd post the video like all other lectures, and still no video has been posted.\r\n\r\nHe releases projects late, doesn't adjust due dates, and constantly has incorrect answers on the answer keys.\r\n\r\nOn the plus side, his exams were fairly easy in comparison to my other classes, and his projects do an okay job of scaling in difficulty.\r\n\r\nSpeaking to the class as a whole: There is WAY too much content. It feels as though you scratch the surface level of 20 different concepts, and come out having really learned nothing.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-15T01:46:24.526976Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "His lectures were pretty engaging and he's clearly interested in the content, but the disorganization of the class left a lot to be desired. Stuff doesn't get graded for a long time, like one project that took over a month to be graded. The final ended up online with little warning. His grading was also messed up for the final, which he had to correct (to his credit, he did fix it). The last project was a partner project and my partner wasn't added to the gitlab for an entire 2 weeks, despite the emails he ignored. I like his lectures, but I wouldn't take him again due to the lack of care he puts into the administration of the class.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2025-12-21T00:01:54.006051Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "good! i liked him\r\npros:\r\ngreat lecturer\r\nprojects were very interesting\r\nclass is very applicable to software, literally working through system design and potential vulnerabilities you can come across\r\n\r\ncons:\r\nclass is messy, some disconnect between project release dates and overall communication\r\nsome of the projects are p hard, but that's to be expected\r\n\r\null learn a lot",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-30T22:53:52.103839Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC396H",
+      "review": "Nothing really happens in this class so W professor. He's pretty enthusiastic about research and the main assignment is just coming up with a research proposal, which he helps you out with. Taking a star away because he's really disorganized lol, probably a bigger deal in actual classes.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2026-01-23T19:01:28.616372Z"
+    }
+  ],
+  "name": "Dave Levin",
+  "slug": "levin_dave"
+}

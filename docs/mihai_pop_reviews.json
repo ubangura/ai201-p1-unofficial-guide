@@ -1,0 +1,135 @@
+{
+  "courses": [
+    "CMSC701",
+    "CMSC424",
+    "CMSC131",
+    "CMSC423",
+    "CMSC828Q",
+    "CMSC798",
+    "BISI899",
+    "CMSC423",
+    "BISI899",
+    "BISI899",
+    "CMSC423",
+    "CMSC423",
+    "BISI899"
+  ],
+  "average_rating": 4.4286,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Great professor who cares a lot about bioinformatics and the success of his students. Fun (well, as fun as lectures can be) classes and interesting presentation. Lots of tiny programming assignments that weren't harder than 330, but the last two can be a little bit of a pain. His exams are really fair, pretty much only covers what has been said in course unless he explicitly stated it. I'd recommend to final semester seniors.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2018-01-24T06:48:28Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Dr. Pop was a wonderful professor this online semester. He spent the whole summer planning for the class and it showed. His lectures helped clarify the confusing parts of the textbook. He had a generous late policy for programming assignments and quizzes and was very helpful in office hours. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2020-12-25T19:03:24Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Passionate teacher and very understanding about stress and potential extenuating circumstances during online classes. He provided many ways for us to manage deadlines for projects and exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-30T06:57:32Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "As someone who has mental health problems and turns things in late a lot, pop's class was perfect for me. His class is a decent amount of work, but I excelled at it because of the way he taught and walked away learning a lot. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-02-01T18:40:57Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Probably the most understanding professor I've ever had. The entire class was basically asynchronous, every week we had a online \"mini-exam\" (called End Of Module Assessment) that wasn't too bad, you could easily get full points on a lot of them. The in-person lectures themselves are review of the videos we have to watch before class, but he goes in more depth and they are helpful for the end of module assessments and the final exam. Has a great late policy for projects (you're allowed to turn them in late if you write a reflection as to why you failed to turn them in on time). The projects themselves weren't too bad, most of them you can complete in less than two hours. My only problem with this class is the amount of quizzes each week. It's not a lot, but they were all due on Tuesday, even for material that he wasn't going to cover in class until Thursday. The final was somewhat difficult, but in the end he curved pretty well after accounting for this. Overall, Mihai Pop is a great professor to take for CMSC423 and I heavily recommend him. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-16T00:31:27Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Professor Pop was very accommodating to students: he offered both in-person and Zoom recorded/streamed classes and allowed you to propose your own deadline for some assignments. The workload was also very reasonable. Make sure to study for the final; it was a bit difficult. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-17T15:20:40Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "The good: Professor Pop is lenient with deadlines and as a student with health issues, this is very helpful.\r\n\r\nThe bad: Professor Pop gives us a choice between watching pre-recorded lecture videos or doing a reading prior to coming to class in person. This way we learn the material outside of class then he reviews in person. I personally am against this teaching style.\r\n\r\nLastly, sometimes coming to lecture in person feels like a waste of time because it\u2019s hard to follow along with what he\u2019s saying. He\u2019s clearly super smart but makes things harder than they really are",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2023-03-06T17:11:12.575065Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Really kind and caring man. Cares about students deeply. Class is lowkey very difficult and honestly not super interesting. Be prepared to do a lot of string algorithms. The weekly end of module assessments (that all essentially replace having midterms) open response questions are very very difficult, the other sections are pretty easy. The finals open response questions were also very challenging. They are all basically asking us stuff we have not learned before (which is an important skill but on exams with limited time I find it a little unfair to ask these types of questions). Take the class if you want, he's pretty flexible. There is a weekly programing assignment which can be challenging, especially if you have projects in other classes having one project a week in this class is pretty demanding. Overall a decent experience but if I could do it again I would have taken something else.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-05-13T19:47:09.614595Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "He was very lenient with deadlines like if you were sick. But this class had a programming assignment due every week and it easily led to burn out. He would always complain about how no one comes to lectures (fair) but then he would proceed to make lectures unorganized and very hard to keep up with. I would overall gain not too much from attending lectures because he had a hybrid format. Overall I think the class could have been structured better but it wasn't the worst class I took. I also think that he expects a lot from us students, and he also is VERY SASSY - you can tell he gives attitude.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-05-16T16:18:57.574992Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Professor Pop is an excellent teacher. He offers numerous different ways to learn the material. For example, if you find that it is too difficult to understand the material in the lecture you will look at the videos and notes he provides on ELMS.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-18T14:52:38.631449Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Mihai Pop is a good professor who cares about his students and tries to be fair on them. The class is structured nicely with a reading and 2 lectures per week. This means that you have a chance to learn the material before class, and two chances to learn it and ask questions during the lectures. I must admit that if you skip the reading, the lectures may be confusing so if you are not a strong reader, this may not be the best class for you. I felt the lectures build on top of the readings and gave a chance to expand your understanding of them. Both the lectures and the readings are necessary to understand the material. There are programming projects every week but they are pretty fast and I've never had to spend more than a day on them. The algorithms are usually already written out for you in pseudocode so it's just a matter of implementing them. There is an end of module assessment every other week but it replaces any midterms and they are asynchronous.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-22T17:24:47.120462Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Final is challenging but he definitely has an interest the material and in teaching this course, he\u2019s a solid professor. Would recommend if you enjoy string algorithms and making NP hard problems more approachable.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-05-23T13:28:24.217044Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "One of the most understanding and accommodating (within reason) professors that I've taken in my time at UMD. As was mentioned in previous reviews, Pop lets you turn in programming assignments however late you need, as long as you provide a reason why you missed it, and what you can do next time to complete it on time. However, you can't turn in 2 late programming assignments in the same week, so you can't slack off too hard, or it WILL bite you in the ass at the end of the semester. Pop is very knowledgeable, but I think that he comes off as too smart at times, explaining certain topics in high level terms, which isn't very helpful when learning the intuition behind the complex algorithms in the class. Nevertheless, his notes are extremely thorough, and is always eager to help you understand a concept if you don't understand it at first. This semester (Spring 2025), he moved his final exam to in-person, which is a change from previous semesters where it was online like the midterms. This threw many people off, but if you spent more than 30 minutes on each topic in the class (granted there are A LOT of topics in the class), you were fine on the exam, since many of the questions are similar to those on the midterms. The free response questions were difficult, but nothing unreasonable. Overall, difficult but totally doable class under Pop.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2025-06-23T14:52:50.043142Z"
+    },
+    {
+      "professor": "Mihai Pop",
+      "course": "CMSC423",
+      "review": "Mihai Pop is my GOAT. If there are no Pop fans I am dead. He is kind and understanding when students turn things in late. Other reviewers may complain that he is confusing but that's because the algorithms are hard. You have to read the lecture notes and go to class. It can be difficult to read such long notes but he is thorough. Furthermore, he has office hours and he cares a lot about the class so if you put in the work and ask for help, this class is an easy A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-12T15:42:20.601573Z"
+    }
+  ],
+  "name": "Mihai Pop",
+  "slug": "pop"
+}

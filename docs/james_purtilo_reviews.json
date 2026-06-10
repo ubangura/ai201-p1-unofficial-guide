@@ -1,0 +1,239 @@
+{
+  "courses": [
+    "CMSC132H",
+    "GEMS497",
+    "CMSC435",
+    "HONR239R",
+    "BMGT408C",
+    "HACS208G",
+    "HACS279",
+    "HACS287",
+    "HACS479",
+    "CMSC798",
+    "BMGT490H",
+    "ENES490H",
+    "CMSC435",
+    "CMSC435",
+    "CMSC435",
+    "CMSC435",
+    "CMSC435",
+    "CMSC435",
+    "CMSC435",
+    "CMSC435",
+    "CMSC435"
+  ],
+  "average_rating": 3.0,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "James Purtilo",
+      "course": null,
+      "review": "This was a very interesting honors seminar. Purtilo is very passionate about the material he teaches, and I learned a lot about privacy. The workload is reasonable, and he will give you a good grade if you write thoughtfully. I definitely recommend taking this course with Purtilo.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-05-12T21:43:00Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC132H",
+      "review": "Purtilo is a solid professor who respects his students. He is an efficient teacher, and he frequently ended class early, since we tended to get ahead of the other sections. He makes it clear that he is dedicated to producing \"satisfied customers\" of his students.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2012-03-19T13:59:00Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": null,
+      "review": "Purtilo was an extremely engaging professor. The class was all and all fairly easy and as long as you turn in coherent thoughtful work, he'll give you an A. He brought in a ton of interesting guest speakers. Make sure you start on the paper early, it'll help you greatly when you have to cram down towards the end of the semester. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2011-05-14T16:01:00Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "One of the most useless classes I ever took at Maryland, and Purtilo was mostly responsible for that. I learned almost nothing from this class, because, duh, he doesn't teach at all. Most of the class time is spent either meeting with your teams for the class project (will get to it in a sec). And even when he lectures, the topics are lamest and most useless. \"Change is inevitable,\" he will say multiple times during the lectures. And that's about all you will get from this class (but didn't you already know that).\r\nNow about the class project. One of the most horribly designed software I have ever seen in my life -- Terpnav. The thing (hard to call it a software) has 10 different languages supporting it, is spread over multiple machines with source code that has no documentation, and even Purtilo doesn't know how to install and run the thing. But he persists with it every semester, makes students add features to it, which is not hard in itself, but dealing with this beast of a software is the most annoying part, and yet not worth it at all. And the final is a take-home, which is entirely based on the TerpNav project. So, almost all your grade comes from the class project. He will say in the beginning there will be smaller projects too (we had just one), but essentially what you do with TerpNav is all that accounts for your grade.\r\nTake this class with anyone but Purtilo. I have heard some other professors do much better job.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-12-20T16:09:00Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC132H",
+      "review": "DO NOT TAKE HIM FOR CMSC132 OR ANY INTRO-LEVEL CLASS......FOR AN UPPER LEVEL COURSE HE HAS NO EQUAL. Just so we are clear. \n\r\nDr. Purtilo is a phenomenal professor, engaging lecturer, and an all-around wonderful person. However, he is simply not interested in teaching lower level classes. He instead will lecture on far more upper-level topics of overall software engineering and product development which, while very interesting, have little to do with the course material. He will occasionally go through the syllabus but blow through it at a staggering speed so no one can not learn any of it.\n\r\nIn our class he did \"show and tell\" Fridays where he brought in ancient relics of computer engineering and explained their functions, inner workings, and how modern design has since expanded. For one interested in such a subject this experience is phenomenal, but anyone taking the course simply to learn Java would roll their eyes.\n\r\n If you enroll in his class you will want to attend every lecture out of interest, however, will have to pray that another professor posts their lecture slides and that your TA knows how to actually code in Java (or read the textbook I suppose...gasp!). My course took a significant amount of outside-lecture work.\n\r\nHe has long left Java in his profession so any syntax question on its inner workings (you know, the entire midterm and final test material) he will do his best to answer for you and certainly take time outside of class to be sure he gets you the right answer. But this whole process could have been avoided by simply taking a professor more focused on lower-level programming.\n\r\nIf you are competent learning material outside of lecture and are genuinely interested in computer science his knowledge, persona, and class complete a once-in-a-lifetime opportunity to learn material beyond the textbook from a truly remarkable person. BUT If you are taking a lower level class to satisfy some random requirement his class will require a lot of unnecessary work.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2010-10-19T02:22:00Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": null,
+      "review": "The class material was very interesting. Towards the middle/end of the semester we had guest speakers every lecture or so from all different fields of industry, including many from the three-letter-agencies. The final paper at the end was a doozy, but the trick with that (like everything) is getting started early. The professor, unlike most Comp Sci instructors, is very helpful and approachable outside of class. Overall, an enjoyable experience and a once-in-a-lifetime opportunity.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-02-25T15:40:00Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "The most unorganized and effortless professor I have ever met. Pop quizzes in the first 5 minute of the class, if you are a bit late then f u. Every project is group project. Does not teach coding/programming/any comp sci technical knowledge AT ALL. The course is him saying \"hey I want this cool software and you guys have 8 weeks to make it\".",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-11-10T19:30:16Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "DON'T TAKE HIS CLASS. I didn't write comments at all here. But I am writing this 3800 words final and I got to alert you guys. His lecture is unorganized, he tests you things on his slides but he never uploaded his slides and recordings. What you did is a big group project which is lack instruction, all you do is to figure out how to start from zero to 100 by yourself.  I paid way more time than in this project than in other classes. After demo, presentation, documentation writing. You also need to write a final (which is like a 4000 words reports to him) reflect your effort on this project.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2020-12-19T02:53:39Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "doesn\u2019t teach, and gives no directions for all his work then proceeds to be very unfair with grading ethics ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-28T02:17:56Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "I went into the class very optimistic. Purtilo seemed like a nice guy. Little did I know the absolute piece of human debris this so-called man actually embodied. I took this class in my final semester. On the first quiz, the SYLLABUS quiz, he falsely accused me of cheating. Rather than talking to me about it, he went straight to the University. This could have completely derailed my reputation and ability to graduate on time. I was found innocent because thankfully the other accused party admitted to cheating off of ME on the quiz. From that point on, it seemed this \"teacher\" had it out for me. His teaching style is horrific. He is, as the kids say, a donkey-hole. He did not teach a single substantive thing the entire year besides common sense work habits and practices. No technical skills taught whatsoever. He makes everyone keep GRADED journal entries of their class-related activities, but only accepts the journal entries to be given on his own personal webpage (which half the class did not know existed) (he refused to accept my handwritten journal entries). His grading system for quizzes and projects is completely abstract and holds zero standards. For the final project, which is worth about half your grade, he divided us up into teams, gave each team a different project description, and continued to change the project requirements and give unclear answers of his expectations. He would then blame us (my teammates and I) for the confusion that he orchestrated. I pulled two all-nighters in all of college, both for this final project. My teammates and I worked our donkeys off, and we stayed up until the last waking minute to get everything done correctly. At 11pm the night it is due, he set out an email with a new requirement to all of our surprise: a five page report..... added on to the final project. We submitted the project well into the night, and by 9am, after literlly spending all semester and multiple crazy late nights on this, he had it graded. By 9am. Literally hours after submitted. A large scale coding project, a 20 page paper, and a 5 page report. And he gave us all the same grade (even though he said he would grade on team participation as well). He gave us all an F. BY THE WAY, each team final project was just a personal pet project that he wanted to personally use, and each team's project was entirely different from every other team, which is completely unfair in terms of expectation and grade. He clearly has class favorites (if you are a kiss-donkey and teacher's pet, you get an A, otherwise, you get a C). He pretends to care about your issues in class then in private he scolds you for being \"stupid\" and \"dishonest\". He said in the beginning of the final project that JIRA is encouraged to be used, only to completely disregard all out JIRA entries once submitted and treated it as if we did zero task tracking because \"its on JIRA, that's not the right format\". His class is endless and thankless work, zero gain, useless busy work, and a compete mess. He is hypocritical, confusing, condescending, abusive, degrading, and BY FAR the worst \"teacher\" I have EVER had. Stay the frank away!",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2022-04-25T21:15:58Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "if you were doubting any of the other reviews of this class, i highly suggest you to take this class and see for yourself. thankfully i was able to pick up on all the red flags of this professor that others -- especially the one that wrote the essay -- wrote about myself in class BEFORE the drop period.\r\n\r\n- having class favorites\r\n- says the same common sense stuff every lecture\r\n- unorganized lecture",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2022-09-09T12:01:36.656843Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "Please don't take his class at any cost.  First of, for those of you who doesn't know, this class is a capstone class(I didn't know ). This means he doesn't teach you anything. He even tell you that at the beginning of the class. All his task is vague. You don't know what the heck is going on in class. And the project description is as vague as it can get. If the instruction doesn't confuses you, he will find another one that does (I am serious).",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-10-04T00:36:09.343900Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "Prof. Purtilo can be an a-hole. He is extremely strict about deadlines, and ruthless in grading students who don't contribute actual effort to the course. To reiterate that - your class performance depends more on effort than any other single factor. \r\n\r\nHowever, it's become clear that behind his cold facade he legitimately cares about how well his students learn. He's more immediately and consistently responsive than any other professor I've had in my 5 years at this university. He expects significant effort from you, but will reciprocate with equal effort towards enabling your success.\r\n\r\nAnyone who puts their 100% into this class will learn immensely (and get a good grade), no matter what level of professional experience they have coming in. He makes sure of that. The class projects are intense, but offer experiential learning that's almost unparalleled at this university. While many hate this class with a burning passion, those I know almost universally agree that they're better engineers for having gone through it.\r\n\r\nIf you want to graduate from this university without working too hard, this most definitely isn't the class for you. That said, I got a CS education at UMD to become a Software Engineer after graduating. Towards that end, no other class has been so applicable. If you want to become a Software Engineer, and want a significant boost to your career, put yourself through the gauntlet. Maybe it's the Stockholm syndrome talking, but I have no regrets about taking this class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-10T03:48:52.007392Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "This is not web development with Nelson. This is an upper level class and expected to take a majority of your time throughout the semester. Most lessons are not taught directly, but learned through trial and error. Purtilo teaches through tough love. There is not enough time to teach all of software engineering so the \u201cdo the right thing\u201d and \u201cdeal with it\u201d mindset are used throughout the course. \u2028While this is not an easy course, the lessons are valuable and the class has insight into business, technology and life as a whole.\r\nPurtilo cares more about your success than you do. It was an uncommon occurrence he\u2019d take more than a few hours to respond to an email at any-point throughout the semester day or night.\r\nAssignment requirements are intentionally vague to make you decide the right path to take. This is frustrating as a student being not exactly sure what to do, but helps practice skills in deciding the right path to take.\r\nGrades will come naturally if you put in the work, but there is not way to bs this course.\r\nThis is the only course I\u2019ve had to spend multiple nights working late into the evening to get the project done on time.\r\nIt seems a lot of reviews on this page are from people not ready for the course. Purtilo does his best on his website and the first week to weed out any students who don\u2019t intend to work hard in the course. If you want to learn software engineering and are ready to put in some effort this class is for you. If not then stay away.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-12-27T18:38:41.974649Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "Dr. Purtilo gives fair warning as soon as you sign up for the class- this is not like the other courses you\u2019ve taken. This is a project-based course, and oh boy, you will do a lot of learning by doing, and you will be a better engineer for it. After all, what better way is there to learn software engineering than engineering software? If you are open to this kind of course experience, and you\u2019re engaged and you take the project seriously, I promise you will get the intended value (of which there is a lot to gain) from this course, and you will do well. \r\n\r\n\u2028\u2028This class is about more than just writing software. Some people do not like or appreciate this aspect of the course. Each project is real, so you\u2019ll be solving an actual problem for some stakeholder. You\u2019ll have to learn how to wade through some ambiguous demands and ask important questions so you can sharpen your project description, and you\u2019ll have to learn how to effectively work with your team.\u2028\u2028\r\n\r\nYou should not expect Dr. Purtilo to stand in front of the class and lecture you about software engineering workflows or whatever, and then give you an exam on them later. That is not what this class is about. Because each project has different technical specs, he does not teach any specific techniques. This might sound scary, but he spends a lot of time assessing resumes and whatnot to make sure he\u2019s not assigning people to projects they know nothing about. \r\n\r\nPurtilo\u2019s self-proclaimed role in the class is your \u201cspirit guide\u201d. And he is a damn good \u201cspirit guide.\u201d Dr. Purtilo is incredibly kind, and I can tell that he is here teaching this course because he genuinely takes great pride in seeing students come away from his class with real lessons that they can apply in their futures. More than any professor I\u2019ve ever met, he cares about his students and truly wants to set up each and every one of them for success. He is incredibly generous with his time, and never took more than an hour or so to respond to any emails. \u2028\u2028Also, there was only 1 \u201cpop quiz\u201d. It was a syllabus quiz.\r\n\r\nAnyway, I think it\u2019s classes and mentorship like the 435 experience that earn the UMD CS department such high esteem. Take this class if that is the value you would like from your degree.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-14T15:47:29.617168Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "at the course summary he complained about students nowdays being too docile; so here's me being very docile and leaving you a 1 star review gg lmao",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-05-17T23:52:48.496573Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "I think a lot of the negative reviews for this class/prof are people who miss the purpose of this class. This is not a traditional course and the prof. makes sure that you are aware of this. This is a course where you learn by doing, you're not going to be quizzed on concepts or theory that you learn in class that you may or may not ever actually care about or use in the real world. Most of what you learn through this class is useful, and almost all of it you learn by actually doing it, and not by reading a powerpoint.\r\n\r\nWith that being said this is a hard course, and you shouldn't take it if you're not motivated to learn about software engineering. You'll spend much of the course working on a semester long group project. You'll get real experience working with actual stakeholders who have an actual need for the project you're working on. You'll learn to (and actually get to) look at a project holistically, from proposing a solution, to building and testing that solution, to actually delivering that solution to the stakeholder. You'll deal with real challenges, setbacks, and learning opportunities just as you would in a real engineering position, except you're doing it in a classroom environment where you can receive mentoring and real time feedback. The amount you get out of this course (and your grade at the end) is directly proportional to the amount of effort you put into the class. \r\n\r\nThe professor takes care to carefully pair people together who have similar work ethics and habits. This generally does mean that the people who take the most leadership, initiative, and care most about the quality of their work are placed into the same group, and those who show less diligence are placed into other groups. You'll go through a series of exercises at the start of the semester to gauge work ethic. Your group does determine a lot about how successful you are in this class, but everything is deliberate. If you come in the first day ready to learn, put full effort into everything and care about the quality of the work you're doing, you'll be put in a group with likeminded individuals and you'll have no issue meeting course expectations. If you don't show as much initiative or struggle to meet expectations, you'll be put into a group with similar people and will likely not have as great a time. Purtilo is also a great resource. He's very honest with your work and is willing to give you feedback. He's super responsive on email and is always willing to help. He is a genuinely good mentor and cares a lot about the success of his students. \r\n\r\nI think for people interested in software engineering and pursuing a career in it (90% of you reading this probably are) this course is incredibly valuable - only if you're motivated to take it and are willing to put in the hours every week to be successful. If you're not willing to for whatever reason (and that's totally fine), take something else. The one recommendation I would have is to take this course during a light semester, I wouldn't recommend pairing this class with something like 451 or 412.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-18T21:39:56.481220Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "People need to first understand, this is a capstone class. You aren't going to learn anything from the professor's lectures. However, you engage in a semester long project, you work with a client, you have progress checks, critical design review, things like that. If you are interested in learning about the software development cycle, and getting a very hands on experience, this is the class. I will say though, be prepared to work overtime in this class, as this will take A LOT of your time during the week. I will say though, I loved every second of it. Maybe it's because I never had any full stack experience, and building something from scratch to 100 is thrilling. It's also something that you can be very proud of, and you can also put something like this on your resume/linkedin. One more thing, the final is absolutely terrible. You get 3 days to write like a very long paper, and it usually coincides with your other finals. The final is very draining. But Purtilo is a nice guy, and he is genuinely invested in your development throughout the class.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-05-17T19:43:41.425779Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "This course was one of the hardest, yet most rewarding course I have ever or will ever take. It was very time demanding and dependent on the ultimate project that you were placed in. I ended the class with over 100 ticketed hours towards the capstone project. I was required of a totally different professional standard to what I have been placed in before, where I had to truly assess what it meant to do work professionally and up to the standard that it required. \r\n\r\nIt truly taught 'Software Engineering' rather than 'Software Development'.  This is the difference between simply solving a problem you were given, verses being able to assess a business problem and devising a plan to solve it, focusing on how it will give value to the client. I am now a much better software engineer than I could have ever been without this class. It was invaluable. The knowledge I gained from the project actually helped me land a full-time job very shortly after the semester, which I would not have been qualified for without this class.\r\n\r\nWriting the documents required of the projects was quite hard and took some time away from the important development to be done, mostly I would say, the final documents. They were definitely valuable, but their size and rigor could be shortened. This also includes the final, which was huge and kind of frustrating, but IDK how much of it he actually graded.\r\n\r\nThere was also some ambiguity in some of the grading requirements or standards that affected the grading. Though, I should have possibly just went to clarify these things. Less ambiguity could truly help students give the standard that was required.\r\n\r\nSome deadlines were kind of arbitrary, such as the weekly advice aspect being due at 5pm on Friday. This time can come fast on a busy Friday, when it could have been due at 8 or 12PM and still give the same value.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-08T21:13:27.948010Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "Teaches a course abt software engineering. Writes insecure websites. Yeah this mans kinda cooked. But guys surely this is a real class!!",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-02-27T23:05:57.895834Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "Worst professor I had in my entire undergrad. No course structure, makes students build internal tools and then guts the repo at the end of the semester. DO NOT TAKE THIS CLASS. You will end up pulling multiple all nighters and he picks favorites so your grades are basically pre defined.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-03-04T20:21:52.253321Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "Dr. Purtilo is the best professor I have met in my time at UMD, and 435 has been one of the most rewarding classes I've taken (also one of the most time consuming). The negative reviews indicate to me that people did not take the time to understand what class they were signing up for. This is not a standard class like you've taken before - IT IS A CAPSTONE. As such you will be tasked with developing a REAL product to deliver to a REAL client in a team environment. Having experienced 2 internships before taking this class, I can confidently say this is as close to real world experience as you will get in UMD's CS program. Nothing has taught me more about handling ambiguity, diving into new tech skills, product management, and critical thinking than 435.\r\n\r\nDo not take this class if you are looking to pad your schedule, or to check a box. If you want that, go take HCI or 335 with Nelson. If you want to get the most value out of your college experience, commit yourself to taking this course with the understanding that it will be challenging. Like so much in life, you get out what you put in. If you are willing to commit time and effort to this course, I promise you will leave with a fantastic experience and a cool technical project under your belt. \r\n\r\nPurtilo himself is a gem. He cares deeply about his students and commits himself to sharing his experience and knowledge. I have never met someone so responsive - if I ever sent an email he would respond within a few hours (often within a few minutes). He is pretty verbose, and lectures can be a bit of word soup sometimes, but there are always pieces of wisdom to take away if you pay attention (and some phrases I've never heard in my life). He is also incredibly blunt and honest: If you don't put in any effort and blow off the class, your grades and team placement will be reflected by this and I don't think he would shy from telling you why. Alternatively if you genuinely care and you try, he will be lenient, understanding, and helpful. You can tell he truly wants us to succeed, and he takes genuine joy in teaching. He is always ready to offer mentorship and guidance if you seek it - I'm speaking from experience.\r\n\r\nIf you take this class, I guarantee you will leave a better engineer.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-20T16:51:25.818801Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "CMSC435 is the best class experience I have had at Maryland. I left this class with more knowledge and experience about real world software engineering than any other class during my 8 semesters of university.\r\n\r\nFirst thing's first, Purtilo responds to one thing above all else: effort. He makes himself incredibly available for communication and questions. He was very invested in my learning and understanding, and  if you show up to play ball and do good work, he will appreciate that and work with you to make sure you succeed. Most emails I sent to him usually got a response within 5 minutes, and the longest response I believe took only an hour. He wants you to communicate with him.  He wants you to do well, because the projects that get shipped to these clients are a representation of him just as much as they are a representation of you.\r\n\r\nIf you want an easy/chill upper level credit where you show up to lectures do some projects, take some exams and leave, then simply don't take this course. The other reviews that say this class has no structure did not know what they were signing up for. Like has been stated, this is a Capstone course. The majority of your time and grade will be committed to one large project. You will meet with a real client, plan your project with your team, and work together to build something that will actually provide value. For this to work it requires a lot of invested time, effort, and initiative. With all of that in mind I would recommend taking this as your only hard/time consuming course during the semester. There is a bit of risk involved with the teammates you get, but Purtilo does exercises before group assignments to gauge your commitment to the class and place you in groups of people that complement each other, so I believe it'll even out. \r\n\r\nLike I said you need to be committed, and if you are I believe you will gain A LOT of valuable information and experience. Everyone learns how to code in this major and there are a crazy number of us, but not many learn the proper communication and organizational skills to make a real world project thrive. Purtilo will say in this class that coding is the easy part, and that definitely held true. As such you'll learn the business-minded engineering skills that will set you apart as you move forward in your career.\r\n\r\nOverall: Stay engaged, participate in class, and care about the work you do. Purtilo will respond to this and help you succeed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-22T14:27:15.647806Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "If you have high ambitions along with high discipline in life, take this class. Professor Purtilo is one of the most knowledgeable and hardworking professors I have ever met in my entire life. He is extremely organized and makes directions very clear. He was always there to help and will schedule meetings with you right away if you like. He even replied to my emails during Thanksgiving break within minutes. This is a capstone class, so you will need to put in a lot of hours and effort in this class to do well (10-15hrs/week to be in a good state where you can get an A). I will heavily recommend that you are taking a light course load along with this course. This is not rocket science, anyone will succeed in this class if they are very involved. \r\n\r\nHowever, I will warn you. If you don't like to attend class or help out your teammates in a group project, do not take this course please. You are putting yourself and others at jeopardy, and you are taking the spot of someone who would've greatly benefited from this opportunity. You will need to communicate a lot with your teammates and client in this class and help do your part. If you are active and do your part, you should be good and the finals will be really easy for you too. \r\n\r\nI never had a single internship before this but was ready to work hard and spend a lot of time in this class, Dr. Purtilo saw my value in a society where no one else gave me the chance to prove myself that I could become a good software engineer with the right opportunities. He will invest a lot on you to help you become a better software engineer. He clearly sees value in hardworking students regardless of their resume and past experiences and he will help you build your resume and find you a job, but only if you have worked hard for it. He will help you get there, trust me. The great things in life never comes easy, so don't get it the wrong way. He will pressure you a lot, but you will look back and realize how much of a better position you are in now compared to the start of the semester. \r\n\r\nIf what I said describes you and if you are truly passionate about becoming a software engineer rather than just doing so because you saw some tiktok video where they go around asking \"what do you do for a living and how much do you make\", then this is the class for you. It will be your favorite class at UMD, and I can bet on that. Take this class if you wish, you will ascend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-14T04:21:49.495086Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "Purtilo 435 class is interesting and to his credit, he is very transparent with what he expects out of the students. He will tell you at the beginning and does not hide anything about how this class will be taught. There is a lot that I learned from this class and it is most certainly a class where what you put in you get out. I definitely became a more confident software engineer after taking it and learned a lot about software development. Purtilo says he will be the most available professor that you have and that held true when I took it.\r\n\r\nHowever this is someone you need to suck up to in order to do well in the class. He is also very vague about what he wants in assignments which is intentional so that teams can ask him but I disagree with this way of grading assignments. I am also not a fan of his way of submitting assignments, he wants us to us a personal SVN to submit all assignments and does not just use Canvas like every other course. The website that he uses is a source of a lot of complaints but I do not think that it was that big of a deal. He also  lists pragerU as a source of information that he recommends students look at (lets be serious about this). \r\n\r\nI don't think he is a bad or as good as most of the comments says, he definitely cares about this course and his students but there is a lot of things i did not enjoy about the course.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-12-21T17:01:28.389399Z"
+    },
+    {
+      "professor": "James Purtilo",
+      "course": "CMSC435",
+      "review": "taking this class.... haha....good luck charlie",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-22T16:52:47.397360Z"
+    }
+  ],
+  "name": "James Purtilo",
+  "slug": "purtilo"
+}

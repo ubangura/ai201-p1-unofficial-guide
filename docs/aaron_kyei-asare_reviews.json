@@ -1,0 +1,135 @@
+{
+  "courses": [
+    "TLPL101",
+    "CMSC106",
+    "CMSC395",
+    "CMSC395",
+    "TLPL101",
+    "TLPL401",
+    "CMSC122",
+    "CMSC131",
+    "TLPL101",
+    "CMSC122",
+    "CMSC131",
+    "TLPL101",
+    "CMSC122"
+  ],
+  "average_rating": 3.3571,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "I really liked prof Aaron! He's really chill, and if you ask questions in class he really tries to explain it in depth. But, because he has been so deep into the CS world, if you're coming into 131 with NO prior coding/java experience, you will need to play catch up for the first half of the semester. But as long as you study, look at the slides, and come to class, you'll be okay! He's a very fair professor.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-11-04T20:16:33.505823Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Took CMSC131 in the Fall 2024 Freshman Connection program and was really well. I had prior knowledge of computer science so the class was really easy except I never learned what memory maps and how to draw them so that was a little hard to understand at first. I think the best to compare this class would be to an AP Java Computer science class and if you put in the effort and want to learn you could pass the class. \r\n\r\nFor the assignments, we had 5 projects, usually with a 2 week deadline and were really easy if started early and could get help online on Piazza (class could ask questions to the professor). There were also 3 different quizzes during the discussions but the TAs would usually go over what will be on it and will set up for success. There were also 3 midterms (final yet to take) and the second mid-term was super long which I was not expecting and had many questions that were just wrong so it had to have been curved a lot.\r\n\r\nI think Aaron could've put a little more effort into teaching the class because sometimes it would feel self-paced. There were also a lot of days were class was cancelled for no reason when non freshman connection courses would be 2-3 weeks ahead (project wise).",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-06T19:06:35.272364Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Professor Aaron is very chill but I feel that if you are completely new to computer science you will need to rely on self studying. This wasn't a problem for me as I had prior experience, but he frequently cancels class and doesn't spend that much time going in depth on topics. If you ask his TA's or him questions they should be able to answer them fairly well though. The main reason I ranked him so high is because he's very funny. He comes across as more of a friend rather than a professor, and frequently makes lectures enjoyable with his jokes. The reason he's not 5 stars for me is because he grades assignments extremely late, it takes him about a month to grade exams and it takes him the whole semester to grade projects.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-09T04:40:23.688129Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "He is a really chill and relaxed professor; he makes lectures pretty engaging but my only issue with him is how long it takes to get our grades back. The final is in 2 hours, and he still has not posted over 300 points worth of grades which is kind of frustrating. If you have no CS experience this class will probably be hard for you, but it should be manageable if you study.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-13T21:58:18.200564Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Professor Aaron is a nice dude but that does not mean he is a good professor. Anyone who has no prior cs knowledge will heavily struggle in this class. Exams are pretty difficult compared to Elias. He tells you to review Elias's exams, but his exams are much different. Even though he is a nice guy, I highly suggest to get a different professor if this is your first time taking a cs course.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-15T21:07:27.935728Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": null,
+      "review": "Terrible class lectures, grading is very poor, and inconsistent with content being taught. Do not take him.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-17T02:22:59.911720Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "TLPL101",
+      "review": "Certified chill guy",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-17T15:41:15.118065Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Prof Aaron is a pretty good lecturer; he's really good at keeping the class focused with his wit and humor. He's also just good at teaching, as he often uses real-life analogies/examples to make course concepts easier to understand. His classes are never dull or boring, and he's overall just a chill guy. He also readily answers any in-class questions, giving in-depth answers. However, my main complaint is that assignments and exams take FOREVER to get graded in his class. The quizzes get graded fairly quickly, but you will be left in the dark when it comes to grades on literally every over assignment (projects and exams). A lot of the time, I was unsure of how well I was doing in the class because of the slow grading, making it hard for me to effectively budget how much time and effort I needed for the class.\r\n\r\nOverall, I'd definitely recommend Professor Aaron. I was extremely inexperienced in coding when I started in his class but I've learned a lot throughout the course. He knows how to make meaningful class projects that are relevant to the class and will actually prepare you for the class exams. Just beware of his super slow grading though.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-21T17:33:31.968914Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Was a good professor for teaching a college class for his first time. Even though the class seemed to be self taught, it is very easy to get a good grade in this class and the discussions were useful. One bad thing about Aaron is that he takes a long time to respond to emails, but he does get to them. Some exams were easy while other exams were slightly difficult. Would recommend Aaron to kids taking cmsc131 if they have prior experience. If you don't have prior experience it will be very difficult at first.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-23T17:15:21.424464Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC122",
+      "review": "Professor Aaron is very easygoing, but I cannot recommend him as a professor. I'd estimate we lost about two or three weeks of class because he didn't have access to his ELMS account, and while this wasn't his fault\u2014his communication with us was abysmal. He did eventually recover his account, but apparently not his ability to communicate with the class. Assignments would be posted a week or more late, without any acknowledgement. Grades would be posted roughly three to four weeks after the original deadline. Class was cancelled with as little as thirty minutes prior notice, which was especially frustrating as a commuter. As far as the class itself, his lectures are easy enough if you have prior experience with HTML, CSS, or JavaScript. Otherwise, I'd highly recommend a different professor or supplementing the class with freeCodeCamp's full-stack developer course\u2014the first three chapters are a far more comprehensive overview of HTML, CSS, and JavaScript.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-05-15T18:25:50.680330Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Aaron is a good professor, and he is very adaptable to students who need extra time or have had circumstances in their lives. He doesn't really respond to emails, so I'd suggest asking him questions in person. Sometimes the exams are random. For example, we had our midterm 3 exam, and it was somewhat like the practice exam, but the amount of time given to complete that test was impossible. But he did give more time to the class, which was nice. Overall, if you come to this class without a computer science background, it's kind of cooked because he goes fast. I'd recommend going to office hours and discussion for guided learning and help on projects and etc. I came in with computer science knowledge, so it wasn't much of a hard class for me because I ended up re-learning concepts that I already knew.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-11-30T17:12:15.222642Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Pretty chill guy, if you have a cs background the class is really easy. However, the practice exams he provides are testing on entirely different topics than the actual exams. Additionally, he hasn't provided much study material for the final, making studying a bit harder. If you aren't coming into the class with a cs background, expect to study a bit harder and to get creative with study materials. Otherwise the class is pretty free.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-11T06:05:28.658064Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Aaron is a great guy and I would say that he has definitely improved looking at his past reviews. I came in with little to no prior knowledge and just needed the class for a programming requirement (took CSP in 10th grade), and I still felt like I was understanding what was going on. I will say make sure you go to office hours, that was the most helpful thing for me. The main downfalls of Aaron would be somewhat slow grading, but that's a lot of professors at this school, and the exams. I don't personally think any of the exams were insanely hard, but it is just slightly annoying that he doesn't have any practice exams he created since he started recently. All in all, I would recommend Aaron. He makes class pretty chill plus you get like 3 2-day extensions on the programming projects.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-11T08:42:48.216136Z"
+    },
+    {
+      "professor": "Aaron Kyei-asare",
+      "course": "CMSC131",
+      "review": "Prof Aaron is a kind and funny guy. But if you come into this class with zero CS knowledge, you're cooked. What he goes over in lecture and teaches is NOTHING like his midterms. He gives past exams/practice exams, but again NOTHING like the midterms, so it's like you're wasting your time doing them. Whereas other professors make their midterms fair and based on the class material. He is also VERY slow with grading, and it's often impossible to know what you have in the class until the very end, and there's no way of predicting your grade cause he doesn't post all the assignments on Canvas. I highly recommend taking a different professor if you do not have background Java knowledge, because this class was insane. If you do end up having to take him, please go to office hours and do not fall behind. My TA helped me a lot, and I wouldn't have ended up with the grade I wanted without her. However, I am still giving him 3 stars because he was nice enough to round my 92.36 to a 93.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-28T17:32:09.403504Z"
+    }
+  ],
+  "name": "Aaron Kyei-asare",
+  "slug": "kyei-asare_aaron"
+}

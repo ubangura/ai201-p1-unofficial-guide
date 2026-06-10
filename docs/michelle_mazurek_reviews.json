@@ -1,0 +1,97 @@
+{
+  "courses": [
+    "CMSC818D",
+    "CMSC414",
+    "CMSC634",
+    "INST799",
+    "CMSC798",
+    "CMSC388N",
+    "CMSC389P",
+    "CMSC732",
+    "CMSC389P",
+    "CMSC634",
+    "CMSC414",
+    "CMSC732",
+    "CMSC498G",
+    "CMSC634",
+    "CMSC498G"
+  ],
+  "average_rating": 3.8889,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Professor who clearly knows her stuff. However, I'm not sure if it was the long class block or the presentation, but I struggled staying awake every class - especially about private and public keys. The programming assignments are kinda fun, but can be really challenging if you don't have the right mindset. Exams were alright, she allowed cheat sheets, but still lots of potential material. I'd maybe recommend to a final semester senior.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2018-01-24T06:51:32Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Knows her stuff, but is quite boring. Her exam questions are also not up my alley. Nice person though.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2019-06-11T18:00:03Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "She is not a good lecturer.\r\n\r\nPros:\r\nClass cover a lot of interesting topics\r\nMaterial is genuinely interesting for the most part\r\n\r\nCons:\r\nShe is a very boring an ineffective lecturer\r\nShe is a harsh grader\r\nExams are tough\r\nProjects are tough\r\nBad at communicating/grading\r\n\r\nI would avoid taking class with her. I recommend taking Dave Levin if you can",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2019-07-08T15:31:34Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC388N",
+      "review": "The class had the wrong prerequisites, and they don't teach you how to break and secure software.  The project we made was over 2000 lines of code.  The class was more of software engineering and debugging than securing software.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2020-02-19T14:27:29Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Idk what the rest of these reviews are saying. When I took the class this year, I thought Mazurek to be very organized, the class structure to be good, and the class as breezy. She's a good lecturer too, she explains what is happening security wise very high level but yeah her voice is very soothing and if you're not paying attention then yeah, you might fall asleep. The late days on project policy is awesome. \r\n\r\nFor reference, I think I went to about 60% of the lectures, and would binge watch a couple before exam time, and get decent B grades. Even then, I was able to get a pretty good grade in the class. One qualm that is valid that I see echoed here, however, is that the projects sometimes do not have enough set up or foundation for someone who is new to these security concepts to finish thoroughly. I am biased because I came into this class with some general knowledge and experience with how security worked, so the buffer overflow project, the XSS project, and other projects were pretty good. Still, others that I knew who didn't have security experience did pretty well on the projects when they went to office hours. \r\n\r\nThe class is chill, and I would compare its difficulty to 1/3-2/3 difficulty of 250 with Jason Filippou; and 1/4-1/2 the difficulty of 216 with Herman. I personally had a lot of security concepts solidified in this class, and learned a lot about the way security does work, and have come away with a greater appreciation of the technical aspects of security to the high level design and concept-wise approach to security. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-12T03:46:48Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Dr. Mazurek is a clear lecturer with enthusiasm for the topic. Lectures are recorded and slides posted. The content itself includes memory safety, web security, password stuff, cryptography, network security, privacy, and human factors stuff, with a couple guest lectures as well. Exam questions closely follow the material from slides and the projects: if you make a good cheat sheet you're golden. Grading is only based on the 2 midterms, the final, and 4 projects. The projects take time but are very doable with 6 late days to use as you please. 414 with Mazurek is definitely one of the easier 41Xs.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-10-25T20:19:15.209631Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Great professor, lectures were easy enough to understand and engaging enough for me.\r\nSome projects were kinda hard, but i learned a lot. Also late days were great, she gave us 6 to use for any project to distribute as we like. Made it much lower stress.\r\nShe was generally nice and answered questions well.\r\nClass was consistent, organized well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-02T22:00:25.615210Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "the goat 414 professor\r\n\r\n\r\n\r\nshes a really really good lecturer whos really interested and invested in the subject matter. i came into this class with a lot of prior experience, and she hit all the checkboxes on explaining the material. for extra credit on the final, she let u send her an original meme or joke about the class material. that should say everything u need to know about her attitude towards teaching.\r\n\r\n\r\n\r\nthe projects were kind of code based, but it was more of, the code was set up for the environment of whatever attack you are studying. for the first 3 projects you get 6 free, no penalty late days to use for those projects. the last project is a group project, so understandably no free late submissions. as for exams, shes kinda harsh if the questions are conceptual, but there are a good amount of applied knowledge questions to make up for it if she doesnt like the way you write about something.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-12-22T02:01:49.031814Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC732",
+      "review": "Michelle is a really genuine and nice person. She goes out of her way to help people in a way that most faculty members wouldn't. She also uncomplainingly put up with my BS for the entire semester. Great Professor <3",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-12T23:39:02.826646Z"
+    }
+  ],
+  "name": "Michelle Mazurek",
+  "slug": "mazurek"
+}

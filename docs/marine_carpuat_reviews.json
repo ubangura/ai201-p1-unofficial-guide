@@ -1,0 +1,213 @@
+{
+  "courses": [
+    "CMSC723",
+    "CMSC422",
+    "INST735",
+    "LING723",
+    "CMSC828B",
+    "CMSC828I",
+    "CMSC421",
+    "CMSC470",
+    "CMSC848D",
+    "CMSC422",
+    "CMSC848T"
+  ],
+  "average_rating": 2.0,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC421",
+      "review": "She's okay, some things are a little confusing and the projects so far are acceptable. Sometimes her accents make things a little hard to understand. However, the slides are nice and clear, you just have to download them before hand and take notes while she teaches. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-09-21T22:17:26Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC421",
+      "review": "Insanely generous professor. We had a dropped homework and PROJECT. Incredible!\r\n\r\nHowever, the lectures are unengaging and I found it faster and more effective just to review lecture slides.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-12-09T18:59:58Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC421",
+      "review": "The course was well planned. All projects were all public tests so you knew your grade when you turned it in. Lectures at times were unengaging. Recorded all lectures so you didn't have to attend.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-21T18:22:08Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Great teacher!!! Well organized, clearly explains topics",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-02-24T14:01:53.619099Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Marine is a very knowledgeable professor who explains topics well and can answer questions during class extremely well. She is understanding and accommodating while not being a pushover. The class is organized well and homework and exams are fair. I definitely recommend Marine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-16T15:18:29.490910Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Marine is a good professor who is very knowledgeable about ML topics. The concepts are interesting, but I found the class structure (this was probably a result of co-teaching with Furong) was rather strange, since we were responsible for watching Furong's lectures as well. The slides in this class are not good (to learn concepts, I would do the discussion slides and look at videos from Youtube to understand concepts). However, the assignments are pretty straightforward and exams (both final and midterm) were fairly simple. Overall, nice class, but needs better organization and better slides.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-14T14:29:15.599212Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I don\u2019t understand where the positive comments about the class structure are coming from. Yes, ELMS is organized, but the lectures and homework don\u2019t actually help with understanding the material (the class relies mostly on Eastern-style rote memorization). Her exams are unreasonably difficult, and the grading is extremely harsh; even small mistakes are treated as \"fatal\". It feels like she expects undergrads to perform at a graduate level. I didn\u2019t get much out of this class and wouldn\u2019t recommend taking it with her.",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2025-11-11T00:17:01.704618Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": null,
+      "review": "The material is not difficult in itself, but you might think you didn\u2019t do well because of a poor math background. That\u2019s not true. The professor doesn\u2019t know how to properly teach the material. The slides are not very detailed, almost as if implying, \u201cfend for yourself.\u201d The exams are brutal. The grading is brutal as well, especially because of the TAs \u2014 John Kanu and Manan Suri. The TAs don\u2019t seem qualified to teach the course, possibly because they are not familiar with the material or with the American education system. It also seems like this course is the last thing on Marine\u2019s mind. I could go on about how stressful this semester was because of this class. Take it with someone else who has more reviews and credibility.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-11-13T04:26:27.388053Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": null,
+      "review": "In my experience, the material itself isn\u2019t very difficult, but the way it\u2019s taught made the class feel much harder than it needed to be. The lectures and slides felt vague and not very supportive, almost like we were expected to figure things out on our own. The exams were extremely tough, and overall the course felt much more stressful than it should have.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-11-13T04:32:20.007897Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "From my perspective, the grading was harsh, and the support from the TAs (John Kanu and Manan Suri) didn\u2019t feel sufficient for the level of difficulty. They often seemed unfamiliar with parts of the material, which made getting help frustrating. It also felt like this course wasn\u2019t a major priority for the instructor. Based on my experience, I\u2019d recommend taking this class with a different professor who has stronger reviews.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-11-13T04:33:34.397709Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Prof. Carpuat seems like a very nice person, so I don\u2019t want or intend to make personal criticisms or insults toward her \u2014 just share my experience with the class.\r\n\r\nFirst off, there is a lot of emphasis on memorization (even if she never directly admits it). It genuinely feels like the class is training us for a competitive memorization bee rather than machine learning. Instead of relying on memorization, there should be a broader and more diverse set of practice problems after each topic so students can actually understand and retain concepts through, you know, practicing. Students aren\u2019t going to magically derive new ideas on the spot \u2014 especially not when the slides barely explain the material in the first place. If the foundational explanations are weak, you can\u2019t expect students to perform theoretical acrobatics on an exam. The cheat sheet on exams isn\u2019t really helpful either when you don\u2019t know how to use it because the slides are bad. Am I supposed to analyze and figure out each slide on my own? Unfortunately, I can\u2019t, because I have other classes and responsibilities (like job searching in this bad market).\r\n\r\nAlso, the midterms are borderline impossible to finish on time; they feel like the SAT, except with fewer breaks and more panic. The point distribution is baffling: somehow a multiple-choice question can outweigh an open-ended one that requires actual reasoning. Grading is strictly \u201cright/wrong,\u201d and partial credit is treated like a rare mineral you have to mine via a regrade request on Gradescope.\r\n\r\nIn regard to the TAs, they act as if they\u2019re doing charity work by helping students or grading assignments. Guys, undergrads pay tuition. We don\u2019t have funding or tuition remission like PhDs, so please take TA responsibilities seriously. The number of grading mistakes is honestly impressive in the worst way. And one TA is borderline dismissive toward students. Yes, we know you\u2019re all busy revolutionizing research science with your \u201cEinstein discoveries\u201d and preparing your Silicon Valley IPOs, but TAing is still part of the job. Treating it like an unpaid internship doesn\u2019t magically make it one.\r\n\r\nHer teaching style isn\u2019t very effective. Every time she asks a question in class, it\u2019s clear the majority of the room is lost. And while pre-class reading is important, the textbook she assigns does not clearly lay out the foundations of ML. She may think students are struggling because of the math, but that\u2019s not actually the problem; the issue is the chaotic slides and unclear explanations. There\u2019s an overwhelming amount of theory with very little practice to anchor any of it.\r\n\r\nThen there\u2019s the SVM (or any other topic) situation. You\u2019d expect a core ML topic to come with diverse practice problems. Instead, we get about 10 nearly identical questions across quizzes, problem sets, and practice exams. Same structure, same notation, same tiny subset of concepts. Meanwhile, the midterm features completely different SVM topics that only showed up in two or three theoretical slides. At this point, I genuinely can\u2019t tell if this is intentional \u2014 like a way to force a \u201cnormal distribution\u201d so fewer people do well \u2014 or just poor planning.\r\n\r\nThe class is generally demotivating. You\u2019d think that a course this central to AI would be taught with enthusiasm and would foster a real learning environment, but no. Instead, the class makes you feel like you\u2019re not good enough because the focus is entirely on exams, not understanding. Why are there no projects? Because she\u2019s convinced everyone will cheat using AI. Maybe instead of eliminating projects, design them so that AI isn\u2019t enough to do the intellectual heavy lifting \u2014 just like in actual research, where a model spitting out code doesn\u2019t magically produce hypotheses, perform data analysis, or make expert judgments.\r\n\r\nThis class is just too much of emotional lifting, so I'm good with bare minimum of studying for the \"right/wrong\" final exam moving forward.\r\n\r\nI can't definitely go on with how disappointing this class has been but overall, the course doesn\u2019t feel thoughtfully structured. It feels like something thrown together and held together with theory-heavy slides and a hope that students will just figure everything out on their own.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-11-15T10:09:51.855689Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "horrible tests, confusing teaching, nothing good. I've never learned so little. Feels like I'm memorizing. can't perform well even if I tried tbh",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-19T21:10:10.481615Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I agree with the latest reviews, and I really discourage you from taking this course with her. It\u2019s just very bad. Half of the class literally got a D on Midterm 2, and she called it a \u201csolid performance\u201d? OK, let me be honest\u2014half of the class did better on Midterm 1 by getting away with a C-. How is that solid? Maybe there\u2019s something wrong with how the course is being taught and structured. She seems completely unaware of the issues in the class. It's okay with her that half the class is doing well while the other half is failing. This basically means she doesn\u2019t question why 50% of the class is failing. For her, the most important thing is that a small portion of the class does well, and the rest should just be \u201cfailures,\u201d which she accepts as normal.\r\n\r\nI\u2019m not the type of person who doesn\u2019t put in effort and then blames the professor for that. Even in the most difficult core CS classes at UMD, I could get a B+ or higher if I put in a lot of effort. This class, however, is different. You can put in a lot of effort but still get lost when you're taking the exam. The issue might also be with the slides and the lack of practice material.\r\n\r\nUnfortunately, this semester was super stressful because of this class. I just want to warn others about the potential distress this class can cause, despite your best efforts to learn and perform well.",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2025-11-20T05:50:39.074879Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I genuinely wanted to learn this material, but the way the course was run made that almost impossible.\r\n\r\nIt\u2019s hard to express how much I dislike this course. It\u2019s structured very poorly: it\u2019s extremely fast-paced with almost no room to actually retain the material. The assignments don\u2019t reflect what you need to know to do well on the exams, and the textbooks are pretty unhelpful if you\u2019re new to ML. I\u2019m not even going to say much about the grading (yes, it\u2019s very punitive, likely due mostly to the TAs) because others have already covered that. The instructor seems to assume that if one person gets an A on the midterm, then everyone should be able to get an A, which completely ignores the reality that students juggle many responsibilities. It\u2019s not just \u201cdo research,\u201d \u201cteach,\u201d eat, and sleep. Her teaching style ends up overwhelming students and reinforcing unnecessary competition, especially coming from someone who didn\u2019t go through the same level of modern academic pressure, unstable economy, or constant distractions. Overall, the class was mentally draining because of the uncertainty around how to actually learn and retain the material, what to expect on exams, and how to find reliable resources for long-term understanding. By the second midterm, the stress had taken a significant toll on, I\u2019m sure, the majority of the class. Amazing and thank you!",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-11-21T21:56:47.885369Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": null,
+      "review": "A raw mean of 70% (\u00b113.5 SD) is not \u201csolid\u201d; it\u2019s cruel, outdated, and belongs to the hyper-competitive, deliberately punishing systems found in some East Asian universities, not an American classroom in 2025. The actual grading is also brutally harsh on top of the distribution: this forced roughly half the class into C/D/F territory despite genuine effort and directly triggered mental-health issues in at least one student because of this course alone. Rigor is fine. Celebrating preventable psychological harm as \u201chigh standards\u201d is not. Deliberate punishment is not pedagogy.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-11-27T04:12:00.831264Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I have never actually had such a bad professor that makes me want to write a review for them here. Her slides are extremely vague and barely help. You are expected to memorize so many things even when she doesn't explicitly state it, and the practice problems are practically useless considering that the exam will be some theoretical concept she mentioned maybe once. It also seems like this class is at the bottom of her priorities and as if she needs half the class to fail in order to enforce high standards. I would advise you save your mental sanity and take this course with someone else as you'll put in hours on end to still end up lost during lectures and exams.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-10T20:42:05.005626Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "nothing good to say. All the reviews from this year pretty much echo how I feel. I hope Marine Carpuat reads over these reviews and considers modifying the syllabus/course structure for the students taking this next year.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-12-11T18:25:53.815790Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I got so discouraged by the class and how she taught things, I ended up skipping lectures, trying to watch her lectures online, getting confused, looking it up and finally getting an inkling of understanding, then getting smacked in the face with the exams. TAs sucked, grading sucked, the homework assignments sucked, and the slides sucked. If you value your time, your sanity, and your ability to exist on this mortal plane, you'll steer FAR from this professor.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-12T22:29:27.705207Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": null,
+      "review": "There is a lot of truth in the posted reviews. I\u2019m preparing for the final exam and have no idea how to even understand some topics because no practice problems were provided, and even if they were provided now, the final is in four days. She also covered much more material this semester than in previous ones. I don\u2019t understand why she\u2019s doing that. Why cover so much material without focusing on helping students retain it?\r\n\r\ni genuinely think she doesn\u2019t care about or empathize with students who are striving to learn. Her understanding of how learning works is very skewed.\r\n\r\nI'll definitely not take any class with her again, regardless of whether she is the best or a top researcher in the field. Who cares if you didn\u2019t even learn how to run a class after so many years? If you can\u2019t or don\u2019t want to teach well, don\u2019t teach, just focus on research and don\u2019t cause emotional pain to students who are already stressed.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-13T23:42:38.324289Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Next I see her name in any of the ML electives on Testudo, I just skip that elective. I went through hell this semester. Her expectations are unclear, not enough resource materials, exam questions are intentionally worded sh to confuse students, poor TAs, bad slides, and very old-fashioned way of teaching the class. The worst thing is that she has dense lectures with like close to 40 slides where she covers each slide in less than 2 min, which makes sense bc each lecture lasts for 75min. The problem is that her slides are dense but she just skims them as if we\u2019re \u201csupposed to know that\u201d. She also focuses on breadth,  not depth and solid understanding of fundamentals as if the more the merrier. Lol, no, it\u2019s not how it works. It\u2019d have been better if you taught less topics but covered them properly so I remember what I learned. In general, yes I\u2019m ending up with an A but i will forget 80% of what i learned in a week because she bombarded my brain with too much information. Conclusion: awful intolerable teaching. Be careful what you wish for!",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-17T11:57:46.154838Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I think she is genuinely very passionate about the class itself and covered a lot of different topics which was nice. I do agree that it would have been nice to have some variety in the practice problem sets and some more fun projects because the material itself was pretty cool. She allowed for a double sided cheatsheet for every exam so saying that the exams are mostly \"memorization\" is a bit ridiculous like you probably could have copied the practice exam solutions and done decently on the midterms and final. Genuinely, if you look the midterms and final, it was pretty similar to the stuff we have seen in practice exams or homeworks. She said that the exams would be harder if people used ChatGPT to do the homeworks and did not really engage with the material, and the homework averages were very high. When you take a 400 level CS class, I feel like you should be more prepared for fast paced rigorous content, especially since this class was definitely not harder than like 330 or 351. If you plan to actually study the material and go to her office hours if needed, you will do fine.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-20T15:01:49.370259Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "The lectures were done through a slide show, and I felt like the conceptual ideas were taught well (and we spent the most time on those), but not the maths behind the topics. Sometimes she\u2019d go through an example computation on  paper, but it wasn\u2019t the main focus. On the other hand, the exams mostly focused on computations and other math. The bulk of the first few problem sets was coding, so we didn\u2019t get a lot of practice with this. \r\n\r\nWe were allowed to bring a cheat sheet to exams, so memorization was never a problem. However, the computational questions in the exams had a lot of vague or strange wordings. I think the goal was to make us figure out which methods to apply (since we had all the formulas on our sheet), but I had a harder time figuring out what was being asked. I don\u2019t think the proof questions worked great either because the conceptual nature of the lectures doesn\u2019t provide clear definitions and criteria to go off of.\r\n\r\nOverall, I didn\u2019t get the impression that Marine dedicated much time to the class. Piazza questions were left without answers and pieces of the course had inconsistencies (as an example, different assignments seemed to flip flop on if MSE loss divides by the number of samples).",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-12-22T01:55:19.833791Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "The one star reviews some it up. The class itself wasn't hard and the material is interesting but she makes the exams too hard and teaches at too high of a conceptual level. Averages were really low and she didn't curve. \r\n\r\nAvoid taking at all costs !",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-12-22T15:34:20.758865Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Tough course. Slides were not very helpful. Homeworks were pretty interesting but I didn't really feel like they were very helpful when it came to exams. What made the biggest difference to me was doing all of the reading for each topic. The week before the final, I watched every single lecture video and did every single reading and got a 90. I don't know if it was just me, but I found it really hard to pay attention during in person lecture.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-28T01:45:53.819733Z"
+    }
+  ],
+  "name": "Marine Carpuat",
+  "slug": "carpuat"
+}

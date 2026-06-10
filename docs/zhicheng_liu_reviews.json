@@ -1,0 +1,76 @@
+{
+  "courses": [
+    "CMSC734",
+    "CMSC471",
+    "CMSC734",
+    "CMSC471",
+    "CMSC734",
+    "CMSC471",
+    "CMSC734",
+    "CMSC471",
+    "CMSC396H",
+    "CMSC734"
+  ],
+  "average_rating": 3.5714,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC734",
+      "review": "A really nice and knowledgeable professor. I enjoyed this class and learned a lot about visualizations and the D3 library (will definitely try to use it in the future). The course was overall chill. The homeworks and assignments gave a good example all sorts of visualizations.  Would recommend taking this class and would recommend this professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-12T16:29:55.419436Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC734",
+      "review": "The professor is very bad in grading.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-12-20T02:46:24.380194Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC734",
+      "review": "Zhicheng is the very essence of indolence and apathy. Spent an entire month giving \"special topics lectures\" as an excuse not to teach. His TA did all of the grading of the ridiculous, half-baked programming projects with the incredibly buggy D3 library. Aside from being entirely arbitrary in the grading, she was slow in doing so. Not much better than the actual prof. The final group project is a tremendous waste of time with extremely unclear objectives and arbitrary grading criteria. This isn't sour grapes either, I earned an A without really trying. But did I actually learn anything in the course? No, absolutely not. Zhicheng was poached from Adobe if my memory is correct; the University of Maryland would do well to send him right back.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-02-05T17:09:14.648337Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": null,
+      "review": "The course description implies that he will teach you D3.js but he doesn't actually teach any D3.js in lecture, he just assigns homework assignments in D3 with written instructions that you follow but don't really get much out of. He is nice but I didn't learn anything useful in his class.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-21T21:25:44.079217Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC471",
+      "review": "Very well taught course, will definitely recommend this course and professor.  He is very knowledgeable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-08T19:32:06.436758Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC471",
+      "review": "I learned a lot in zhicheng's class. He is very knowledgeable and course is interesting overall",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2026-02-11T00:35:50.912863Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC734",
+      "review": "The course is interesting, I learned not.  Zhicheng is very chill and knowledgeable.   Though the TA grading is bit slow",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2026-02-11T00:37:05.942901Z"
+    }
+  ],
+  "name": "Zhicheng Liu",
+  "slug": "liu_zhicheng"
+}

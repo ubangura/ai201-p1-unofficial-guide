@@ -1,0 +1,16 @@
+{
+  "courses": [
+    "BIOI602",
+    "CMSC320",
+    "CMSC420",
+    "DATA602",
+    "DATA320",
+    "MSAI602",
+    "MSML602"
+  ],
+  "average_rating": null,
+  "type": "professor",
+  "reviews": [],
+  "name": "Anna Evtushenko",
+  "slug": "evtushenko"
+}

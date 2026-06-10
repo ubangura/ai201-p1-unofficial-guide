@@ -1,0 +1,517 @@
+{
+  "courses": [
+    "CMSC216",
+    "CMSC351",
+    "CMSC351",
+    "CMSC436",
+    "CMSC351",
+    "CMSC132",
+    "CMSC436",
+    "CMSC351",
+    "CMSC424",
+    "CMSC436",
+    "CMSC351",
+    "CMSC436",
+    "CMSC424",
+    "CMSC436",
+    "CMSC436",
+    "CMSC424",
+    "CMSC436",
+    "CMSC424",
+    "CMSC436"
+  ],
+  "average_rating": 4.0984,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "Herve is a solid prof. He is new to the CS department, and he has been co-teaching 216 with Yoon this semester. Honestly, his lectures can be a little dry, but he teaches you all the key points (outside of some things you need to go to discussion to in order to learn). From what I've heard, his exams/quizzes have been much fairer than Yoon's have been. I can't speak for the comparison, but in my experience, the quizzes and exams have been very fair. He obviously wants his students to learn, and takes time to answer student questions thoughtfully.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2022-11-10T01:59:22.921774Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "Agree with the other review posted. His lectures can be a little bit boring at times but you can tell he cares about you trying to understand what is going on and takes things step by step. He is new and co-teaching with Yoon so I can't speak about how he organizes his classes because he just does what has always been done in 216 at UMD. All of his exams and quizzes have been very fair- if you feel comfortable enough with the material you'll do well. There's no \"gotchas\", just go to class and discussion and make sure you know everything on the slides. He also records lectures which is nice!",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-11-22T19:56:31.422803Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "i love this guy; fairest exams out and really smart. also posts his lecture slides at the start of the week and opens office hours whenever people need them.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-12-13T15:18:09.885203Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Exams are fair but I didn't go to lectures that often because I couldn't extract knowledge from them compared to Justin's lecture notes. Overall, I had a pretty good time.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-16T05:49:21.228277Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Really nice guy who wants you to succeed and his exams are relatively fair and definitely not too hard. However, his lectures are really poor, and it is hard to follow him while he is lecturing off slides.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-12-18T14:30:05.715687Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Don't take this class with him... Just dont. Unless you want to be fuel for Justin's curve (Justin is a much better teacher with easier exams, they co-teach the class, and sum both class grades together at the end, fucking over anyone who took Herve) simply do not take his class. You will learn more about the class from the Homework questions than his lectures, which really says something.",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2022-12-21T16:59:52.509400Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "absolute goat. Exams were pretty fair and helped since the final was hard and had a lower average. Holds review sessions before exams and is incredibly approachable outside of class. Very nice guy!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-22T03:40:41.765294Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "Herve was doing well until midterm 2. His lectures were okay, but boring to me. Midterm 2 had a big typo but we didn't get any notification until the end. I thought he would do better for the final exam, but no. I have to agree that the final exam was pretty easy but it was so bad due to the typos and vague questions. It has about 6-7 errors in the final exam",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-24T03:46:38.623521Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "Very nice guy who gives fair quizzes/assessments, but has kind of boring lectures and his TAs grade slowly. That being said, he's still very knowledgeable and is very willing to answer questions and help students.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-12-24T14:12:09.731478Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "I was a bit unsure about him at first, he can be a bit dry and boring during lectures. During office hours, he's a completely different person. He's always willing to meet one-on-one to help you debug code or go over the material. His second midterm was pretty abysmal, but he made up for it with a more than fair final. My biggest gripe with 216 was that its design is atrocious. This is not necessarily a reflection on Franceschi, however, as it was his first time teaching the class with Yoon. The projects are likely leftover from one of Nelson's past semesters but are nevertheless poorly written/explained. So much so that the wait time for a TA during office hours would be 1-2 hours on a good day. Given the natural stresses of 216, Franceschi was very fair and understanding of circumstances and was great at reading the class and adapting to fit their best interest.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-12-29T03:04:25.586019Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "Overall, I think Herve did the best he could with what he was given. The project descriptions were abysmal (which might have been because Herve was co-teaching with Yoon), but the exams were generally fair (minus a few typos that were significant but mentioned during the exam). He held exam review sessions which were pretty helpful, and I think it was a pretty fair course.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-01-03T17:40:10.772749Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "As a professor, Herve isn't too bad. He includes a lot of examples in his lectures which really helps sometimes, if you can stay awake long enough to listen to them. The course structure was terrible, OH waiting times were nearly impossible, and since Herve doesn't check up on grading with his TAs, we always got our grades back really late. It was also his first time teaching at UMD so I understand why the project descriptions were so vague, since he told us he didn't handle anything about the projects himself. Also, no curve or cutoff adjustment. Final average was 79.5 which isn't too bad imo.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2023-01-06T13:20:40.701795Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "This was my first semester at UMD, so not a lot of comparisons to make in this program, but boy did I enjoy learning from Herve this semester. \r\nMy experience is that Herve is a smart and approachable, and makes difficult concepts easier to understand.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-01-06T21:50:38.170132Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "Herve is the absolute best professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-03-16T17:34:22.391802Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "CMSC351 is a tough class. The TAs are hit or miss during office hours. Get started on all the homework early.",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2023-04-01T18:33:42.518379Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Clear lectures, fair exams that you can prepare with past exams, practice problems, and homework. Homework is fair, relevant to practicing with the material + exam, and derived from his lectures and examples. Records lectures, responds actively on Piazza. Quick grading turn around (within a week or so usually) because there are many auto graded questions. Similar exam averages (80-85%) and style to Justin. Especially helpful during office hours, he's willing to patiently work with you and comes up with examples and go through them multiple times until your confusions are cleared. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-06T03:44:46.872828Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC216",
+      "review": "Herve makes the exams extremely fair, but the lectures are really boring. Most of my learning was done outside of class time because he reads straight off the slides. That being said he is worth taking just because you know what you are in for",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-04-18T17:41:09.739807Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "I've taken Herve for both CMSC216 and CMSC351 and I'm very glad I did. He joined UMD just recently yet he was a much needed addition, as it is rare to find a professor who teaches such hard classes fairly. \r\n\r\nIn both classes, despite their difficulty, the assignments/exams he gave have always been fair. Unlike many professors who teach these courses, he isn't unreasonable with content difficulty or work load. He is very understanding and willing to help students who need it. I got COVID-19 early this semester before a test, and he worked with me on a make-up exam date and even opened his Zoom office hours late to help me with the homework since I no longer could go to office hours. His lectures can be a bit disorganized at times, but overall he feeds you the right information, and everything you need to know can be found on his slides, which are very solid in my opinion. His CMSC351 course structure is very similar to Justin's (since they co-taught in the previous semester) which allowed me to utilize Justin's notes in my studying, which is a very helpful resource. \r\n\r\nBoth CMSC216 and CMSC351 were ridiculously hard classes, yet Herve managed to make both manageable and fair, which is something that not many professors in the Computer Science department do. \r\n\r\nSome of the most difficult challenges I found with CMSC216 were due to the fact that he was co-teaching with Yoon, whose class was a nightmare. As for CMSC351, there haven't been any unreasonable challenges, and he isn't co-teaching with a professor who likes to make their students' lives terrible. He even opens up Zoom review sessions that he personally teaches which are not only very helpful, but something that I wish more professors would do.\r\n\r\n He may not seem like a department-wide favorite like Justin and Nelson considering his other reviews, but he is a very solid professor which is quite a rarity for such crucial CMSC classes.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-04-24T23:35:26.850221Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Herve is a solid professor for 351 in that you know what you can expect in his course. The exams are fair, with relevant homeworks and practice exams to help prepare you, and I found that just knowing how to do those is enough to do well on his exams. His actual lectures themselves can be dry and sometimes seem convoluted, so I didn't do much of my learning in class, but his lectures (proofs and all) seem more in depth than the level of understanding we need to do his assignments and assessments, so it was fine overall. Herve does have a habit of having multiple typos on exams which isn't ideal, but what CS professor doesn't, really. I had him for 216 as well which I've held back on reviewing, since I've realized my suffering in that class was probably more due to that fact that he was co-teaching with Yoon (meaning we had the same atrocious course structure but without their class's curve) than anything on Herve's end. Would recommend Herve for 351 especially over some of his counterparts.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-01T21:30:10.213148Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "The way Herve lectures is by coding an app during lecture along with some slides that define the functions and things we are using. Projects are pretty easy and most can be done in a a day or two if not a couple hours. Main gripe with the class is the quizzes. Quizzes are very syntactical which makes them feel unfair/pointless when the the IDE the course uses autocompletes for you and makes it seem more like a memorization test. However he did mention that he wants to reduce the need for memorization and provided documentation on the midterm and final. Class also was a little disorganized with quizzes, as there was no schedule for them and we only really knew about them from the profs in class/elms announcements, and there were sometimes mistakes/unclear details in the project requirement papers, though he is very receptive to questions.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2023-05-05T23:22:09.773687Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "I came into 351 fresh out of Yoon 216 and you and I know that was a dumpster fire. My first few lectures with Herve felt weird because I had never before expected to immediately understand what came out of his mouth. Felt weird having a good cs professor. The homeworks and practice exams are really really good practice and his slides are pretty good. He and the TAs are pretty active on piazza as well. Very fair professor, take him. You don't want kruskal bro.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-05-15T15:51:27.463122Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "I had him for 216 and it was  just a tough class because 216 projects are just hard. Still he gave fair exams and was very pleasant to interact with. I had him for 351 and he is the reason I passed. His style of testing and homeworks is to make the exams manageable.  Just a super nice guy and a real win for the CS department.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-17T15:27:07.105423Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "The class is challenging, but you can pass it by meeting with TAs and working with other students for homework and exams. Herve's exams can be graded harshly but they doesn't really matter if you ace the homeworks.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2023-05-25T04:01:30.241533Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Great professor for 351. Teaches straight from Justin's notes an provides decent examples during lecture. I had taken 351 with him over the summer, so the class was mostly online. Being online, most of the lectures were just him going over the slides and focusing on certain topics when they were very theory heavy. He would do a great job of explaining the tougher concepts and it would leave me surprised that I am actually understanding everything; even after every single person I know telling me 351 is going to be near impossible. The homeworks are not very theory based at all, so as long as you can grasp the concepts taught in class, the homeworks will be pretty easy. This extends to the exams too. The exams in this class were very fair. If you spent a good night or two studying over past homeworks and sample exams, you would be fine for any exam.\r\n\r\nDefinitely take 351 with him if you can. I think his class is one of the better ways to get through 351.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-07-07T17:17:45.462835Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Herve is honestly the best CS teacher I've had. The way he teaches in lecture is amazing. I had Justin for 250, and even though Justin great, Herve just breaks down content and explains concepts much better. He's extremely approachable. He's always willing to help you out in office hours, even outside the scheduled times. His TAs (especially Nikhil) are truly amazing at teaching and helping you out. Exams are extremely fair and really similar to the practice exams. Honestly, I was so nervous for this class, but this has got to be the most engaging, interesting, best designed, and well taught class I've taken. As someone who has taken both Herve and Justin, Herve is the way to go!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-07-08T04:48:16.431976Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Herve saved me from taking the devil of 351(Kruskal). His homework is fair in terms of the work and the deadline to finish it these aren't bad at all. He does recordings so missing a lecture isn't a problem and is super helpful during office hours and can meet outside of office hours. His exams are easy asf cause the style match to the practice he's going to give and it the questions are not bad at all. Some of the improvements he can make are that sometimes the hws and solutions can have errors and lectures can get boring as he reads off the slides. In the end Herve is also chill so with him and Justin teaching 351, it's honestly an ez class for a A/B",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-07-11T06:30:23.325524Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "amazing professor!! he explains concepts so clearly (and basically follows justin's notes while adding some additional interesting concepts along with way). lectures are very clear and follow the slides. sometimes he has minor typos on homeworks and slides but they're easy to catch and trivial because if you point them out he'll correct them so it's not that big of a deal. the TA's are great and generally we get our questioned answered fairly quickly. 351 is a hard class but his homeworks help reinforce concepts - nothing is busy work. exams are incredibly fair but beware if u make small mistakes you'll easily lose 10% or something so make sure to practice a lot, clearly read questions, and not make tiny algebra errors. also his fits + kicks are fire!! really cool chill dude",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-07-11T14:42:30.655458Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Love his French accent.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-07-15T03:20:48.098301Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Herve has the easiest exams and the best slides I've ever seen. He basically reads off his slides in lecture but I don't blame him cause his slides are so good. At some point, I stopped going to class and still did well because of his slides (he does not record lectures). I originally had Maks co-teaching with Kruskal for 351 but I dropped it to take it with Herve over the summer and it was the best decision.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-11-09T02:38:21.156957Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Kind and very passionate. He kindly replies all the Piazza questions for students.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-11-15T06:53:54.920089Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "He co-taught with Justin this semester, which I guess this might be a review more for Justin. I didn't go to class and just studied from the online notes, which saves a lot of time and provides all the information you need for exams. Piazza helps a lot.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T06:18:23.668371Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Really helpful slides and straightforward exams",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-20T23:13:30.038648Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Very average CS professor. Doesn't teach that well (lectures are just run-throughs of code snippets), but the class is super easy and the projects are simple. Everything about this class and the professor felt very fair - take 436 with Herve if you want an easy A.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-12-23T04:11:34.048568Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Herve is a very kind professor and goes through a lot of examples in class to help you work through everything. 2/3 exams were very fair and reflected what we had gone over in class, past exams, and the homeworks. However, one exam was unexpectedly hard compared to the practice exams we were given, causing a lot of students' grades to go down. He is very helpful and so are the TAs in office hours, so they will work with you on the homeworks and ensure you understand the concepts. Study and prepare well for the exams because the class grade depends entirely on your exams rather than other assignments.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-28T01:05:44.247344Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Good teacher, explains well, and is pretty organized. But as for someone who's as experienced as he is in the CS world, sometimes it feels like he doesn't know how to use a computer... most recent example: he opened two edge windows but thought one of them disappeared because he couldn't find the page he was just on when he was on the other window.\r\n\r\nThe projects were pretty fun and doable within the time frame if you start early (I started most of them late and still turned in on time). Quizzes were also fair and reflected what we learned.\r\n\r\nDefinitely recommend taking it!!",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-04-27T06:57:54.457472Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "He's such a kind and understanding professor with the ability to teach well.  The only negative remarks I would give about Herve is that lectures can sometimes be a tad boring and occasionally there are errors on the homework.  Besides that, I thoroughly enjoyed taking 424 with him, and I definitely learned a lot.  In particular, I appreciated how well he structured the course in order to balance both *practical* and *academic* topics.  I'm glad that not only did we focus on the internal workings of db's in B+ trees, etc., but we also learned a lot about relevant technologies in the industry and how to use them such as MongoDB, php, et cetera.  \r\n\r\nWould 100% recommend 424 with Herve, no doubt about it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-19T18:52:54.019280Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "I would suggest taking 424 with Herve! This was his first time teaching this course, and he provided study guides and practice material for quizzes and exams. There was one midterm, and one final. There were 5 quizzes throughout the semester. Quizzes and exams were easy to get a good grade on as long as you keep up with the content (there were no weird trick questions). There was weekly homework, but they are straightforward, and they rely on the slides (which he records and posts) and most can be completed in about 1 hour if you understand the content. Class was dull at times, but it was nice to come and support Herve since he genuinely seems knowledgable about SQL and databases.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-23T01:01:58.554515Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "good professor, fair quizzes and exams as long as you actually watch all the lectures. i took it in the summer so it was very fast paced. quizzes are pretty specific from the slides and lectures, so you have to pay attention. the practice quizzes help a bit though but don't rely on it because it wont be the same questions. exams are fair if you actually pay attention to the class. i didn't do that well because I started skipping the lectures and didn't watch recordings so my grade tanked. hard to do good by only reviewing practice exams, you actually need to learn the material.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2024-07-10T21:38:34.940291Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "It's easy to get lost and overwhelmed because he uses a lot of slideshows. Otherwise, he's fair (our final had no trick questions) and understanding (responds to student emails) and wants you to succeed.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2024-08-05T00:00:47.639151Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Good guy but tests and quizzes are so syntax specific. I dont see the point in memorizing these pointless things that are a Google search away.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-13T02:14:28.703207Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Yeah I\u2019m not gonna lie, really wasn\u2019t a fan of Herve\u2019s teaching style. I never went to his lecture because he would teach algorithms through slides and it\u2019s really difficult to understand logic-y and mathematical things through slides rather than it being drawn out, which Justin does which I love. Not only that his midterms were quite awful, like there too many overly confusing questions for the time limit given, as well as the fact that Justin\u2019s exams were way more straightforward compared to Herves. The only reason I took him was so I didn\u2019t have to endure 8 AM midterms with Justin but I regretted it. Could\u2019ve gotten a better grade. Many ppl this semester were on the borderline for passing/failing so I don\u2019t know what happened.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2024-12-21T17:03:04.595545Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "herv\u00e9 is hella nice (and lowkey has fire fits), but imo his lecture style isn't great because it seems like it's more him mumbling to himself. this semester, he co-taught with justin (& ting), and they had weekly homeworks and 5-question mcq quizzes on canvas. the mcq quizzes were fine, and the homeworks were generally straightforward although sometimes they threw in some tricky questions. honestly, my biggest complaint about herve is his exams. our first exam had a median around 85, which was pretty good, but our other two exams had medians in the low-mid 70s, which was significantly below both justin and ting's medians. luckily, each professor set their cutoffs differently (i had a 79 and ended the class with a b-, so i'm not certain how much herve curved), so while herve's students definitely had significantly lower grades than justin's or ting's, at least our final grades didn't depend on theirs",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2024-12-30T05:37:30.478918Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC351",
+      "review": "Tl;DR: I would not recommend taking Herve for 351\r\nPros:\r\n\r\n- He's a nice guy. I went to his office hours after exam 2, and we went through my exam together, going through the things I did correctly and incorrectly.\r\n- He's very coding and programming focused, so if that's your thing, you're in luck.\r\n- Our semester, he co taught with Justin and Ting, so the homeworks and the quizzes were fine.\r\n- It was a common final\r\n\r\nCons:\r\n\r\n- He just can't teach well. He talks a lot, but it's hard to piece together what he says in a way that logically makes sense. You have to be giving 100% brainpower to try and understand what he's saying. It's not that he has a strong accent, it's that he explains things in a very convoluted way.\r\n- Compared to Justin's lectures, Herve's lectures feel like they have no organization or flow. He kinda just jumps right into a topic without really prefacing it. He just starts talking and kinda prays that we understand it.\r\n- A lot of his slideshows have transitions, but that means that as standalone slideshows for review, a lot of them will just have random lines or blocks all over the place, and this makes the slideshows unreadable if you're studying on your own.\r\n- The biggest con of the class was his exams. As another review mentioned, our first exam averages hovered around Justin's and Ting's averages at an 85, but his exam 2 and exam 3 averages were significantly lower than Justin's and Ting's averages.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-01-25T17:31:01.856988Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "cons\r\n- lectures are boring and a little bit disorganized\r\n- chooses the wildest colors for his slideshows(one had teal blue background with red or pink text)\r\n- very memorization focused\r\n- I don't think I really learned that much\r\n- english is not his first language so we spent a lot of time debating over the wording of homework questions and the TAs were pretty rude and unhelpful when asked for clarification(everyone I knew was confused)\r\npros\r\n- easy\r\n- not that much work\r\nstructure of the class:\r\nbiweeky quizzes(fairly easy), 1 midterm, final exam(fairly straightforward). He gives mostly similar practice questions\r\nweekly homeworks - mostly fill in the blank vocabulary type things which were easy(if you understood what was being asked which was not given), a couple coding homeworks which were a lot harder",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-12T13:05:41.649915Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Super straightforward lectures and organized into distinct units. First half of the semester was extremely easy as it is more conceptual and logic based, whereas the second half of the semester is harder if you don't memorize syntax. If you go to lecture, you literally don't need to study at all to get a good grade. Do the homework to study for the quiz and you're set. His style of questions is consistent and there are no curveballs. \r\n\r\nMore detail about the HW: 11HWs, 9 written + 2 coding. The written hws take ~20-30 min on avg if you know what you're doing, maybe ~1-2hrs if you need to look through notes/slides consistently. Coding HWs are a little longer but you can do them with a partner. Takes ~2-4 hrs if you do it alone.\r\n\r\nLectures are always recorded and although they may be dry, reading through the slides makes sense and pretty easy to follow along. Funny guy if you like dry humor.\r\n\r\nAlthough it may not feel like a crazy amount of information, most of it is quite practical/I've interacted with it while working. It'll give you a good foundation.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-18T20:53:03.368479Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Let's get one thing straight, this class should be abolished. \r\n\r\nProjects - They're fine\r\n\r\nHerve - Boring, but a nice guy in general(But I don't go to lectures because it's boring, he doesn't have that Nelson charisma, so watching him type code is really mundane)\r\n\r\nQuizzes/Exams - This is genuinely the worst CS class I've encountered when it comes to this section. The guy forces you to memorize random obscure details about Android specifically certain functions along with their parameters and their return type. Heck he even makes you try to remember what class the method is inherited from. This is fine if he really only made us learn a limited amount but for each topic there's like a 100+ fucking terms you have to memorize which makes this class so fucking worthless. In the end, this is android programming where you're supposed to learn app dev through building projects. Remind me how making exams/quizzes basically 50 percent of your entire grade teaches you about app dev. Btw, I know I'm a dumbass but for reference I've taken other CS4XX classes which have material much more complex than this class and have gotten much better grades. Also in those classes, some of them gave you the option to bring your own cheat-sheet which is crazy since he doesn't allow us to have any in our class. He does provide a cheat sheet but it's fucking useless to the point that it only helps for basic questions. \r\n\r\nBtw, I currently have a B in the class and have to take the final tmrw, but I'm not in the mood to study for this goofy ahh class so I'm doing the bare minimum just to get the credits for this class at the very least",
+      "rating": 2,
+      "expected_grade": "D-",
+      "created": "2025-05-20T04:29:12.104671Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "He's a nice guy, projects are good and not too hard. Lecture is kinda boring but not required. But the quizzes are exams are just extremely annoying to study for. You have to memorize 100 different tiny details about each method, class, and syntax. I got points taken off because I accidentally wrote 1 interface to be implemented before another, for \"wrong order\". The grading is just extremely nitpicky, especially on the midterm and final.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-23T20:21:18.662282Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Projects are easy but the quizzes and exams are straight up just memorizing how to use random android library functions that are just a google search away. They are not practical at all.\r\nThe projects were pretty fun to do and you learn a lot. Lectures are soooo boring, he just types code all class and they are so hard to see if you don't sit in the first few rows.\r\nAlso he made his exams harder this semester, he mentioned in his lecture that exams from last semester were too easy so he's gonna up the difficulty. \r\nHis grading is pretty quick and he is pretty organized.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-25T15:19:39.142466Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "I guess it's an easy but a bit boring class. The exams are a bit tedious because the grading is nitpicky.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-08-07T22:20:48.543575Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": null,
+      "review": "I don't know him, but he lowkey sounds chill ngl, type shi fr",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-08-15T13:21:18.078577Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Great Professor, I had him for both CMSC424 and 436. As long as you show up to class to understand lecture (the videos can be a little hard to understand sometimes), pay attention, do the HWs (which are very straightforward), and study for quizzes and exams ahead of time, you will most likely get an A. The content you need to know is straight from the slides, nothing ever is there to trick you. Sometimes if he makes the midterm too easy, he might give a harder quiz, but it all balances out. The projects in 424 specifically can be pretty cool to do when you get to coding, the HWs are fairly straightforward too",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-16T22:49:56.861331Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Herve is super friendly, like genuinely one of the nicest guys at UMD. I overslept for a quiz once and I emailed him asking if there was anything I could do, and because he's so kind he just let me make it up with a small penalty. On top of that he gave me chances to submit the right assignment, and hes just a good teacher in general so I would recommend.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-12-17T03:14:37.730380Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Chill guy. No complaints. He's always a good choice. I don't even go to his class because his slides are basically all you need to know for any assignment quiz or exam. It was the same way for when I took 424 with him. As long as you read all the slides and study them then you'll be fine. He provides good study material like old quizzes and exams and they are usually very similar to the actual quizzes and exams. Plus he records lectures if you really need it.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-20T09:38:32.582023Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Just read the slides it's all you have to do. And he gives practice quizzes and exams that tell you exactly what to expect. Nice guy",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-20T09:40:55.176158Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "It's a very chill class with him and he teaches fairly well. However, a third of the content that was on quizes or exams were based on straight memorization like do you remember the library that allows you to do this. Also, the wording on the last quiz, homework, and exam was a bit confusing and very stubborn in terms of accepting a different interpretation of his vague questions. Other than those 2 complaints it's a chill class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-21T15:32:51.282324Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Lectures are long and boring af and I genuinely fell asleep a few times. Quizzes and exams are super annoying to study for because you have to read through hundreds of slides and get tested on random stuff about kotlin and the android sdk like specific syntax or the return type of certain functions and grading is kind of nitpicky. However projects are pretty good and you actually learn a decent amount, the grading was really quick, he seems like a nice guy, and has a cool accent.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-28T02:14:45.657679Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Not too bad overall. While the course material is incredibly useful, the lectures can be quite dry and confusing, so I mainly studied the material using the slides or on my own. The professor is clearly organized, but the quality of class resources is inconsistent: some slides are excellent, while others are messy, and the lack of pre-populated databases makes it difficult to follow along with live examples.\r\n\r\nThe workload is fair, as the homework reflects the lecture topics well, and the first three quizzes are great for understanding the material, though the last two are quite memorization-heavy. While the exams are fair and include a clear topic breakdown, the 35% weighting of the final felt unnecessarily high. Overall, it\u2019s a very manageable and useful class; you'll do fine.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-31T17:32:05.629200Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Nice guy and mostly chill class. Just be careful not to slack off, because the end of the semester is much harder than the beginning. We spent like 2 months on SQL and then covered implementation details (B+ trees, indexing, merge sort, etc.) during the last few weeks. Quizzes and exams are fair, though do keep in mind that old/practice ones won't cover everything you'll be assessed on.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-01-29T07:27:12.379411Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Great professor. His slides are very simple and easy to understand and his quizzes and exams are very generous. It's inspiring how he manages to teach while overcoming his chronic disability of being French.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2026-02-03T02:16:24.427211Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "One of the easier upper level CS courses in that the material isn't conceptually demanding (compared to some of the low-level or mathy upper level CS courses). A better title for this course is \"Mobile App Development\" (\"Programming Handheld Systems\" can be misleading for embedded systems folks), and Dr. Franceschi uses Kotlin/Android Studio (as opposed to Flutter or React Native). Hence, a big part of doing well in the course is to familiarize yourself with Kotlin syntax and Android Studio, which he provides plenty of resources for.\r\n\r\nWhat you learn is relevant to mobile app development in general, regardless of the language/framework that's used in class. Syntax is the first thing you learn when picking up a new language, often followed by learning to read documentation. Writers of some of the other reviews seemed to miss this.\r\n\r\nIf you're reading the other reviews for this course that complain about \"unfair/pointless\" grading, lack of a cheatsheet, points taken off for incorrect code logic, or other easily solvable concerns \u2013 keep in mind that in any course that emphasizes learning a new language or framework, you are tested on your knowledge of the language/framework, NOT how well you can use an IDE or autocomplete. If you're proficient in ANY object-oriented programming language, then you know the learning curve is steepest at the start. Stay up-to-date with the material for the first 1-2 weeks, and you'll quickly learn what approach works best for you with regards to grasping the material\r\n\r\nAs for the class/grading structure, this is how it was for Fall 2025 (you can decide what's a pro or a con):\r\n- Dr. Franceschi posted all code and slides from class, and recorded every lecture to watch\r\n\r\n- in decreasing order of what was weighted most: final exam, total project grade, midterm, group project, quizzes. I understand the annoyance with quizzes because they could consist of questions from a range of given topics, and to do well you're inclined to knowing absolutely everything which makes them exam-like. Nonetheless, Dr. Franceschi doesn't throw curveballs, and the quizzes were the exact same in structure and style as the practice ones he posted. And doing bad on some quizzes won't kill your grade.\r\n\r\n- homeworks are projects, which were straightforward, and tweaking code examples from class/Canvas will help you a TON.\r\n- as with any group assignment: what makes/breaks your grade is your group; at worst, you'll end up doing more work than you intended. As long as the final result follows the rubric, there's nothing to worry about (you won't have to publish your app nor will outsiders be testing it).\r\n\r\n- midterm/final exams felt very long; exam questions matched practice questions in structure and style. Completing projects is the best way to prepare for the exams, followed by skimming through the code and class examples afterwards. He gave us documentation sheets with some class/functions/interfaces/variables that were on the exam, which guarantees free points if you know how to read. Regrade requests were addressed quickly.\r\n\r\n- Personal opinions: Dr. Franceschi's lecturing style is monotonous and not the most engaging, but it's far better than a professor who rushes or teaches like everyone already knows everything. He's respectful and clear about the class structure (and any changes to it that come up). Use the recordings to your advantage.\r\n\r\nI'd rate the course a 4.5/5 if I could. This is a lengthy review, but one that hopefully clears up some misconceptions about the course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-11T03:39:10.955553Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": null,
+      "review": "Course is boring, the slides are boring, but in the end this is the course that landed me a faang job. Course is p easy, just pay attention to the slides and lectures and you'll pass the quizzes no diff (very memorization based). This is a pretty effective way to learn android dev and kotlin so i do highly reccomend this class. Kotlin is also nice to learn and a great niche to specialize in with kotlin's multiplatform being more widely used accross the industry.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-03-01T21:28:11.078981Z"
+    }
+  ],
+  "name": "Herve Franceschi",
+  "slug": "franceschi_herve"
+}

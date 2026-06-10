@@ -1,0 +1,1202 @@
+{
+  "courses": [
+    "CMSC122",
+    "CMSC131",
+    "CMSC132",
+    "CMSC216",
+    "CMSC389N",
+    "CMSC389W",
+    "MATH299M",
+    "CMSC132",
+    "CMSC122",
+    "CMSC132",
+    "CMSC131",
+    "CMSC132",
+    "CMSC132",
+    "CMSC132",
+    "CMSC122",
+    "CMSC131",
+    "CMSC131",
+    "CMSC122",
+    "CMSC131",
+    "CMSC132",
+    "CMSC132",
+    "CMSC122",
+    "CMSC131",
+    "CMSC132"
+  ],
+  "average_rating": 3.3151,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "What you would expect from a professor. He goes through the material relatively well, but fails to engage the class in any way. I was fortunate enough to have Nelson post his lectures for the class so I don't go to lectures anymore, but overall I feel the class is still manageable by just reading the power point slides posted online. \r\nCMSC132, in general:\r\nQuizzes can be annoying I recommend taking them seriously because they can really impact your grade if you don't do well.\r\nProjects: Projects were relatively easy I would just give yourself enough time to do them.\r\nMidterms: Overall, were generally fair but have very nitpicky questions in some cases, doing the practice midterms that are posted is more than sufficient study material. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2017-11-19T22:41:19Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram is really good at balancing teaching concepts and explains the actual code that goes into the course. The only caveat I\u2019d say about pedram is his discussion sections aren\u2019t always relevant.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2017-11-19T23:17:05Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Class wasn't too boring for an intro course. He tried his best to teach to the lowest common denominator, since it is an intro course. Grading is fair, didn't always know everything in lecture but he tried his best to answer what he could. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2018-03-20T18:53:54Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "A good professor overall with answers to all your questions and willing to admit if he doesn't know the answer off the top of his head. Entertained every question a student threw at him, even if he had to defer to later in the class to answer it. Many felt his midterms were extremely difficult, but they're fair tests of your knowledge in the class. They're challenging, but they're not impossible if you study all the content and can write the code. For all the exams, Pedram said what the coding section would be on (of course not the specific question but the general topic) to make sure you knew going in. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-05-11T00:01:59Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "No Piazza forum to ask questions only TA hours. When I asked the TA why he doesn't set up a piazza forum, he quoted Pedram and said \"I'm too lazy.\" Average on the midterms were about a ~60%. Pedram has a very monotone voice and as a result is very boring. Projects were alright, start early and you should be straight. Going to TA hours on the day a project is due is like waiting in line at a yeezy shoe release. I wouldn't take him if I were you. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-05-11T02:59:10Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "He knows his stuff but does not know how to test on knowledge. Midterm averages were pretty low, and about 15-20% of the class had to drop the class just because of those. He's definitely a nice guy, but the TAs weren't great, and the lack of TA office hours will leave you scrambling if you need help on a project. ",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2018-05-16T15:03:32Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram is an excellent lecturer. Class is super well structured, and he considers when it might be more effective to show you example code, then slides, or the slides and then the example code. In general, though Nelson is the one posting Piazza updates, he is simply there in lecture, teaching like he always does.\r\n\r\nI've heard when he is not co-teaching with someone like Nelson, his exams are very difficult, so take that into consideration. He is also very boring. A good majority of my section stopped showing up to either lecture or discussion because of this.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2018-12-09T01:05:13Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC216",
+      "review": "I had Pedram for 216 and for 132. I think Pedram is a great lecturer and does a good job of explaining concepts. He tries to spend most of his time going over live coding examples as opposed to just reading off of the slides. For 216, Pedram co-taught with Herman so we had Herman's exams and projects. If Pedram is co-teaching definintely take him. However, if Pedram is not co-teaching like he was for my 132 class, his exams are definitely way more difficult, but not impossible. I recommend him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-10T17:56:22Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC216",
+      "review": "Very boring. Does not engage the class very well. His voice has a habit of putting half the class to sleep and his lectures do not keep your attention. He goes over concepts pretty well, and his diagrams/drawings in class are helpful at times. When he makes his own exams, he is very pedantic about specific concepts, which is guaranteed to trip up most  students, including those who have a strong grasp of computer science.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2018-12-11T22:44:25Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Great, effective lecturer. He can be boring, but I think that can be overlooked when considering how well he can explain the concepts taught. However, I took this class when Nelson was co-teaching. I'm not sure how well he fares on his own",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2018-12-24T04:54:44Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Very good lecturing. It helped that he was co-lecturing with nelson so I think the exams were easier.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2019-11-27T20:19:38Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC122",
+      "review": "Terrible teacher. not engaging at all and regurgitates the slides. this was an intro class yet our exam averages were in the 50% range. do not take this unless you absolutely have to",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-12-10T19:06:32Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "His lectures are fine, he sticks closely to the slides and may elaborate with examples. If you understand the slides there's no need to go to class. Pedram is great, super understanding and accommodating whenever I spoke to him. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-12-19T21:37:49Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": null,
+      "review": "Fine lecturer",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-05-03T16:52:37Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "He's pretty monotone when he talks, but he explains things well, and his projects are okay. The quizzes are brutal though.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-11-14T17:28:05Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Clear and thorough lecturer. Modified the class (exams/quizzes) to fit online learning well. Nothing really to complain about. (Some people dislike his monotone lecturing style but I think it sounds fine at 2x speed)\r\n\r\nThe TAs really do most of the office hours, grading, synchronous teaching, but that's not a problem because CS TAs are mostly pretty cool.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-11-20T05:12:38Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Great lecturer, gave reasonable workload and challenging but rewarding and thought-provoking tests and projects.  Only small thing is that he didn't exactly go out of his way to show himself on camera or talk to students directly, but overall I can't blame him during a pandemic.  Never felt like his work was busy work and always gave us access to the slides and notes we needed.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-11-29T22:59:42Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Lecturing skills were overall okay. The format, however, was just going over what's next in the course until 50m is up. It felt a bit unorganized and the class felt dry as a whole.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2020-12-09T23:27:17Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram's lectures are super boring and monotone, but he is a good professor who explains his concepts very clearly. Watching his lectures on a faster speed is essential. CMSC132 was organized super well online (lectures, slides, and code examples always uploaded), although discussions often felt like a mixed bag because we would often just go over random Java topics that we weren't tested on. Around halfway through the semester, the difficulty of the projects and quizzes/tests (especially quizzes/tests) did spike a lot. You did have 8 hours for every quizz/test, though which was very generous. The first half of the course is pretty laidback 131 review.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-12-18T04:06:39Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Extremely difficult exams. ",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2020-12-18T18:30:28Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC122",
+      "review": "His lectures are fine, but can be unbearably slow and monotone. Tests and quizzes were OK as long as you kept up with your lectures. He didn't really interact with students much, but the class was fully online so I can't say that I expected anything different. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2020-12-21T19:04:56Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I took this course in Fall 2019\r\n\r\nPros:\r\n+ Competent and informative lecturer. A lot of people say he's boring, but I honestly disagree, he makes extensive use of example code to ensure students understand what's going on.\r\n+ Projects are good applications of what you are learning.\r\n+ Tests are fair.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-22T01:17:19Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Had him for online semester. The lectures were pretty slow but he definitely knew what he was talking about. The exams were a bit tougher than usual but I do feel that they were fair. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-12-23T23:22:53Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "His exams are extremely difficult and take nearly 8 hours to complete. Although he may brush over exam concepts in lecture, he doesn\u2019t provide any examples of how to actually use the concepts. If you do not have programming experience before college, good luck. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-01-09T14:22:41Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC122",
+      "review": "Lectures are on the boring side but the course was run will completely remote. The exams were mental difficulty because they were take home. The three midterms were supposed to take 1 hour but they took me 3-5 hours.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-01-11T22:21:59Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Exams were extremely hard, had to spend almost the entire day on them. He was a fine lecturer considering the asynchronous nature of the class.  ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-01-12T16:22:27Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": null,
+      "review": "I don't know why everyone keeps giving him 4+ stars even though the consensus is that his exams are really hard? Unless you're a super coder (coded before) or this is your only hard class,  don't take this guy. His lectures a dry, his midterms are BRUTAL and he barely curves. Especially for online, he makes the exams 10x harder than previous years, which would be fine if he curved each exam or curved the class more than like 1%, which he doesn't",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-01-12T20:51:52Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "He sounds like Ben Shapiro if you put his lectures on 1.5x speed but he is very hands off with the online format. You will pretty much only talk to the TAs and there is no live interaction at all with Pedram. His exams weren't that hard imo, but the projects were difficult not because they were hard to implement but because it was difficult to understand what needed to be implemented from the instructions. I've had bettter CS teachers and I've had worse. Decent.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-01-19T17:35:52Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Took this class Fall 2020. Pedram is a good lecturer. He might be a little boring, but he runs through plenty of examples and is very clear. The online exams are very fair, not very difficult but a little time-consuming. Start on them early and you can definitely finish in the allotted time. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-05-11T22:40:19Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram's lectures are slow but he explains things really well. His exams are super challenging though, and they cost me big time.\r\nI wish I had some prior knowledge of data structures before I took this class with Pedram because I quickly got overwhelmed by so much new material.\r\nIf you have some previous knowledge though, I don't think the class will be too bad for you.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2021-05-23T13:57:48Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC122",
+      "review": "His lectures can be a bit dry, and it's a little bit of a struggle to pay attention sometimes, but that's totally not his fault. He's a really informative lecturer and all the examples he does in class are great for helping to illustrate the concepts. The projects are pretty fun, and he gives plenty of time for you to work on them. The quizzes and tests are always on exactly what he says they will be -- no surprises there. If you study (do the worksheets he posts!) you'll be fine. The TAs were great, and Pedram says he's always pretty picky about who he lets TA his courses, so I trust that it would be the same in other semesters. This was the first coding class I've ever taken and it was my favorite this semester. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-06T02:06:52Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I took 131 with no coding experience during Spring 21 sem. His class was extremely difficult for me because of the difference in content covered on exams vs in the lectures. Projects and exams took me all day and I struggled really hard with this class. You won't interact with him at all so be prepared to teach yourself and always attend discussion.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2021-12-06T20:41:11Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Took 131 with him (with zero coding experience) which was brutal, figured the online nature of it made it harder and gave him another short in person. It was pretty much just as brutal, his exams and quizzes are horribly written and super unclear. He gives practice exams but they are absolutely nothing like what the actual exam will be like. If you haven\u2019t coded in highschool don\u2019t even bother.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2021-12-15T02:57:17Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Great guy, but I'll be the first to admit that his lectures are dry and his voice is very monotone. I think the difficulty and projects are fair. The TAs he has more than make up for any gaps due to Pedram, honestly the best TAs out of any class I've taken. Quizzes and tests were fair, I don't know what these people are talking about when they said the practice was nothing like the actual exam (obviously he has to change it up from the practice somehow). Only time where this was especially evident was studying for the final since there was legitimately no resources to help practice, but it's due to the CS department not Pedram specifically I believe. Overall, not the worst option, but for sure not the best for 132.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-12-18T17:57:32Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram was a good person to take CMSC132 with. He and the TAs worked hard to make the class a good experience, and it showed. There were a lot of projects, sure, but Pedram's lectures and positive attitude made the class more enjoyable. A little boring during some of the lectures, but still good.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2022-01-23T00:07:55Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Had him Fall 2020.\r\nAs other reviews state, his lectures are incredibly dry, but informative. He drones on even at 2x speed. The class is structured well. Projects, exams, and grading are all pretty fair. The third exam was absolutely brutal though. Still, if you keep up with everything (and practice advanced recursion) you'll be fine. Didn't interact with students much if at all, I'm still not even sure what he looks like.\r\nA remarkably average, bland professor.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2022-04-22T02:30:10Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Horrible. No help for students who are behind though attending all lectures. Terrible at responding to students with legitimate problems understanding and doesn't care for the improvement of students. No help from him. Terrible at conveying topics and concepts to students. TA office hours are your best bet at understanding anything. Teach yourself or suffer the consequences.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-04-25T23:54:16Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "He is ... ok! That is the best thing I can say in terms of lecturing. He is a very nice man, incredibly receptive to any questions and very flexible with extensions regarding religious holidays. He is a bit monotone but thats honestly fine. His TAs were good - when they actually showed up to office hours or discussion sections. The projects were fine with the exception of a few and the DS/A part of the course was a nice introduction to it. I recommend if you already have familiarity with programming and data structures, Fawzi would be better teaching you from the ground up if you wanted something more comprehensive. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-02T19:33:47Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "TLDR: boring lectures, hard projects, but nice guy.\r\n\r\nIt me say that if you know what to expect he's not so bad however my first time with him was a bit of a headace.\r\n\r\nHe said his class is beginner friendly which i don't think is true.\r\n(I had a semester of computer science classes at a community college)\r\n\r\nUsing eclipse for the first time was a bit tricky. I wish he had spent more time explaining.\r\nHis projects were a bit on the hard side.\r\n\r\nI often found the descriptions long and vague. things have to be done in a certain way to test certain skills.\r\n\r\nHis exams were a fair although is online exams were just mini projects which were a pain.\r\n\r\nIf you understand the topics then the projects aren't so bad, if you don't you could spend several hours struggling.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2022-05-09T01:27:07Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Is he the best lecturer out there? Probably not. But Pedram is an extremely effective lecturer who teaches very clearly if you put in the work required. Starting projects on time, studying properly will make this class very feasible. His exams are extremely fair and his prep/schedule helps you succeed a lot. He's also a great guy who truly cares about his students... happy to have had him for my intro CS course. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-13T18:44:01Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedrams lectures are very boring, his project descriptions are extremely vague and hard to follow, and his exams are somewhat difficult. In addition, there was plenty of content on the final exam that he only mentioned briefly in class but never went in depth about. He isn't the worst choice, but definitely not great.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2022-05-16T02:49:03Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram's exams and quizzes are extremely fair. In particular, his TA's this semester were exceptional. Some advice: start the projects THE DAY THEY ARE ASSIGNED and JOIN A STUDY GROUP!! Overall I had a much better experience taking CMSC131 with him this spring than I had taking CMSC131 with Fawzi in the fall. ",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2022-05-20T00:33:52Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I really enjoyed having Pedram for 132 this semester. Lectures were really helpful and material was interesting. Projects weren't too difficult when started early, and quizzes felt honestly somewhat easy. However, I will note that this semester he co-taught 132 with Nelson, so I can't speak to his class when it's not cotaught. Very nice and approachable as well, would definitely recommend.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-05-21T18:58:41Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I understand why he's rated the lowest compared to all the other professors, but he isn't too bad. If he's the only one available, you should be fine.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2022-05-25T23:18:54Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "High quality lecturer, posts lecture videos to Panopto. He explains the important concepts in detail. He explains code visually using drawings, which made sense for me since I am a visual learner. \r\n\r\nExams are fair and are reflective of the material he emphasizes in both lecture and discussion. A few days before the exam he will give the topics and hints, write them down. If you can do the practice exams and worksheets, you should be fine. There are some tricks, but you can prepare for these by doing the practice material.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-07-11T15:41:17Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I struggled a bit with 131 as it was my first time coding so I was nervous going into 132 knowing it would be more difficult and cover far more complex topics. I thought Pedram did a great job explaining it and his code examples helped me learn it pretty seamlessly. I had to put way more time into the projects but it paid off because they were instrumental in how well I was able to understand concepts. He was also very helpful in the Q&A sessions and reviewed all the important material that we needed to know for tests and projects. Very great option in my opinion. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-08-07T19:15:34Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram was an excellent lecturer. Slides are very organized, great code examples, good explainer, provides ample context for programming practices, concepts, principles etc. Posts lecture videos to Panopto, which are exactly like in-person lectures. Projects are very well constructed, and if you start them early and put effort into them, you'll enjoy and gain A LOT from them. Pedram's TAs this semester were also excellent, very helpful. Make use of Piazza; even if not asking questions, make sure to read it regularly to hear useful discussion and tips for the current project or upcoming exam.\r\n\r\nNot the most captivating lecturer, but certainly one of the best explainers.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-12-16T18:59:33.673427Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Had Pedram for 131 and 132, very solid experience. Exams are challenging but not unfair. Best way to prepare is to use the practice exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-21T21:41:55.371895Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram is not a good Java lecturer to say the least.  Besides Java having particularly poor design for some elements, his lectures in the first half of the course weren't all too useful: particularly regarding generics.  However, he's a pretty decent data structures lecturer.  He usually draws out the concepts in conjunction with reading the slides.  The provided material was top-notch, and some of the TAs' contributions made it even better.  The exams are challenging but not overwhelming (the vocab stuff can be pretty obscure sometimes, but that's to be expected).  I would recommend this professor, but not overwhelmingly.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-23T03:45:38.493661Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram\u2019s lecturing style is good overall. He\u2019s a bit of a slow talker, but he does an excellent job of drawing out visually how each data structure/algorithm works. He records every lecture and posts it on Panopto, so if you need to skip class you can just watch the recording. \r\n\r\nQuizzes and exams were fair. Pedram makes old assessments available as practice, which are definitely worthwhile to do. For exams, he also gives a summary of what\u2019s going to be on it, which is helpful for targeting your study. Additionally, Pedram is a fan of remixing questions which have appeared earlier on quizzes/exams or elsewhere in the practice.\r\n\r\nProjects were my favorite part of the course. The project descriptions, public tests, and questions posted to Piazza are sufficient to get a full understanding of the project. As long as you complete them and do a decent job, they\u2019re an easy A. It was doable but stressful for me to do most of the projects in the 48 hours before they\u2019re due.\r\n\r\nHis TAs were uniformly of high quality and a great resource during office hours. Pedram himself is a little harder to reach: his office hours are by appointment only.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-23T05:34:10.420169Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram is a good professor and very accommodating too. But one thing that makes his class stand out the most compared to others are his TA's. His class has one of the best groups of TA's ive ever encountered. Matthew, Sandeep, Alec, Brian, Daniel, Jason, Alexis, Gabriel and Syed do an amazing job at assessing to students needs and helping them with what ever problem they encounter. Helping and educating them in the process too. Projects are reasonable, exams are fair, and the final was nothing out of the ordinary. Definitely a class you could get an A in if you put in the effort.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-12-24T04:46:34.866452Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pedram is a great professor and was good for my first CS class here at UMD. He always recorded lectures so you could go back after or if you weren't in class. Was also super responsive to emails and agreed to meet with me early in the semester when I felt I wasn't doing as well as I could be. Exams were very fair and he gave good specifications beforehand so you knew which subjects to focus on. Everything was very well organized and well put together and the TA team for my semester was amazing.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-26T18:46:37.308164Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Solid professor. Some of the practice exams don't reflect what the actual test has format wise but you get 3 years of practice for each test and quiz. Lectures make you want to fall asleep but solid at explaining and records all of his lectures. Just go to office hours for any project you're struggling with and they'll help you out.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-30T17:51:10.467366Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Does his job of making both CMSC131 and CMSC132 weed out classes.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2023-01-11T01:38:08.296706Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Horrible lectures. Does not care about his students and absolutely rude.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-04-04T15:39:11.038704Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram was pretty good for 131. Lectures are the cure to insomnia. Pedram has a very monotone voice and speaks very, very slow. However, when I managed to stay awake I found his lectures to be really helpful and informative.  As someone who has never programmed before his class, I can say that I was able to learn a lot from his lectures. I also liked that he recorded his lectures.\r\nI'm taking off a star because his exams were very hard for a 100 level class (averages in the low 60s), and he says that he doesn't curve. But if you want to challenge yourself with a professor who is a dry but effective lecturer, I would recommend Pedram.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-05-03T00:29:15.433337Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I had Pedram for 131 and 132. He has the most monotone voice and he talks really slow. Sometimes he contradicts what he says. However, I recommend you watch every single lecture just to prepare especially for the final. I also recommend watching youtube videos on all of the topics he teaches. His projects were medium-hard. Just camp out at office hours and they will help you A LOT. You CANNOT memorize the practice exams. You HAVE to actually understand it because his exams are really open ended. It is vital that you understand the content and do a bunch of practice problems until you get them right. Pedram tries to redirect everything to a TA so sometimes contacting him is pointless unless its for grade issues.",
+      "rating": 4,
+      "expected_grade": "C-",
+      "created": "2023-05-15T00:49:18.251923Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Okay, so Pedrem is a great guy. Here's a breakdown\r\nLecture: He records lectures (yay!) and he is very organized with his schedule, his tas are great! The discussions are good for a review to keep the memory fresh \r\n5 quizzes every two weeks or so: He posts practice worksheets so make sure you do them. it won't be exactly the same but will have the same logic. He tells you what the quizzes are on so you know what to study so make sure you study!\r\n9 Projects: Start early, no like seriously and these go for every cs class. Tip: Go early to office hours so you can have the ta's full attention and not have to fight for it with about 13 other people\r\n3 Exams: So his exams are okay. The averages for the three this semester were 65, 60, and 79 just to give you an idea. The tip I have for this is to work on your static methods and know how to manipulate a variable or array. One thing I LOVE about Peddie is that he gives us the format for what the exam will be and also practice problems which again is not the exact same as the exam but the same logic.  \r\nFinal (25% of your grade :( okay so I literally just took the final yesterday and do the freakin practice problems, crap them if you have to, it is the same logic. \r\nOverall if I had to compare him to the other cs teachers:\r\nPedram > Fawzi (fawzi does not record, and does not post relevant practice problems)\r\nNelson > Pedram (Nelson is known as the best and he usually has high exam averages)\r\nPedram == Elias",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-05-16T04:25:05.655684Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Okay, so Pedrem is a great guy. Here's a breakdown\r\nLecture: He records lectures (yay!) and he is very organized with his schedule, his tas are great! The discussions are good for a review to keep the memory fresh \r\n5 quizzes every two weeks or so: He posts practice worksheets so make sure you do them. it won't be exactly the same but will have the same logic. He tells you what the quizzes are on so you know what to study so make sure you study!\r\n9 Projects: Start early, no like seriously and these go for every cs class. Tip: Go early to office hours so you can have the ta's full attention and not have to fight for it with about 13 other people\r\n3 Exams: So his exams are okay. The averages for the three this semester were 65, 60, and 79 just to give you an idea. The tip I have for this is to work on your static methods and know how to manipulate a variable or array. One thing I LOVE about Peddie is that he gives us the format for what the exam will be and also practice problems which again is not the exact same as the exam but the same logic.  \r\nFinal (25% of your grade :( okay so I literally just took the final yesterday and do the freakin practice problems, crap them if you have to, it is the same logic. \r\nOverall if I had to compare him to the other cs teachers:\r\nPedram > Fawzi (fawzi does not record, and does not post relevant practice problems)\r\nNelson > Pedram (Nelson is known as the best and he usually has high exam averages)\r\nPedram == Elias",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-05-16T04:25:07.309403Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "This is a review from someone who has had to retake 131. I had Fawzi Emad for 131 the first time I took it and I got very sick so had a tough time catching up since fawzi does not record his lectures at all and doesn't have proper posted slideshows so had to retake 131. I realized that I had a much better time taking 131 with Pedram as he believes in the importance of recording lectures and posting the detailed slideshows. As a lecturer, I can say Fawzi does a better job in making lectures engaging, but it all doesn't really matter when you cannot really review notes afterwards. Pedram also has practice exams and practice quizzes from previous years which makes it much better to prepare for midterms. He also has three midterms, compared to Fawzi only having 2 midterms, so I would say it is preferable to have three less weighted midterms. This might be an unpopular opinion, but I felt Pedram's midterms were quite easy and fair, especially compared to Fawzi's. Pedram also only had quizzes every couple of weeks, compared to Fawzi having a quiz every week, on very random topics. Where Pedram falls against Fawzi is his projects and their god-awful descriptions. I was able to complete Fawzi's projects much easier and in faster time compared to Pedram's which were unclear many times. TAs can always help out on projects though. Personally, I would say if you had to choose between Fawzi and Pedram, choose Pedram.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-19T19:04:45.496043Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram did his job well. His lectures may be a little boring, but he gives you everything you need in the course to succeed as long as you put a little bit of effort in on your side. He also records his lectures so if you don't go for some reason, you are able to to watch online.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-25T03:17:18.978534Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Please Pleaseee don't take this class!!!!\r\nIf you have no prior coding experience this class is going to be extremely difficult for you. The exams are like 10 pages and are very hard. Even the quizzes are hard and I remember one of the quizzes average was 5 out of 30!\r\nHe is also not caring and understanding at all so if you are a late arrival and you ask for an extension on your project he would just say NO and it takes almost two weeks to give you back the project grades so granting an extension isn't a big deal.\r\nSpeaking about projects, I remember everyone crying almost everyday the project was due because of how hard it was.\r\nIf all other professors and classes are full and you HAVE to take this class then be prepared to have a hard time. But if you can choose someone else please stay away from this one. \r\nPeople are waitlisting on other professors' classes and almost most of the seats for this class is open (You take the conclusion)\r\nI had a very very hard time last semester so I'm just telling you my experience and to mention all my other grades were A so I'm not a lazy student. \r\nI wish you the best of luck guys!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-07-21T16:41:20.283352Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I would say that Pedram is very helpful when you ask him questions and he tries to make sure that you understand the lecture. I believe he does a good job reviewing the information, but his exams can be a bit difficult if you do not have any prior experience with CS. He does record his lectures so you can always go over the information again.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-04T04:20:41.031698Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": null,
+      "review": "hes not very interesting but hes not bad as a professor not as engaging as fawzi or bigger names",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-08-30T21:14:48.975565Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Prof. Sadeghian (he will tell you that you can just call him Pedram) did a good job, given the mass class size for 131 and the amount of material and projects to get through in a couple months. Lecture material is relevant to the projects you\u2019ll be doing and the exams are fair and not stressful to study for if you were paying attention and practicing what you learned by doing the projects. I won\u2019t claim that he was the most engaging or interesting lecturer, and as you might expect for a gigantic class he\u2019s not the easiest to reach either - his army of TAs fill that role.\r\n\r\nWhile there is a of work involved for this class (it is a CS gateway requirement, after all), and it may feel overwhelming if you have no prior Java experience, I do recommend this course and this professor. You will succeed with little to no issue if you: -start the projects THE DAY THEY\u2019RE OUT so you have time to debug or get help if something -always attend discussion if possible; the info there is often relevant to your projects -take advantage of the TA office hours, and -don\u2019t cheat. If you have a legitimate interest in computer science and programming, you\u2019ll enjoy Pedram\u2019s class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-09-19T16:13:42.400596Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Easy but dry",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2023-10-16T20:38:04.609152Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Not sure why people seem to give ol' Pedram so much shit. Very informative lectures that go into a lot of detail. If you actually like CS, you will likely find them interesting unless you find his droning voice problematic. IMO, this is a superficial problem, especially given lectures are recorded and can be viewed at 1.5 speed, and the actual content of what he says is valuable. Personally, I found projects, exams, and quizzes extremely easy, with the only issue being getting used to completing exams in a timely fashion. Nelson is definitely more \"entertaining\", and if you find that necessary to pay attention you should chose him, but remember that comes at the cost of constantly going on pointless tangents, and Nelson keeping the explanations more shallow with the use of amusing analogies in place of complete representations.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-11-02T02:11:18.923819Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Underrated professor. This semester, he cotaught 131 with Nelson, so they had the same material, projects, and exams. His lectures are monotone to the point where some students fell asleep. Initially, I found him boring, but as the semester went on, he grew on me. But if you can put his dryness past him and stay focused and alert in class, he is very good at explaining the material. He doesn't waste time and focuses on teaching the content. He also records his lectures. Pedram is generally friendly and very willing to help you during office hours. Pedram & Nelson provide plenty of practice exams from previous years and don't weigh too much. Projects were a good mix of easy and challenging. You're assigned a project during Thanksgiving or spring break, which sucks, and it's probably the most difficult one. \r\nTIP: PLEASE start your projects early and go to TA office hours when you're stuck or want to review material. Although Pedram said this class is geared toward students without coding experience, the class moves fast, and you will struggle if you procrastinate. It's more challenging for students without experience, but it's still very much doable if you do the work.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-05T21:36:57.211875Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram is your average CS professor. His lectures are very informative, but incredibly slow. He wants everyone to learn and understand the topics, but  often seems somewhat disorganized or presents uninteresting examples. He would not be my first choice, but is not terrible by any means.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-12-08T17:04:11.271202Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "To all the people that have given him anything below 4 stars, y\u2019all don\u2019t know what you\u2019re saying. The biggest \u201cproblem\u201d I\u2019ve seen about Pedram in the lower reviews is that he is monotone, dry, not exciting, etc. Sure, I watched a Nelson lecture, and he had jokes and said funny things in general, but Pedram is the better lecturer. As someone who has never done CS before this class, I feel like I genuinely understand everything he taught us. He explains things SO WELL, and in addition, he draws out what\u2019s happening using memory maps (if you don\u2019t know, they\u2019re basically a tool that helps you visualize what\u2019s happening behind the scenes in code) which helps you understand just so much better (from what I\u2019ve seen, Nelson does not do that). I would come into that 50 minute lecture and feel like I was only in class for 15 min. It\u2019s genuinely incredible how interesting the class was and how fast it moved. And back to the point about him being monotone, if you can\u2019t find the lecture interesting because of that, maybe re evaluate if you should even be in CS. Any subject can be made exciting with a funny professor like Nelson, but if you don\u2019t find the lectures interesting with a \u201cboring\u201d professor, the professor is not the problem. During lecture, he would give us a min or two to discuss with our neighbors and see if we understood, which was also an opportunity to go up to him and ask a question. I only ever came up to him once, and when I did, he was so excited to answer. He knows his stuff and is excited to answer your questions (but his TA\u2019s exist for answering most questions, and the TA\u2019s are good too). However if you do need to email him about excused absences, he\u2019s very prompt. As for exams, I saw another review about how they\u2019re 8-10 pages long, which is true. But the vast majority of the exam is space for you to write your code, and most of the time you don\u2019t even need 1/2 that space, they just give it in case. If you paid attention in lecture and did well on the projects, you\u2019ll do well on the exams. There\u2019s also a resource we have in class called Piazza (essentially a CMSC131 online board) where you can post questions regarding topics and project clarifications. TA\u2019s and other students can respond. You have everything you need to succeed in this class, now you just need to put in time.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-09T02:36:37.883619Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Class is fairly straightforward, but Pedram will put you to sleep. Would recommend watching recorded lectures at 1.5 times speed, but he regularly forgets to post these. Quizzes and exams are very fair because previous tests are posted, and follow the same structure.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-12-09T02:38:22.187383Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I had already had two years of experience in coding in Java before taking this class, so this class was easy for me. However, if you have no coding experience then CMSC131 in generally is going to be hard, but I think that Pedram is a great professor to take. He explains the topic so that even people who have never coded before can understand. He records every lecture so if you don't want to go to class you don't have too. Discussions are not required as they just go over the things you learned in lecture. I don't understand why Pedram has a mid rating, I think that he is better then Nelson and you should take him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-17T06:39:05.045893Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "He\u2019s a horrendous teacher. Avoid him and Herman.",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2023-12-21T16:34:06.325899Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "He's ok at teaching but his lecture style almost puts me to sleep all the time. Not a hard class so it doesn't matter that much though.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-21T22:13:04.916256Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I love my man Pedram he is super-goated, very informative and helpful 10/10",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-23T05:25:39.159662Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Great professor. Tests weren't too bad and definitely easy to prepare for if you are willing to put in a bit of effort. He gives past exams and a list of test material to study off of. I would take him again in a heart beat.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-26T04:35:01.780055Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "The people complaining about Pedram need to understand the frustration of taking other CS professors, i.e. Fawzi Emad, Paul Kline, Larry Herman. As a lecturer yes he isn't exactly the most interesting, but he gives us SOOO much material to succeed. Pedram records lectures, posts slides, gives us practice exams from previous semesters and his exams are much easier. Him, nelson, and elias basically follow the exact same curriculum when teaching their classes. I really don't know why his rating is not over 4 stars when you have teachers like Fawzi, who do not care much about his students well being and doesn't give us any practice material or any material outside of lecture, who has over 4 stars. This review is coming from someone who has taken CMSC131 with both Pedram and Fawzi so I have been able too experience their different styles of teaching, and Pedram's is by far more forgiving and has more intention to get you to succeed, while also understanding the content.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-06T01:10:46.956986Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Bland and definitely not as \"fun\" as Nelson but gets all the information out in a simple, non complicated way. Lectures are recorded and posted regularly so you don't really have to go to class. Projects are pretty straightforward and instructions/guidelines are thorough. Exams are pretty easy to study for, you're told everything that will be covered and practice exams are provided.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-01-19T00:51:42.640142Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "3.64/5 makes sense, largely influenced by being a drier lecturer than the other 131 options.\r\n\r\nPros:\r\n- uses spaced repetition style of teaching which is great if you pay attention\r\n- despite having 100s of students, remembered my name after having a fairly long conversation with me (personable)\r\n\r\nCon:\r\n- again, not an anecdotal teacher or a comedian. Effective, not entertaining.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-01-25T17:34:53.827594Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Ignore the people saying he's not \"fun\". He is there to teach and that's what he does. Never went to his lectures, watched the recordings at 2x speed, and his content was super helpful. The exams are very fair, and there are no surprises on them. Definitely recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-01-31T02:51:36.180685Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Project instructions suck.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-02-24T22:19:40.879285Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Honestly this course isn\u2019t beginner friendly. If you\u2019re new to coding then I\u2019ll say make sure you are ready to put all your time into this course. You\u2019ll definitely fail if you aren\u2019t putting any effort. Pedram is a nice and honest person. He\u2019ll teach you what you need to know and records his lectures. However, his exams and quizzes aren\u2019t easy plus his project\u2019s instructions have way too many filler and are vague. All his exams average 60\u2019s which tells you something. TAs are alright but I suggest just to go office hours. Pedram lectures can be boring and sometimes you learn nothing out of it. Feel like this course is structured poorly overall so make sure you ready to give all your time.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2024-04-24T05:11:58.176254Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Had no experience with Java before this course but the class is well organized and easy to follow. Pedram himself is extremely boring and hard to follow in lecture, just go to discussion it is the only thing that really helps.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-02T04:28:07.833634Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I had Pedram this semester and many people complained about his teaching style, exams, etc. I\u2019ll admit that his lectures can be boring, but I just skip them and watch his recording at 1.75-2x speed and he is still fully understandable because of how slow he talks. His teaching and the information that he says is very useful and his example usually help a lot with grasping topics. His exams aren\u2019t easy, but you know what to expect on the exams. Also, projects are not bad as long as you watch the lecture and use the Piazza for any questions.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-03T14:28:39.126358Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Really monotone but does a good job explaining concepts. Class isn't easy by any stretch but having prior knowledge helps a lot. Lectures can be found online and labs aren't the most necessary thing to go to. Good teacher.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-08T20:56:46.763603Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I was retaking CMSC131 for GPA reasons after taking CMSC132 and all that, so I already knew all the content. Never went for lecture so I cannot really comment that much on his teaching ability. However, when I listened to him for 30 minutes before quizzes he was perfectly clear and understandable, more so than Nelson or Elias Gonzales ever were. I'm certain that if I was there for Pedram instead of Nelson my first time, I would have actually learned something in class. Nelson is very kind, understanding and so on but he always explicitly said he hated teaching CMSC131 so his teaching was also terrible because he was bored anyway. \r\n\r\nThis course was a breeze with Pedram, but as someone who has taken this course twice and gone through the CS course here at UMD I'll give you points so that you can make your own decision: \r\n\r\n- The projects between Nelson and Pedram are all exactly the same and the descriptions are written by Nelson. Someone here commented that Pedram's project depictions suck; both of their descriptions suck equally. \r\n\r\n- Nelson will be funny but Pedram is solid and direct. If you're coming to lecture to actually learn the subject (because you didn't study Java before for example), then Pedram is better. If you want to have a good time and you have some mastery over the subject, then Nelson is better. \r\n\r\n- Nelson weighs projects more and has only one or two joke quizzes, which are worth only a few percentage points. Pedram has five proper quizzes which at least to me felt like easy points to me.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-08T21:38:44.719930Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "His monotone voice can make it easy to fall asleep, but when I actually paid attention to his explanations and examples during lectures, I learned a lot about Java and its concepts. In case you miss a lecture, he records the lectures and posts the slides which are super helpful. Exams were challenging but relatively fair. He is very strict on due dates so be sure to not fall behind on the projects.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-05-16T06:07:24.843504Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Weed out classes ridiculously hard for no reason. Strict grading, vague quizzes and assignment directions. The only good part about this course were the TAs, which advocated to Pedram to change the tests or grading.  So many people struggled this class.",
+      "rating": 2,
+      "expected_grade": "F",
+      "created": "2024-05-21T20:37:07.124405Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Strict grading, do not recommend, straight to the point so you will learn, but very monotone which makes it hard to focus. Exams are also kind of difficult and instructions suck.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2024-08-02T18:27:57.908705Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram is a pretty good professor. He is really monotone, but you can watch his videos on 1.5x - 2.0x finish the lectures relatively fast. The projects range from difficulty. I would say the harder projects take around 4-6 hours to complete and the easier ones anywhere from 2-3 hours. His exams are very fair and he gives many practice exams that are pretty much exactly like the actual exams. Pedram also posts like summary of the exam prior to taking it highlighting the types of problems we should practice and the methods we should know which makes it even better to study. One thing I didn't really like is how strict the grading is though. IF you want an easy A then I would just take Elias, however, if your in it to just learn and don't really care about getting an A ,Pedram is a pretty good professor. He is straightforward with the topics in the class and how they work. I also like how he records every lecture and posts them. If you have had no experience with java in the past the class will be pretty difficult, I had some experience and still struggled throughout the class. Pedram also curves a bit depending on the average grade of the class I would say around 2% curve compared to the standard curve. Overall pedram is a good lecturer and you can learn a lot in the class but it is definitely not an easy A. I would recommend starting projects early and also studying for the exams days in advance. Also try to do outside practice problems through leetcode or coding bat to just practice different approaches to problems especially for the exams. If you put in the effort you can definitely get an A in the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-08-10T03:28:17.305691Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Great lecturer, highly recommend. Lectures are very helpful and informative. Very beginner friendly as the exams are fair and he provides lots of practice for them. If you start projects early and put effort into the class, you'll do well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-08-19T19:21:34.256928Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Very knowledgeable, straightforward, easy-to-understand. He and his TAs respond in Piazza quickly, and the TAs are pretty good too. A lot of people say he's boring, which is true that he doesn't make jokes in class and is kind of monotone, but he records his lectures and also explains things in a beginner-friendly way. Pedram is the first CS instructor I've had that has actually made programming make sense to me (I've tried coding many times in the past and have failed miserably from confusion). His quizzes/exams are a bit challenging but in general nothing crazy weird, and I found they got easier as the semester went by. He cares beyond just making the class easy, and actually wants you to learn. He's probably going to be a bit slow for those who have programming experience, but is very beginner friendly. He also posts exactly what to expect on quizzes/tests a couple days before so you know exactly what to study, which is really helpful.\r\nMy piece of advice is don't be late to his lectures. He doesn't really care if you're late but he does explain the most important things of the entire lecture in the first 5-10 mins of class. Make sure to do the past exams/quizzes he posts too.\r\nBut overall great prof, I would definitely take him again. If you like problem solving and are willing to put in some effort, you will be fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-06T01:20:47.456361Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I loved Pedram. Very kind and definitely cares about his students. He explains things very well, and his lectures are very useful. His tests are apparently harder than other cs professors but they're not unreasonable.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-12T03:22:20.649299Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "The mean for all of his exams have been less than 77%, the projects and the quizzes aren't too bad but the exams are so hard. On the first exam I was running out of time and mis-read the question, and used a for loop when I was supposed to use a while loop. I lost 14 points, and ended up getting a 68 when I could've got an 82. I think he unfairly takes away points which is so crazy to me, especially considering I'm a freshman I had no idea professors did things like this. Even in calculus you can get partial-credit, or no credit, I've never had points taken away. Especially so many. He knows what he's talking about but his lectures actually bore me to death. The only good thing about this class was the TA's, they were all super nice, and incredibly helpful. I honestly learned more in discussions then I did in the lectures because they were better at explaining things. Overall if you could take Elias instead of him I definitely would.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2024-12-15T20:06:52.275894Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Good professor. As the other reviews have said, he's straightforward, but monotone. I've found myself dozing off in his lectures a few times, but his lectures are good and easy to follow. You'll do fine if you don't start your projects on the last day and go to lectures.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-19T03:18:26.412190Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Taking Pedram\u2019s CMSC131 class was... an experience. His lectures were so dry and monotonous that staying awake felt like a feat of endurance. But, at least the lectures were recorded & rewatching them (at 2x speed) and having the slides available saved me from complete despair.\r\n\r\nThe projects weren\u2019t too bad as long as you started early\u2014planning ahead made them more manageable and helped reduce stress. The absolute best part of the class was the TAs. They were always knowledgeable, patient, and super helpful, which made a big difference when I was stuck.\r\n\r\nI wouldn\u2019t really recommend Pedram as a professor. His quizzes, exams, and final were so much harder compared to other professors teaching the same class, to the point where it felt really unfair. Overall, unless you enjoy unnecessary suffering, I\u2019d recommend finding another professor for CMSC131.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-12-19T15:37:16.554258Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I feel seeing all these freshman reviewers give Pedram shit for having \u201cdifficult tests\u201d or \u201cmonotone\u201d is so funny, because these people really don\u2019t know what a good CS professor is, compared to many others. He gives you so much practice material to do well, his projects aren\u2019t too bad, when I took him for 131 his midterms weren\u2019t bad at all, at least compared to Fawzi who had awful 131 midterms.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-21T18:22:09.513719Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Yeah he may be boring but whatever.\r\nI think the class structure is great. The lectures & discussions are recorded, and the slides are posted, so you don't really have to go. The TAs are very helpful and they respond quickly on Piazza. Pedram provides a lot of material to help you.\r\nI did take AP CSA so the concepts weren't new to me, however, a lot of self learning was still involved. The quizzes and exams weren't so bad. He would actually give us an outline of what coding concepts would be tested. The projects were manageable, and sometimes even fun to do.\r\nGet the concepts down and practice coding in your free time. Don't lose points on stupid things.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-21T19:18:56.894430Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Solid professor who knows what he is doing, lectures can be monotonous. However, he explains things slowly and thoroughly with lots of examples.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-29T19:04:52.522742Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "grading isn\u2019t fair",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-02-24T07:55:12.155655Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "His exams are way harder compared to other professors and completely unnecessary. He teaches concepts in lecture but the things he asks his students to apply the concepts on are on a completely new level.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-03-04T22:16:28.690615Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Avoid at all costs. Unnecessarily hard weed out class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-03-10T16:13:02.655252Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "He makes it extremely easy to fail.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-03-26T00:58:35.559815Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": null,
+      "review": "Exercise doesn't work for exams. You can never predict what he expects you to learn unless you start taking exams, but even then, you can't figure out his ever-changing mind.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-03-28T17:24:43.164020Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC122",
+      "review": "He makes CS way more difficult than necessary. Do not take unless you want to absolutely suffer. If he's the only one teaching that semester, take it the semester after to avoid him!",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-04-04T04:31:55.435800Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I regret taking Pedram over Nora. His tests are so much harder than other professors. The average on the first midterm was a D when for other professors, their midterms have B averages. Directions on tests and projects can be so annoying as they are sometimes these huge convoluted paragraphs. This is especially annoying for tests because you spend so much time deciphering what Pedram wants instead of doing the questions. Projects can be pretty annoying since you'll be following all of the rules given to you but then some random piazza post suddenly reveals some rule that you were never aware of, causing you to have to redo entire parts of a project. He also for some reason decided to restructure how he teaches the class so there are some topics where he just doesn't teach and leaves to his TA's. This can suck if you don't have a TA who explains things well. Avoid Pedram is you don't want your grade to suffer.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-04-06T02:10:26.652979Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Do not take this class. Take Elias or Nora (Elias is co-teaching with her) at all costs. The other reviews are outdated and don't accurately put into terms how hard, unfair, and strict this class is when compared to Elias. I can only depict my indignancy in this post and hope others do not make the same mistake I did by assuming Nora is bad because of her previous ratings.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-04-08T17:35:31.690744Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "exams were extremely difficult, not the best at teaching either. Don't recommend at all!",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-04-10T13:28:05.636799Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Do NOT take this professor! All the reviews are outdated, probably from when he was coteaching with a better professor. The averages for his midterms are consistently in the low 60s, and his teaching is dry and mediocre at best. There are barely any resources to prepare for an exam, as the past exams are nothing like the ones he gives you.  \r\n\r\nHe has literally said \"Every semester, students tell me that the exam felt harder and different from past exams. The fact that the exams are different is intentional\", and, \"If I had taken this as my second CS class, I too would have found it difficult\". \r\n\r\nIf you want your GPA to suffer, take this professor. Otherwise, try your best to take Elias or Nora instead.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-04-17T16:21:33.300981Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "DO NOT take this professor. Only reason of giving him two starts is that he records his lectures and that they are a good source of understanding data structures. His projects doesn't make sense at all. His projects are basically students making a clone of data structures rather then using data structures to do something creative. So when he asks you to code something using data structure for the exam most students have no idea what to do. He requires insane amounts of students tests for some projects. No late tokens are given for any of the projects. Elias and Nora on the other hand had fun projects including some group projects unlike Pedram. Pedram's graded assignments are annoyingly hard. After the first quiz and first 2 exams he kind of realized that his graded assignments were to difficult for students so he made other quizzes and the last exam a little easier. First two exam averages were a D. Third exam wasn't that bad. A lot of students with good CMSC131 grades took Pedram because Nora seemed bad as she only have reviews from 1 semester but trust me you are better off with her because grades of most student who took Pedram thinking he is better than Nora are suffering. Take Nora(or Elias) to save yourself.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-05-01T16:03:11.819971Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "He makes this class much harder than it needs to be. Bad at teaching, very boring, and exams are extremely difficult. DONT TAKE HIM !",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-01T18:17:19.513664Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "DO NOT TAKE PEDRAM!!! HE IS ONE OF THE WORST PROFESSORS OUT THERE. HIS EXAMS ARE SO HARD!!! THE ONLY REASON HIS REVIEWS ARE DECENT BEFORE IS BECAUSE HE WAS CO-TEACHING WITH NELSON. HE BY HIMSELF IS STRAIGHT TRASHHH!!!!!!!!!!! RUNNNNNN AWAYYYYY!!!!!!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-02T03:51:40.433869Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I dont get the hate. He is a pretty good professor and definitely knows what he teaches. He also gives 2 minute breaks every lecture which I am a big fan of. I understand data structures and algorithms well thanks to professor Sadeghian. One complaint I have is that the test are very difficult but if you understand the concepts that you should not be doing terrible on the exams.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-02T15:24:06.020991Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Even though you can still learn from his monotonous teaching style, be prepared for a potential drop in your GPA or the risk of not meeting your benchmark requirements.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-02T20:49:03.523289Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "The lectures are educational, but don't do much to actually prepare you for quizzes or exams. Do leetcode or Hacker rank problems they will prepare you for exams and quizzes much better. As one of his guarantees are that exams and quizzes are things you have never done before.  Pedram knows what he is talking about, but going to the lectures will only give you a basic idea of what is happening, no applications are explained at all just how data structures are put together on a High level. Other profs have average exam scores in the 80's while our first 2 were around 65 with exam 3's being high at 77.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2025-05-04T21:11:07.834854Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Monotonous lecturer but still gets the point across. His exam averages are extremely low, which shouldn't be a problem if every other 132 professor has exam averages that low. But that isn't the case; for the first two exams of the Spring 2025 semester, we had averages in the mid to low 60s. The third exam had an average in the mid 70s. This wouldn't be a problem if 132 were a weed-out class, but it seems like only Pedram treats it like one. At the end of the day, he isn't a terrible professor but his exams are unnecessarily hard.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-13T02:36:01.554614Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "The previous reviews are pretty accurate. Pedram isn't the most interesting professor and his voice can lull you to sleep. However, the main problem I have with him are his exams. His averages were WAYY lower than those of Elias and Nora. The previous exams he provided were far easier than the exams he actually gave us this semester. On Exam 1, the only code-writing on the practice exams was doing basic things with class definition. But on the actual midterm were really strange algorithms that were difficult to understand. He doesn't really do a good job of preparing you for his midterms. His projects were also extremely boring, as every single one of them was remaking a data structure from scratch rather than using it in a cool way. Everyone took Pedram in Spring 2025 because Elias was full and Nora had really bad reviews, so everyone saw him as the 2nd best. Just do yourself a favor and take one of the other professors unless you want your grade to suffer.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-05-15T16:52:20.882158Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Most of these comments are hate tbh... He really does prepare you well for the exam, it's their fault, mine included, that we didn't study according to his guide.  The second exam that had such a low average was only so low cause no one did the project first as he recommended.  I noticed after having done his project that the exam would have been much easier. I went through most of my exams, and maybe these dudes are genuinely having a more difficult time than I am, but most of my mistakes were trivial.  I wouldn't attribute that to him being a problem though.\r\n\r\nI don't think he's perfect, but if I could, I'd give a 4.5.  Rounding down due to certain things that are put in place that I just don't agree with (Style options for example)",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-05-15T19:41:39.091165Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I had Pedram for both 131 and 132 and he did a good job for both. He is very organized, explains things clearly and focused, records his lectures, and his slides are generally very helpful. Also there are no surprises with assignments as he gives a heads up about every assignment. His projects and exams are definitely on the challenging side but I think they are overall pretty fair and you just need to be able to think logically/conceptually for the exams and rewatch lecture videos for the projects. Pedram was also very accommodating when he saw a lot of people didn't do well on an exam so he boosted the weight of the projects and also made 2 quizzes asynchronous easy 100's that you could complete in 10 minutes. Also he made the last midterm and the final lowkey a breeze. The TAs are pretty good too and they make Kahoots before every exam which are excellent review and usually have some good hints for what is on the exam.\r\n\r\nI have definitely seen that Pedram has become less monotonous than he was last semester in CMSC131. Although still not the most entertaining lecturer, I can see his spirit and personality coming out a bit, and he keeps his lectures focused and understandable. I think the reason why people don't do well in this class and complain is because they don't commit enough time to truly learn the concepts, don't go to lecture and then catch up on all the videos right before the exam, and also realize that he is testing your ability to apply the concepts instead of just asking you straight up what the concepts are. My advice is to watch the lecture videos a few times if you don't understand something, and also Youtube videos about the algorithms were so helpful. Overall, I have no major complaints about Pedram and I would definitely recommend him if you're willing to truly learn and do work.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-21T23:14:32.232609Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I\u2019ll try to summarize Pedram\u2019s classes as best as I can: the lectures are extremely monotonous, and he\u2019s not the most engaging lecture. However, his explanations are fantastic, especially when watching back the lecture videos at 2x speed. I know he somewhat revamped the curriculum this semester, but he did stay organized pretty well. It is pretty annoying that he doesn\u2019t use Canvas, but it\u2019s manageable. In regards to exams, which is everybody\u2019s big beef with the way he teaches this class, they are for sure harder than any of the other professors who teach this class, and the projects are also more difficult. I will give him credit though for realizing this midway through the semester, adapting, and giving us in-depth outlines about what to expect on exams. I also liked the quiz format he used for the final two quizzes, even though I\u2019m sure he put them that way because he ran out of time. I feel like I learned quite a bit in this class, and I was lucky to finish with an A, but if I had to go back and reschedule I would take it with someone else.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-22T03:04:45.919522Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Hard class with no curve. English 101 and this course will have the same grading breakdown. Take that for what you will",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-05-22T13:46:25.937580Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "There is no curve. English 101 and this course will have the exact same grading scale. Good luck. Pedram is a very nice guy and I have absolutely nothing against him it's just kind of insane that our grade averages were barely 60's and other professors had 88's consistently, along with no curve for the final grade. good luck",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-05-22T13:54:54.354080Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Course: Despite the name, this is really more 25% Objected-Oriented Programming, 75% Data Structures and Algorithms. So don't go into this course thinking it'll be more of the same stuff as CMSC131. Any of the Java you learn in this course is really taught in order to understand the ideas and implementations of the Data Structures and Algorithms you use throughout the course. \r\n\r\nLectures: I'd say it's very important to attend lecture. Pedram records so there's really no excuse to not go through it, especially since he does a really good job highlighting how the various Data Structures and Algorithms he covers works. He even goes over many of the algorithms that you'll need to implement in the projects step by step, so attending lectures will make the projects much easier.\r\n\r\nDiscussion/Lab: These were weird because they were more like a second lecture than an actual lab. These are generally miscellaneous Java topics that may or may not appear in a project/test. These are not as worth attending, with the only exception being when the TAs cover sorting algorithms. These are also recorded and you can also watch any TA's recording so if you didn't get a good TA for your section you can just watch the other TA's discussion.\r\n\r\nProjects: Most of the projects in this course focus on implementing functionality of data structures/algorithms. Again, attending lecture helps a lot with these projects. Implementing the projects is fairly easy and shouldn't take more than a day or two. The main thing is to make sure you know how to debug your code and write student tests as secret tests are usually weighted around 10-20% of the grade. Main thing I'd recommend is writing student tests as you work on the project, I felt that helped me a lot with making sure my projects were good. Also try to maintain good style and write comments as you go so you don't have to deal with doing it all at the end. \r\n\r\nQuizzes: There are 5 quizzes of varying formats. 2 of them were \"write code\" quizzes. When Pedram asks you to write code he expects you to know how to write an algorithm that solves a problem from scratch. The main way you can practice this is through the practice tests and projects. He recommends you write the algorithm out on paper and then code it up on Eclipse. I'd recommend knowing how to trace out algorithms, pay attention to the specific details of the question, as well as practicing material that relates to what Pedram says the quiz will focus on. Another one was a \"debugging\" quiz where you sat with a TA and showed them that you can use the debugger. Just know how to use the debugger and it's a free 30 points. Last 2 quizzes are take-home \"project\" quizzes which simply involved you having to write a code piece on Eclipse, which are also free 30 points each since there are no secret tests with these quizzes and lecture + lab gets canceled that day so you can work on those quizzes.\r\n\r\nExams: Exams generally consist of 3 parts, Fill-In-The-Blank, Short-Answer, and Code Writing. For code writing my advice is the same as the code writing involved in the quizzes. For short-answer questions, I'd recommend knowing the slide material and knowing how to trace out any of the algorithms that you learn in class/implement in projects. Understand how the Java compiler works as that'll be important for understanding some of the concepts you need to know for these exams. For fill-in-the-blanks, again just review the slides thoroughly and use a tool like Quizlet to memorize key terms. \r\n\r\nOther Random Advice\r\n- I didn't go to office hours (didn't really need to) but if you are struggling I'd recommend it. The TA's this semester were very good and helpful. If you have small questions, use Piazza, the TA's (and even Pedram at times) will respond quite quickly.\r\n- Pay attention to Pedram's posts on Piazza, especially when he releases details about the Quizzes/Exams. He gives away a lot about what the test will focus on which will help you guide your studying. \r\n- Don't rely on the practice exams for your studying. While they offer some good material for practice they rarely if ever cover everything you'll need to go over for the test. Instead, try to create your own practice questions based on the slide material as well as study how you implemented the projects. If Pedram recommends you do a project before a test then make sure to do that project for practice. I'd also recommend practicing questions on the site Leetcode. Some of the questions are a bit advanced but the site offers good practice for questions related to certain data structures (especially LinkedList and Trees). \r\n\r\nOther Information \r\n- Exam averages in order were 66.96%, 67.05%, 78.31%. Final average was around 72%. Overall class average was 81.1% (this combines exams, quizzes, projects). Curve is unknown but I had a 96.28% and got an A+. \r\n\r\nClass Review: This was a great class and probably my favorite class this semester. Grew a real love for data structures and algorithms thanks to Pedram's teaching and the projects he gave. Exams are on the tougher side but are 100% doable if you pay attention to what Pedram posts about them and make sure to practice all the material instead of just relying on practice exams. \r\n\r\nDue to CMSC132 being a gateway class I can't say I'd 100% reccomend him if you are trying to get into the major (which has become even harder this year). If you want to ensure a good grade without putting a big effort it might be better to go with a prof like Elias Gonzalez or even Nora Burkhauser. If you have to go with Pedram though just know he isn't nearly as bad as most of the below reviews make him out to be and you'll definitely come out of this class both knowing and understanding a lot of really important material for CS.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-22T16:59:27.829242Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Curve used for final grading seemed to only benefit a small majority of the class. It also didn't help that this semester, he was re-arranging the entire curriculum, meaning past practice exams weren't all that helpful.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-05-22T21:55:27.755671Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "A course that has no curve with consistent 60 averages on exams lol.\r\nTeaches you how to drive a car and expects you to know how to build it.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-05-23T04:30:07.666424Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I ended with a 91% and got an A so honestly I'm happy. In the middle of the semester, I was gonna give him a lower rating but honestly my performance on the 2nd exam was completely my fault. I kinda hated some of the projects though bc they were hard to figure out.\r\n\r\nHe talks slow and isn't that engaging in class. So if u decide to skip lecture, watch his recorded lecture videos!!!!! DONT GET BEHIND!!! That was my main problem I just let the lecture and discussion videos pile up and did so bad on the 2nd exam bc I watched 3 weeks of lecture in the week leading up to the exam. His teaching isn't bad just search up extra help or explanations if u need. Also discussion sucks I only went to the first week lol\r\n\r\nI also had him for CMSC131 and gave him 5 stars as well. Maybe it's because I ended up doing really well but he's not terrible. Use all the resources u can: TAs and office hours, online videos, ask AI for practice problems, etc idk",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-25T04:38:29.984988Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "I second that the exam averages for all the midterms were low (around 60s) but to me it didn't really affect me. At the end he did a curve by changing the grade ranges for letter grades and gave as a quite generous detailed outline of the content on the final which was really helpful. It did seem towards the end he was doing a lot of help to boost everyone's low averages although I think it would've been better for this to be something focused on throughout the semester instead of the last weeks.\r\n\r\nFor the content of the class, it is not too complicated but there will be a lot of memorization (which I personally dislike). Like memorization of the time complexities and just a bunch of terms/definitions. Great professor when it comes to the way the content is taught, more oriented to learning than just to passing the class.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-05-25T17:50:09.622328Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pros:\r\nData structure lectures are clear\r\nProjects are interesting: 7 of the 8 projects focused understanding, then implementing homemade versions of data structures, as opposed to niche java concepts\r\nGives 2 minute breaks in the middle of every lecture\r\n\r\nCons:\r\nExams are incredibly difficult and more specifically, time crunched. They mostly focus on problem solving as opposed to java concepts (more creativity, less memorization, which I prefer, but is much more challenging). The core problem of Pedram\u2019s exams are not the questions he asked, but the lack of time. Questions typically ask you to develop an algorithm to solve a given problem.\r\nNone of the practice exams for any of the midterms or the final reflected what was on the exam whatsoever. Exams this semester asked you a number of coding questions, all of which require you to develop an algorithm and solve a problem on the fly. Previous exams do not ask these sort of things, and are thus useless. He said that past exams not being reflective of current ones is INTENTIONAL. \r\nOther reviews have stated that students failing is a \u201cskill issue\u201d. However as someone who received an A, I disagree. If large swathes of students are doing poorly (as indicated by the aggregate data (mean/medians on exam 1 and exam 2)),  the exams may not be entirely fair (although Exam 1 scores may be a result of poor preparation and inaccurate practice exams. Pedram reformatted his exams this semester). \r\nDiscussion is effectively a second lecture where TA\u2019s cover additional topics not taught by Pedram in lecture. Topics covered by Pedram in lecture are not reinforced. They did let us out 20 minutes early though.\r\nTalks kind of quickly during lecture, making it harder to digest material. \r\n\r\nOther:\r\nIndividual assignments, such as exams, were not curved. However, Pedram did say he curved our final grades, but he did not say by how much. A 91.59 was considered an A\r\nPedram is a bit monotime, but it did not bother me much. \r\nIf you are looking for an easier class, Ellias may be better for your GPA (I had him for 131), but for a more interesting/instructive class that prepares you better for interviews, I would take Pedram. \r\n\r\nGrade Statistics (you can plug into a normal distribution if you want):\r\nExam 1: Mean: 62.77 , Median: 65.0, Standard Deviation: 21.04 \r\nExam 2: Mean : 64.82, Median: 66.0, Standard Deviation: 15.04\r\nExam 3: Mean: 76.66, Median: 78.0, Standard Deviation 14.27\r\nFinal Exam: Mean: 144.16 (out of 200), Standard Deviation: 30.67\r\nFinal Overall Grade: Mean: 81.10, Standard Deviation: 9.35",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-27T07:13:01.780683Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Lectures/Discussion:\r\n   - Actually very solid lectures, can be boring at times but nothing to complain about. Gives a good fundamental understanding of data structures, and provides informative slides.\r\n   - Discussions often teach new concepts that WILL BE TESTED, so it is a good idea to go. Also TAs' are very helpful\r\nProjects:\r\n   -  Projects often times are usually some sort of data structure clone with a couple of utility methods often attached with it [usually the best part].\r\n   -  Projects are often good for understanding the inner working of certain data structures and are quite interesting in that aspect as well, especially the utility methods\r\n   - However, projects (especially earlier imo) in my opinion  do a mediocre job of helping students understand how to apply said data structures. One could learn fundamentally how a structure works in a project, but when tasked to code an algorithm  in a scenario, may draw a blank.  Its like if you were taught how to build a car, then asked to drive it. One can infer but not without application practice [Some other professors do puzzle/game style projects instead]\r\n\r\nQuiz: some challenging, some chill, but usually well timed. Do not slack off on them though, be mindful.\r\n\r\nExams:\r\n    - Exams are generally formatted with a decent number of questions involving theory, and 3-4 coding questions\r\n    - The coding questions particularly test algorithm development rather than coding methods of a ds (understandably and arguably more interesting as well)\r\n    - Difficulty wise, the coding questions aren't exactly, \"beyond our ability\". They are decently designed questions which definitely push our algorithm skills to the limit. However the topic of exams became a big issue due to 2 main factors -> Time, Resources:\r\n           - Time: Exams were wildly crunch in time, to the point that they are unfair. On average for a person learning these structures and concepts newly, it should take around 20 minutes per algorithm give or take a few minutes depending on question variety. However we have on average 3 of these questions on an exam + theory (although that part is not too bad) on a 50 minute exam. This often leads to serious time crunches and not enough time for someone to solve the problem with a correct solution. Hence why the final seemed a lot easier pacing wise since we actually had the time needed. This is most probably the reason for all the low test scores, and its not something to look over. Personally time was the biggest issue here.\r\n          - Resources: Past exams given do not reflect the current difficulty. Yes this is intentional as you have probably seen in other reviews, but do not take that lightly. I am not here to complain about that specifically though. I believe  the main issue here is partly that but also the fact that we get very minimal practice on ALGORITHM DEVELOPMENT in this class. Our projects as mentioned above often task us with making methods of a DS, and only a couple Utils which is usually beyond the scope of our test (though those are decent). Aside from that there is no coursework that we have, no homework or anything of the sort to help us practice algorithm development. Highly reccomend students to do LeetCode or any other interview style questions for the data structures learned, as those are the kind of questions that will be on the test (difficulty may not match exactly but take all the practice you'll get). Arguably this will also greatly help refine fundamental skills for the future too. But in general there is a big lack of in class resources for this department.\r\n    - Anyway do not take these lightly, they do require a lot of effort so be aware of that.\r\n\r\n\r\nTLDR: I think Pedram's a decent professor with good TAs, but the time crunch on his exams primarily on the coding questions and lack of algorithm practice can make the class an unnecessary struggle. If you are someone who already religiously does LeetCode or any kind of algorithm practice outside of class/willing to put in that often insane amount of effort to finesse the exams quickly, by all means take him. But if you are new to all of these concepts and want to understand without the tests completely destroying your grade, maybe think twice.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-31T11:28:59.599099Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Pros:\r\n\r\nRecords lectures (each and every lecture and lab/disscussion was recorded and posted on time with clear audio and no issues!)\r\n\r\nIs self aware enough to adjust difficulty. (First 2 exams had low averages - like 60s - so he made the 3rd exam easier and gave open note quizzes that we did outside of class. I believe he also towards the end made projects weigh more which was appreciated. \r\n\r\nGives 2 minute breaks in the middle of lectures.\r\n\r\nIs active on piazza and gives clarifications\r\n\r\nExplains concepts mostly clearly and draws things out which is helpful.\r\n\r\nGives exams details on piazza as hints which do help on exams.\r\n\r\nCurves? This is kind of a pro and a con because he doesn\u2019t curve anything (not even exams) and instead moves the grade cutoffs at the end of the semester. This is a good way of doing it but unfortunately he only moved them by 1 point so while many were grateful some were a bit frustrated as the exam averages were pretty low this semester.\r\n\r\nCons:\r\n\r\nHard exams due to lack of practice material (old exams are useless since he changed the curriculum). Also the instructions can at times be confusing and he limits what you can use (like what data structures and loops etc) which doesn\u2019t work well with the instructions. I do think he did a better job with this on the final but for the first 3 exams it was an issue.\r\n\r\nDiscussions/labs are basically mini lectures instead of actual practice. The topics form lab do show up on exams but usually only in short answer. \r\n\r\nHis voice is slightly monotone which can be hard for some people.\r\n\r\nTLDR: He\u2019s a decent prof and if you put in the effort you won\u2019t fail but taking Elias or maybe Nora might be better.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-06-12T14:30:41.118139Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "Practice exams are completely useless, same as the lecture.\r\nHomework projects will not help you anything on the actual exam.\r\nQuiz is hard as possible, I don't know why.\r\nLeet code and any outside resources may help you survive from the hell on earth he created.\r\nTake Elias or Nora.\r\nCurves are +1 point on your final grade, haha.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-07-21T13:16:48.743164Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC132",
+      "review": "pedram, the goat that you are...\r\n\r\nto start off, I want to clarify a couple of things:\r\n1. this was the summer version, so 15 weeks of content condensed to 10 weeks\r\n2. all lectures were recorded bc of this, but there were virtual labs and q&a sessions\r\n3. I got a C in 131 :( so my grade in this class is most definitely a step up :)\r\n4. I have a bio background and I'm not really a programming god like most ppl in this class \r\n\r\ncoming from someone who took yoon for CMSC131, pedram was a breath of fresh air. people say that pedram's voice is monotonous, but he legit sounds like a cartoon character and it makes listening to him so fun. try it, close your eyes and listen to his lectures and let your mind wander. \r\n\r\noverall thoughts:\r\n\r\nsomething that really set him apart for me is how well he explains things. I never considered myself to be such a visual learner until I took this class. I appreciate that he takes the time to draw both the stack and the heap when explaining concepts such as recursion and the initialization of data structures. I found myself also drawing things out when I wanted to figure out the logic for my projects. he is really great at breaking things down and his slidesets are always very thorough and to the point. I also really liked that he included applications to the real world of what we are learning because it just makes what you're learning a lot cooler yk. \r\n\r\nprojects:\r\n\r\nthe projects that he assigned were somewhat challenging but not to the point where they were impossible. i'd recommend that you just sit with a problem for a while because the answer will come to you eventually if you give yourself enough time. I'm not gonna lie, I lowkey enjoyed them. the projects are pretty much free 100s as long as you submit on time and pass all tests. the content from the projects will basically be most related to what he will test you on the exams, so it's important that you don't chatgpt your way through them.\r\n\r\nquizzes:\r\n\r\nidk if this is the case for fall & spring semesters, but our quizzes were not weighted very much and were open note save for the debug quiz (lowkey kinda a joke but appreciated). make sure you do well on them because they're a way to get some easy points. \r\n\r\nexams:\r\n\r\nsomething that pedram does which is such a lifesaver is that he gives an outline of the exam two days prior to it. it contains the methods you will need to know for the exams, what the exam will and will not cover, and how many questions/what type of questions will be present. HYPERFOCUS ON THIS. you don't want to end up spending all your time studying something that won't even be covered. the previous year exams that he gives are good practice, but don't rely entirely on them. simply do the problems related to what the exams will test you on. the exams themselves were pretty fair. \r\n\r\nsince this was a summer class, we had 1 hour and 20 min long exams for the first two exams and then 2 hours for the final. however, our exams were longer since we had more time. for the first time in a cs class ever, I was able to finish an exam in the allotted time for all 3 exams which was a win. I think maybe pedram has changed, but the exams seemed reasonable to complete in the time that he provided. I gotta say that I am not the fastest in terms of algorithmic thinking, but I still felt that I had enough time to complete the coding questions on time. \r\n\r\nexam structure was generally multiple choice & short answer that tested you on theory, sorting algs (if applicable), and other coding-adjacent concepts like logs and whatnot. the coding questions never require more than 10-15 lines of code to properly fulfill all the requirements for the method. some examples of code-writing questions are completing methods for a class or using data structures to perform certain tasks. all were pretty doable and I'm glad that he tests us on thinking algorithmically bc that's a skill you need as a computer scientist. \r\n\r\ntips & tricks:\r\n- start projects early, but you alr knew that (genuinely it's the best way to actually master concepts from lecture)\r\n- also figure out the logic for your projects before your fingers touch the keyboard (will save you lots of strife)\r\n- listen to lectures on 2x speed \r\n- go over content from exam guidelines religiously\r\n- if you lowkey didn't understand anything fom 131 make sure you fully understand the content (I used Alex Lee/Bro Code which I found pretty helpful)\r\n- this might be a me thing but don't overtake notes, simply go back to the slides or rewatch lectures as necessary (I found that taking excessive notes were kind of a waste of time)\r\n- GO TO DISCUSSION or at least catch up on them immediately if you can't make it since they are essentially mini lectures that cover high-yield content that WILL be tested on exams (ex: sorting algs were taught during discussion which showed up in pretty much every exam)\r\n\r\nshout out to the TAs! angie, ryan, and brian have saved my life on more than one occassion! \r\n\r\nthis was a pretty memorable class and it's safe to say I feel more confident to take on cs now \ud83d\ude0e",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-08-14T16:22:48.606823Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram is a great professor teaching a somewhat boring class that is CMSC131. I really love how this guy goes into crazy detail, and speaks about how stuff in 131 can relate to future classes. To be honest, if you already know how to code, you can get away with missing 80% of lecture, however you would be missing out on good bits of information about how java works, which I can guarantee not many know. I will say, the quizzes and exams are actually a bit challenging compared to what he teaches, DO NOT UNDERESTIMATE THIS CLASS. just cuz you got a 4 in CSA and knows the basics of OOP does not mean this is an easy A, this class still needs some attention (I learned this the hard way). Overall Pedram is the goat for teaching, but when it comes to exams and quizzes, they can be difficult, so keep this in mind when choosing him. I'm going to continue with him for CMSC132, so I do recommend bro.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-04T14:52:24.478563Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram's lectures are a bit boring, he just goes over the slides, but he does go through everything and the material is pretty simple. In the course we had 5 quizzes and 3 midterms. The quizzes are pretty easy, but the tests are a bit harder. Every week he gives a project assignment which is not to difficult and should be free points for your grade. TA discussions are very helpful and they review before tests and quizzes. I would give Pedram a 3.5 stars.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-05T17:29:45.392408Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Probably closer to 3.5 stars. Lectures are kind of boring and hard to pay attention to because he\u2019s kind of monotone, but he\u2019s super organized. Always posts lecture videos and TAs post discussion videos. He tells you what kinds of questions and what methods you\u2019re allowed to use on exam. Provides a lot of practice exams.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-05T21:42:52.285225Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "no curves and makes exams & quizzes impossibly hard\r\n\r\nfor an introductory course in java, pedram puts you through misery and extended suffering\r\n\r\ntake elias or nora",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-12-09T11:57:31.502467Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "1.5 stars. \r\n\r\nPros: An okay lecturer and at least records lectures. \r\n\r\nCons: \r\n1. Exams and quizzes are often completely different from practice exams and practice quizzes, as well as lecture material. Sometimes, topics which are said to be covered in quizzes and exams are not actually in said quizzes and exams. \r\n\r\n2. Does not review material in class in the days before exams. He does not provide any explanations for where points have been missed on quizzes or tests, or he just tells the TAs not to provide explanations.\r\n \r\n3. Project descriptions are extremely vague, and expected input/output files for certain methods to be implemented are often written strangely and/or incorrectly; he does not provide expected inputs/outputs in project descriptions, and relies too heavily on student-written tests. \r\n\r\n4. The 12% deduction for submitting a project after 11:31 PM of the due date is way too much. Outright refuses to give any points if submitted after 11:31 PM of the following day. \r\n\r\n5. Literally 67% of project grades are dependent on code passing release tests, rather than on whether said code adheres to expected input/output or not. Even passing the public tests is a small percentage of a project's grade.\r\n\r\n6. Never gives extended time accommodations for quizzes, tests or projects. \r\n\r\n7. Relies too much on Piazza and doesn't like emailing. \r\n\r\n8. Rarely available for office hours.\r\n\r\n9. Has the attitude of a 6th grader and the maturity of a high school sophomore.\r\n\r\nTake either Elias or Nora, twin.  Or at least use leetcode if you are taking ped.",
+      "rating": 1,
+      "expected_grade": "D-",
+      "created": "2025-12-13T18:44:30.965912Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram is pretty chill, although I physically could not pay attention to this class because of how monotonous his voice gets. Lectures useless. His exams are hard compared to the other professors(comparing averages it was about 10 to 15 pts less).",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-12-16T22:39:30.741958Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Highkey a bum professor, his lectures are recorded but are very boring. This year he decided to change the curriculum, meaning that all his previous exams/quizzes were useless. This gave Pedram the chance to make them annoyingly hard, no matter how much you studied. If you know the material beforehand then you are fine, but if not then you might be in some trouble. This is known as one of the weed out classes, however no need for him to make his exams so much harder than what he did previous years.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-12-17T15:55:37.135662Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "I think this is one of the most fair reviews you will get as this was my first ever computer science course ever. The only reason he is not a 1 star is because he records lectures, is a nice person, and does the bare minimum for previous quizzes and practice exams. But when it comes to being an actual professor he is simply not good at all. I do not get why other people are giving high reviews if they think he is boring. Many students skip his lectures because he often just goes through some half baked slides and goes on tangents about something we never need to learn or a concept we learned weeks ago in class. When it comes to teaching concepts, he does almost everything poorly except for memory maps which aren't on any of our classes exams or finals but it was for other students. Also his exams 1 and 3 as well as quizzes 3 and 5 were completely different and way more difficult then his practice exams. ANOTHER big issue with Pedram was his timing. We learned all the material for exam 3 way before thanksgiving break but instead our exam was right after break. Many people including myself would have much rather spent time with our families instead of studying for a class in which other professors gave their students their 3rd exam before break. All the other classes had way more time to study for finals and I was even using other classes study material to learn concepts because what Pedram gives simply is not good enough. Lastly, discussions were pretty much useless unless it was a day before a quiz or exam. I would learn a concept from brocode 10x quicker then a discussion, and I do not get why our quizzes were not in there like the other CS Classes so we could actually learn content in class.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-12-18T14:13:08.153376Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Overall, Pedram is a solid professor. He explains concepts clearly ( even if boring) , is approachable, and makes the class manageable. He records his lectures, gives a short mid-lecture break, and provides detailed exam and quiz outlines, which were especially helpful when studying.\r\nWhere he tends to fall short is in exam alignment. The material taught in lecture and shown on practice exams is often much easier than what appears on the actual exams. As a result, the real exams feel significantly harder and less representative of what we are given. This is reflected in the exam averages, which were around a C surprisingly low for an introductory CS course where many students already have prior coding experience.\r\nBecause of this, I would not recommend this class with Pedram as a first exposure to coding. However, for students who already have programming experience and can handle higher-difficulty exam questions, he is a reasonable choice and overall a decent professor.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-12-19T03:17:36.874474Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram is a very good instructor: from what I saw and experienced, he always cares about his students and if you ever have any questions during lecture, he's more than willing to answer. Lectures were often broken up into 2 sections with a short break in the middle, and were always recorded with the slides being posted as well. I see a lot of people saying that he's monotone or lectures are boring, however I saw it more so as Pedram wanting to be as straightforward as possible when communicating content. Pedram and the TAs were also very responsive on Piazza for any questions that came up outside of class time.\r\n\r\nCMSC 131 is just a tough course in general (in my eyes coming from someone who didn't have a lot of programming experience beforehand), however Pedram was always very approachable and helpful if there was something confusing and made it a bit easier. In my opinion, if you're willing to put in the work in classes, you will come away with a good grade, and learn a lot in the process.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-20T06:47:07.222901Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram is a good CMSC131 Professor.\r\n\r\nThe lectures are really good at explaining the concepts. As a person who never took AP Comp Sci and wasn't familiar with OOP, he did a really good job explaining it and other concepts I wasn't familiar with like recursion. His drawings of memory maps really help you understand what's going on. The other reviews are right that his lectures can be a bit monotone and on days where I was a bit tired it was easy to drift off.\r\n\r\nThe projects are nice and straightforward and you shouldn't have trouble finishing them if you start on time and get help if you need it.\r\n\r\nThe quizzes and exams are all doable. I know some people say he has hard exams (and it does seem to be this way compared to Elias and Nora), but they're all doable if you know the content from the lecture and do the practice he gives you. He also gives you nice review material for each quiz and exam (except for the final).\r\n\r\nTips to succeed:\r\n- Attend every lecture. Attending them in-person helps you learn all the content at a nice pace. \r\n- Attend discussion. Before quizzes and exams, they are very useful for review and letting you know what will be on the quiz/exam. They are also helpful for learning specific things you may need for the projects and giving extra examples/questions to solidify the concepts. Some content (not a lot) is only taught in discussion.\r\n- Start projects early, try not to push them to the last minute. You\u2019ll learn more from them.\r\n- Have a plan to study for each quiz/exam. This doesn\u2019t have to be super thought out, but plan enough that you don\u2019t need to cram the day before/of. A decent bit of time before each quiz or exam, Pedram will post details about it on Piazza where he usually gives a worksheet to work through and past papers. At least, give yourself enough time to work through all of it without rushing. Do all the practice he gives you. Going through the code examples in the zip files provided with each slide and making sure you understand what\u2019s going on can be helpful. Exams and quizzes combined are a large part of the class grade so prepare for them well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-24T01:27:34.139856Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "This course was significantly more difficult than other sections of the same course due to the instructor's exam design and grading policies. While rigor is expected, the level of difficulty combined with the lack of dropped assignments (even one quiz would have helped) created a grading structure that was inequitable across sections. \r\n\r\nAlthough this course was described as \"beginner-friendly,\" in practice, it was not due to the nature of the harsh exams which did not reflect the difficulty of the practice he had provided. For students new to the subject, this made the course especially challenging to navigate.\r\n\r\nAs a result, receiving one poor exam score had a disproportionate impact on your final grade. This leaves no room for error for future assessments.\r\n\r\nStudents should carefully consider their coding background before enrolling in this section. Given the exam difficulty and grading structure, I would not recommend this course for beginners.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-24T15:02:52.277848Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Teaching & Materials: He is a good professor in terms of giving the content clearly and having a lot of recordings, slides, and practice to look at during the lectures and discussions. However, he was a bit monotone so every lecture I attended kind of went in one ear and out the other.\r\nContent Difficulty & Background: The content really was not that bad at all, but I didn\u2019t take CSA in high school so I think seeing this for the first time might be the reason why a lot of people do poorly.\r\nExams: The exams throughout the semester were fair for me, but I thought the final was much more difficult than the exams we saw during the year.\r\nStudy Advice: Overall, I recommend reading through slides and watching through lectures to review. Practice exams/quizzes were way easier than the actual exams, so lowkey just focus on understanding the content, syntax, and definitions more than memorizing what\u2019s on the practice exams because those concepts probably won\u2019t be what\u2019s on your actual exam.\r\nOverall Experience: I am taking him for 132 too, so I had a pretty good experience!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-26T03:06:33.627344Z"
+    },
+    {
+      "professor": "Pedram Sadeghian",
+      "course": "CMSC131",
+      "review": "Pedram Sadeghian, my goat. \r\n\r\nI enrolled in this class thinking it would simply satisfy a requirement. Silly me. What I actually signed up for was a spiritual awakening disguised as a computer science course.\r\n\r\nLectures? Cinematic. So good that my Physics friend understood data structures just by looking at this man\u2019s beautiful smile. His voice? Soothing. He can put anyone to sleep in just 2 minutes. Somehow he takes topics that look like alphabet soup in the textbook and presents them like they\u2019re the most obvious, natural things in the world. You leave class thinking that was so easy! Then you open his projects and past quizzes and realise that .\r\n\r\nSadeghian has this supernatural ability to make all his students feel like Batman. Because his quizzes and exams let his students unlock a new level of insomnia! At one point I\u2019m pretty sure my laptop battery learned more from lectures than I did. I tested this by leaving my notes open next to the pipe that's leaking in La Plata, it\u2019s now compiling code independently.   \r\n\r\nIf you are looking for an easy A? Run away. If you are looking for new ways to torture yourself that even guatemala hasnt invented yet\r\n\r\nAlso he's really hot and his shiny bald head WILL distract you during exams.",
+      "rating": 5,
+      "expected_grade": "F",
+      "created": "2026-02-21T00:31:07.032041Z"
+    }
+  ],
+  "name": "Pedram Sadeghian",
+  "slug": "sadeghian"
+}

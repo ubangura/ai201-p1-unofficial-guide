@@ -1,0 +1,99 @@
+{
+  "courses": [
+    "CMSC421",
+    "ENEE351",
+    "MSML606",
+    "MSML606",
+    "CMSC421",
+    "MSML640",
+    "CMSC421",
+    "MSML606",
+    "MSML640"
+  ],
+  "average_rating": 2.1,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "I'll preface my review by stating that I had Dr. Sujeong Kim, but she co-taught this course with Dr. Max Ehrlich, so much of this feedback applies to them both.\r\n\r\nStarting with the curriculum, I feel that this course was very poorly designed. The professors put in the bare minimum effort, more or less entirely ripping off Berkeley's CS188 course (https://inst.eecs.berkeley.edu/~cs188/fa23/), including all of the topics and slides. In fact, the slides they provided us with were identical to the Berkeley ones, just with the Berkeley branding replaced by UMD branding. They didn't even bother recording lectures, telling us to use the Berkeley recordings instead. Also, the Berkeley course had regular discussions, homeworks, and projects\u2014which would have helped us learn to apply the material we were learning, something the professors didn\u2019t really seem to care about.\r\n\r\nMoving on to the quality of the lectures, Dr. Kim seems very knowledgeable, but she simply cannot teach effectively and seems best suited for research. Her lectures pretty much consisted of reading off the Berkeley slides and giving inadequate answers when anyone would ask a question. It seems that there was very minimal preparation done before the lectures. The only reason anyone even bothered attending lectures was the clicker quizzes, which effectively made attendance mandatory. I personally learned more putting in headphones and reading the Berkeley notes instead of listening to her.\r\n\r\nThe assignments didn't make the course any better either\u2026\r\n\r\nThere was one midterm exam, which was a disaster. The professors made us take the exam on Gradescope on our laptops in class, because their goal was not to measure students' comprehension of the material but instead to minimize the time and effort needed to grade the exam while maintaining the fa\u00e7ade of a well-run class. They provided hardly any review materials themselves and only posted full solutions after complaints on Piazza. And even the solutions provided turned out to have errors. Besides that, they pointed us to Berkeley's past exams, which ended up being nothing like our exam. The exam was such a time crunch that hardly anyone could even finish, and they had to curve the exam to be out of 78 points even though there were well over 100 points originally.\r\n\r\nThe first 2 homework assignments were quite boring, but Homework 3 (a PyTorch lab which involved building an image classifier from scratch) turned out to be quite interesting. However, the professors did not teach us anything to equip us with the knowledge necessary to do the homework. They did not go over how to use PyTorch, how to design a neural network, how convolutional neural networks work, how to improve models, or anything else that would be remotely useful. While this was one of the only thought-provoking assignments, the professors did not prepare us for it at all.\r\n\r\nFinally, we had a group project due at the end of the semester that was pretty interesting, but the professors did not communicate the requirements clearly at all. They waited until a week before the end of the semester to tell us the details of the final poster presentation and announce that we had to complete a 3-5 page report in addition to the deliverables that we proposed in our project proposals. And that's also when they finally communicated the grading criteria, which was laughable. Somehow, the poster presentation was worth 70%, while the rest of the deliverables combined (including the 3-5 page report and all of the code) were worth just 30%.\r\n\r\nOverall, it seems like not much thought was put in this course. Why am I paying for a cheap rip-off of a Berkeley course that is freely available to all?",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-10T18:48:35.587332Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "Course was fine. Professor mostly read off slides, but I thought the material was neat. It was mostly material taken from Berkeley's course, so the slides are solid. The course has a few homeworks, an exam, and a semester-long project, all of which I thought were reasonable. Solid, relatively easy CS elective, but professor was nothing special.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-11T00:25:57.833184Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "She is a new teacher and I don't think it is necessarily her fault, but attendance is weighted way to high for a class copied from Berkeley. and copied poorly. There is less frequent homework than the Berkeley course and this causes it to be a much larger problem set so everything is covered. There were only 3 homework assignments the entire semester and 1 group project. the workload is not bad but this means the class is not really the most engaging and you end up having to relearn lots of topics to do the homework because you haven't thought about it for 4 weeks ago since you initially learned it and the professor moved on. The attendance is worth way too much and I would have an A- in the course if they removed it completely. The one time the professor had to miss class for a family emergency we had to come to class for participation points and watch a zoom lecture of the other classroom projected on the screen and I honestly felt insulted reading that canvas announcement. It was a waste of the Ta's time that day to have to sit there in person, operate the zoom meeting and, ask questions for students when we just as easily could have watched from home and gotten the same experience if not better.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-05-15T11:43:05.304076Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "ENEE351",
+      "review": "I thought she was very nice. The class is very dense so lectures are slide heavy but we went through them at a reasonable pace. She was very open to answering questions and going back to look at things. There were easy daily quizzes that came from the slides which acted like attendance points (you can time them and do them online from home if you want). The discussion and lab sections weren't too bad, each lab assignment was a data structure we learned in class (not always well timed if you like to turn stuff in early). They could be completed in the lab if you took it seriously. Homework's were tough but infrequent and lightly graded. The exams were very dense since the course is dense, but curved fairly. The final project was actually fun as you could pick your own and it wasn't too demanding. Overall I actually learned a lot and it wasn't too stressful. I am writing this review because I think Prof Kim deserves a better rating.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-31T13:52:25.825760Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "MSML640",
+      "review": "Run away , if you want a course with light work, you would have to perform multiple experiments and analysis just for few marks, and the scope of learning  is not that good if you try to learn them independently",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-12-01T20:20:44.485618Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "Kim and Regli were co-teaching this semester, so they had all the same stuff. Kim is better when watching the lecture videos because she draws on the slides themselves, while Regli points to things in person, which isn't shown in the video because we only see the slideshow. She has an accent, but it's nothing too crazy (you can understand her well).",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2025-12-17T02:01:52.447875Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "MSML640",
+      "review": "The instructor is a kind, approachable and well-meaning person. But, the quality of teaching did not meet expectations for this course. Lectures largely consisted of reading directly from slides (sourced from Stanford and other colleges) with minimal additional explanation or clarification, which made understanding the extremely material challenging without extensive self-study. The assignments were extremely time-consuming, and while bonus points were offered, they were typically worth only one or two points despite requiring significant extra effort.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-18T02:15:43.389365Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "Decent professor. Her English isn't perfect, which may impede perfect understanding of conceptual understanding of the material, but I thought that she taught what she did effectively enough.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-12-25T04:13:56.135109Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "MSML640",
+      "review": "She is mostly reads slides in a dry manner, lacks energy and her exams are unnecessarily difficult. She is very strict and there is no learning from this course. For me it was very monotonous and non-engaging. The slides and the course structure is badly designed as well.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2026-01-06T13:54:17.732889Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "MSML640",
+      "review": "Her delivery is very disengaging. She just reads of the slides and whenever students asks to clear their doubts she is not able to give satisfactory answers. The assignments, midterm and final exams were unnecessarily hard. Even for a 2 mark assignment, the requirement was to give report, in class presentation, submit your presentation along with the code. Most of the assignments are itself generated by ai but she discourages Ai to be used, how ironic. In my opinion, she is very rigid in her approach and doesn\u2019t entertain new ideas. Not a class that I would recommend you to take unless you wanna get doomed.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2026-01-10T06:41:53.694725Z"
+    }
+  ],
+  "name": "Sujeong Kim",
+  "slug": "kim_sujeong"
+}

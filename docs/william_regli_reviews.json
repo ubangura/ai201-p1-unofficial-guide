@@ -1,0 +1,169 @@
+{
+  "courses": [
+    "CMSC422",
+    "CMSC421",
+    "CMSC801",
+    "CMSC800",
+    "CMSC421",
+    "CMSC421",
+    "CMSC421"
+  ],
+  "average_rating": 2.4211,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Regli started out seeming like an accomplished and interesting professor, but as the semester went on that facade faded. He is one of the most disrespectful professors I have ever had. The first programming assignment he gave us had 3 conflicting sets of instructions, took the longest of any cs project I've ever taken (for some people ~40+ hours), and was detrimentally open ended, which is something I normally appreciate. His exam questions are extremely vague and have no clear answer. You can know your stuff and still fail the exam because you have no idea what the questions are asking. Overall this has been the least organized and most condescending class I have ever taken. Regli sees himself as above the students and above the class. He has not dealt with the material in 30 year and when pressed on an answer will just try to make you look stupid. Take this class if you have to, it won't be the end of the world, but you will probably hate him and the class.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-04-06T18:35:40Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Professor Regli is a very considerate professor as he has been both lenient with grades and deadlines. His projects can be a little challenging (and the first one was a little too open ended - but by fault of one of the TAs), but they are fair and teach you a lot more about the concepts in AI than just the slides alone. For his exams, while they are a little more on the challenging side, they have generous curves (as an 82% on one exam translated to an A). As far as workload goes, it should be pretty manageable since there are 3 programming assignments and then 3 (much smaller) homework assignments throughout the whole semester. He recommends that you read the textbook and do practice problems, but this is mostly supplementary imo (and probably not worth the extra effort). I disagree with the comment about him being disrespectful as he has always been eager to help and connect with me whenever I've reached out to him during/after class. My only complaints about Regli are that it can be a little hard to follow along with him during the lectures because he goes over a lot of content in small amount of time, without pausing to do practice problems or repeating the content, which makes it hard to retain the information. Overall, I'd recommend Regli as he does care about the content and you having practical takeaways from CMSC421.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-16T17:07:00Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Cool professor. The lectures and the notes are good and teach the concepts very well, and the exams are open note. Most of the pressure is on the projects. I'm giving this guy a horrible rating because the projects were just that bad, and the TAs were annoying. The programming assignments are not only worthless, a waste of time, and take way longer than they should, but they are also open-ended in all the wrong ways. I don't think he's disrespectful, but just a little bit autistic.\r\n\r\nI feel compelled to write this because there was just a fiasco where they changed an easy planning assignment multiple times due to a bug in the given library code, resulting in part of the project being changed from 'propositional planning' to 'software development bug-hunting', which was of course stupid and a waste of time. There was also a step in that assignment which was to modify the library for yourself in order to inject the desired behavior into the library, with no additional instructions beyond that. Why am I being tasked with software development in an AI class? AM's words from 'I Have No Mouth and I Must Scream' sums up how I feel about these programming assignments in general. They're not hard, but have far too high a proportion of time invested in busywork and unrelated tasks such as making 3000 graphs in Matplotlib than actually learning the concepts.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-11-04T22:49:53.702803Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "He\u2019s a cool guy and pretty knowledgeable but he\u2019s quite Incompetent when it comes to assignments. There are only 6 assignments, 2 or 3 of which are multiple choice gradescope assignments. And yet for every single programming assignment there\u2019s always some big change in instructions and/or requirements halfway through that makes us redo things causing an extension to be granted. For every single programming assignment thus far there\u2019s been an extension. The TA\u2019s also generally seem to have no idea what\u2019s going on with the projects so you\u2019re just all on your own. How the projects are this poorly made is beyond me considering the entirety of the course material is pirated from UC Berkeley and a few projects are based on theirs too.\r\n\r\nAgain Regli is a really nice guy and pretty reasonable when it comes to deadlines extensions for things and if you\u2019re really interested in the subject there\u2019s genuinely few better people here than him to teach you about it due to his background. But the projects, despite how few of them there are, make this class very annoying",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-11-08T06:01:11.153752Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "This class has a lot of potential to be really cool and really well done, but it was such a wash with Regli.\r\n\r\nHe speaks pretty well and has a lot of charisma, and is also just a super cool dude. Loves old movies about AI and has an AI \"movie of the week\" recommendation, followed by an optional outside-of-class meeting with him and other students to talk about the movies. He's also just genuinely super interested in AI and that's clear to everyone. He was an AI advisor at the WHITE HOUSE??? Super neat guy.\r\n\r\nBut taking a class under his administration was kind of atrocious. He was horrible at answering questions in class, and often would just ask a different question in response to get you to \"think\", when just giving the actual answer would be much more helpful. The projects were not described well and often were heavily revised after being released and information was not centralized at all. The first project was a humongous assignment where you solve the traveling salesman problem with seven different AI-based approaches, and it took an egregious amount of time while having open-ended instructions, which Regli said were for the purpose of \"exploring\". I like this idea, but when it's a big project that is graded, it's not the place for it. Another project had a bunch of starter code which was discovered to be fatally buggy AFTER the project was released, so it was impossible to do the project as written, or really at all. Rather than scrapping the project or fixing the starter code, which would be acceptable responses, Regli decided to KEEP IT and just have students \"try it\" and then try to debug it and come up with theories on why it didn't work. This was well outside the scope of the project and the entire reason the starter code was given in the first place. He has this complex where he can't admit that he's wrong and it really messes with the structure of the class.\r\n\r\nThe exams were all multiple choice, which sounds nice, but he would ask these ridiculously open ended questions on the exams when the answers were multiple choice. Even after being confronted about this, he said it was intentional, again to \"make you really think\", and even straight out said that there wasn't just one right answer, but rather one \"best\" answer. For multiple choice questions that are all or nothing, not even any partial credit, this was not acceptable. \r\n\r\nTL;DR: Regli is a really awesome person, but should not be administering classes. With his inability to admit his own faults, combined with his incessant need to confuse students under the guise of \"making you really think about the material\" (even on exams and projects), the class really sucks with him. With that being said, I still think he's better than Zhou, and it was not that hard of a class. Just really frustrating.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-08T21:56:04.030744Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Guy below me is spot on, Regli is a super cool guy and genuinely knows what he's talking about. He's been in this space for decades and is very clearly knowledgeable. This class (atleast this semester) suffered alot from projects. Hw2 (project2) was really long, but I don't think it was awful. Some of the other ones were created with very little detail and lots of revising as the due date came closer. You literally would not be able to progress on most projects without searching through Piazza for clarifications, etc.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-10T21:34:23.867094Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "The concepts in this class definitely have the potential to be cool and engaging, but the way he teaches is quite disorganized and detailed in the wrong places. You learn a bunch of vocab words in every lecture that gets mentioned once and never reiterated, but he keeps moving forward so if you don't remember one word you're screwed. Even if you read the textbook, the terminology it uses is sometimes different than the terminology he uses in class. He also moves really fast and all his slides have a lot of words, so it feels impossible to take notes and if you get lost, you're not going to pick up anything for the rest of the class. He also frequently makes mistakes in his lectures or slides and has to double back on himself during class which makes knowing what is the \"correct\" information rather difficult.\r\n\r\nAs for the assignments, they take a long time, and he lied about having only 6 assignments (we had 7). The instructions for almost every assignment were constantly changed, even up to a few days before the due date. There's almost always some type of unforeseen issue with it that several people have to address before it gets announced to the rest of the class.\r\n\r\nThe exams are multiple choice which takes some stress off, but the difficulty really isn't any better, especially when you see that one question is worth 9% of your whole exam grade. The one exam on logic is literally just 250 + genuine logic. If you have your cheat sheet of definitions you don't have to go to class to get a good score if your logical reasoning abilities are strong. On the other hand, if they're not but you studied a lot, you might not do so well. The exams themselves often contain a few poorly worded questions that leave it up for interpretation, and when you ask for clarification from the TAs, they also interpret it differently than how he intended and you get the question wrong. The exams could be better structured, but at least there's a curve on it.\r\n\r\nTwo stars just because there's a curve, the textbook he recommends is well written/easy to understand, and these two together + self studying make this class passable.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-12T00:56:16.423095Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Nice person overall. Projects are very doable and relevant. You get a cheat sheet on exams which honestly don't help too much most of the time. Homework are fine but not exactly easy. Slides are bloated and too much content is crammed into the slides. Honestly, there were interesting topics but the class structures makes it boring.\r\n\r\nOverall, class is boring but not too hard. Projects (especially this first one) will take some time but otherwise it is generally a low time commitment course. Regli is a good person and is passionate and knowledgeable.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-12T02:35:32.530004Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Awful teacher, has no idea what hes doing, terrible lesson plan. Do not take!",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-13T06:46:00.059505Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Overall concepts the course are great. Projects were quite difficult with very little documentation instructions and the not answering of questions in Piazza. Professor Regli thinks that his way is the best way in terms of teaching and making one think about the material so refuses to answer questions outright, instead giving open ended \"hints\" towards what the answer could be. Most of the time I got more confused than clarification. Something else that was crazy was that he released the answers to a homework and then removed it a week or two out of the final exam and refused to answer any questions about him removing it on Piazza and instead just said talk to TA and that was that. I tried going to his lectures but the way that he teaches was quite terrible and difficult not to be doing something else. Also the exams, while not being cumulative were still quite difficult because he did only multiple choice but that means no partial credit for anything, also for the final exam a little less than half of people(133/272) got a grade of 66% or lower, and he said that was good, we still have yet to see what the curve will be like in the course. Overall I think that the material itself was pretty cool and everything but the way that he would teach kinda sucked and was really difficult when trying to get a straightforward answer out of him.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-12-16T01:41:01.744502Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Decent professor and nice guy. The midterms were fair and the lectures were good. However, he completely delegated the job of designing projects and quizzes to the TAs, many of whom were quite frankly kind of incompetent at their job. As a result, prof. Regli usually couldn't answer questions about his own homework assignments because he was not the one creating them.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-19T21:20:31.486060Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Nice guy and a great person to talk to. He made the content understandable and fun. But some of the projects were disorganized and there were not clear instructions and they kept changing over the time of the project. I personally hate the format of the multiple choice test so I was not a big fan of those but if you think you are good at them you might have a better time. I missed one of the projects and instantly dropped my grade by 7 points which is unfortunate but if you do them on time you should be fine.\r\n\r\nHe is very understanding though and took feedback well and said he would do better in the future and besides that he is very solid.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-12-22T01:58:32.193257Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Mr Regli is a really nice guy and super helpful if you ever talk to him one on one. However, there were countless issues for this course. Projects with conflicting directions, instructions in 5 different places making it hard to know everything, TA \"recitations\" where they just read off a slide and couldn't answer basic questions, exams where students had to argue for points back due to unclear wording, etc. Easily the most disorganized class I've taken at UMD, making it hard to engage with the material and actually learn. His lectures are also completely all over the place and impossible to follow. By the third week no one was even attempting to take notes because he goes so fast and its not clear which information is relevant at all. For the final, the whole class really struggled because everyone studied the wrong material, myself included. He did curve the exam(s), so in his defense he made up for a lot of his mistakes. I also did get an A in the class, so it all worked out in the end to be fair. However, CMSC421 has been a terrible class at UMD for years.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-24T20:41:51.045745Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Regli is fantastic- I can't understand the hate. He updates the slides regularly, exams are fair and you even get a cheat sheet. To do poorly in this course you have to try. He's extremely knowledgeable and funny with great lectures that make you think and content that is worth connecting to.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-04T19:04:13.392889Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Dr. Kim and Dr. Regli were co-teaching this semester (Fall 2025), so their lectures, homework, projects, and exams were the same. I think you should probably have some basic background in AI because I didn't, so that made all the concepts really hard to understand/follow. But this is a skill issue lol \r\n\r\nSome notes:\r\n- 3 coding projects. ACTUALLY DO PROJECT 1 WELL BEFORE THE DUE DATE PLEASE \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f It is the hardest project out of all 3. Even if they haven't taught the concepts yet, just use Google and stuff to learn, JUST DO IT EARLY!!!! All projects are coding + writing. For example, for Project 1, you had to write a full report alongside the code. \r\n- 4 homeworks.\r\n- 2 midterms and 1 final (non-cumulative). You're allowed a cheatsheet (front and back) for all exams. All exams are multiple choice, so no partial credit.\r\n- All lectures are recorded.\r\n- All slides are posted.\r\n- Optional 1-2 hour recitations/discussions where TAs or the professors explain some of the concepts or how to start a project. \r\n\r\nIn my opinion, midterms 1 and 2 were too close together (I think they were a little over a month apart), but maybe my perception of time was warped lol. In either case, the content needed for the final feels like a whole year's worth of content with how dense it is. So don't be fooled by the \"non-cumulative\"; the final will always be hard for a conceptually challenging class like this one.\r\n\r\nDr. Regli is an okay guy. His hats are fun. I haven't spoken to him one-on-one or asked for help during office hours, but I think he lectures okay...? The way he explains things can sometimes be contradictory and not that well-explained. I think to really understand his lectures, you have to read the book (optional), research/learn on your own, and review a lot. Piazza is not the greatest place to get clear answers. Dr. Regli tends to get a bit annoyed when students ask the same question, which is fair since there is a search bar in Piazza, but sometimes his answers to questions can come off as a bit condescending. It is kind of funny when he types out \"sigh\" though...",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2025-12-17T01:57:34.312208Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "he taught nothing i learned nothing this class was nothing",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-12-17T04:02:03.337095Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Nice guy, and a rockstar in the field. However, a lot of his lectures made no damn sense when I didn't have prior background or experience with the material. He would essentially just talk through mathematical notation or code without laying out any conceptual roadmap for the algorithm or technique we were doing, which results in me thinking that none of this is really going to stick in my brain after class. Office hours where I could talk with him one-on-one with more dialogue-y teaching was only slightly more improved. For morning lectures he himself would not so uncommonly get confused on what the hell was going on in his slides and have to spend some time to figure out what he even wanted to say. On final exam review, he got a non-insignificant portion of his own questions wrong.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-12-25T04:10:47.826977Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "This is hands down the worst course I've taken all my life, not just in college. This is more of a review for the course than the professor, Regli is chill (judging from the one time I met him). It IS a very easy class: cheat sheet, ez homeworks, broad material.\r\nWhy the poor rating? The course structure, specifically the syllabus. This is a very broad class, concepts and terms are mentioned, basic parts of algorithms are taught, but you will not end up taking anything from the course. The only way for you to truly understand whats going on is if you read the book, the additional material along with the slides and visit office hours, etc.  Exams seem like a test of can-you-create-the-best-cheatsheet. To me, it felt like a terminology class, does X mean this, etc. Exams being MCQs is another big factor of why this course is stupid. I should also add that this course is about GOFAI (good old fashioned AI) which means its almost entirely irrelevant to anything ML (there's minor relevance to robotics and RL, but thats it)\r\n\r\nReasons to take this class: you want to do the ML track (which was my reason), you want an ez A\r\nReasons not to take to class: if you care about your time/course choice or If you want to learn smth. I personally feel like unless you are solidifying your GPA, choice of 4XXs matters. I would say if do not fall in the category above, DO NOT take this class. You will genuinely learn nothing. My 8th grade art class where I never did anything but painted one canvas was more of a learning experience for me.\r\n\r\nPS: Again, Regli's chill and its the syllabus that is crap. I should add that I never went to class and only showed up for exams, so make of this review what you will (although idt attending class will help much, the material is too broad, concepts are never explained properly, its all way too rushed)",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-01-08T23:01:37.145627Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "TLDR: Prof's okay, course is really bad. You will learn nothing, buts its an ez A.\r\n\r\nWorst course I've taken IN MY LIFE, not just in college. My 8th grade art lessons were better. \r\n\r\nCons: First, its not an Intro to AI, but a very broad intro on \"Good old-fashioned AI (GOFAI)\" which is incredibly irrelevant to anything ML (though still relevant in Robotics). The whole course lacked depth; its more about terminology than actual AI. The exams being MCQ and open-book makes the course more about 'who-can-make-the-best-cheatsheet'. There are some good concepts (RL stuff, markov chains, state machines, etc) but they are not explored well, you never understand the logic properly. Slides are bombarded with information, very hard to follow and the class is too broad to allow the professor to pay any proper attention to complicated concepts. Initial parts of the course and most of the exams is just a test on terminology. If you do not attend every lecture, put more effort than what is required, and go to office hours, you will walk out of it having learned absolutely nothing.\r\n\r\nPros: 2 reasons to take it: ez A, or you're in the ML track. \r\n\r\nPS: Im not saying Regli is a bad professor, I never went to the lectures (watched recordings though). My main opinion is that the course itself is BAD and the syllabus is too broad to help the student learn. If you like writing cheat sheets and memorizing definitions, go for it. Please do not take this course if you think this will help you with AI, its incredibly outdated \u2013\u00a0its GOFAI",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-01-30T04:44:34.060847Z"
+    }
+  ],
+  "name": "William Regli",
+  "slug": "regli"
+}

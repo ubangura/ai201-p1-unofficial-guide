@@ -1,0 +1,904 @@
+{
+  "courses": [
+    "CMSC216",
+    "CMSC330",
+    "CMSC216",
+    "CMSC320",
+    "CMSC330",
+    "DATA320",
+    "CMSC216",
+    "CMSC216",
+    "CMSC398W",
+    "CMSC216",
+    "CMSC398W",
+    "CMSC216",
+    "CMSC398W",
+    "CMSC416"
+  ],
+  "average_rating": 4.6,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "first review!!\r\n\r\nprof k is awesome, he explains concepts super well, has awesome content (slides, code), and is truly passionate about what he teaches. i never thought i'd be so interested in programming languages, but here we are.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-10-19T21:59:35.242644Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "he can quickly adapt to teaching any course even if he's initially unfamiliar with them. very understanding when a huge curveball exists and is unafraid to admit mistakes. if you are ever curious and want to go more in-depth in the content, he links resources to do so.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-03T15:25:32.698786Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "I'm not actually his student for this course, but I've relied entirely on his posted lectures and supplemental code to get me through this course, so I felt I should leave a review since I chose another professor over him due to the lack of reviews. He's very knowledgeable, charismatic, and sometimes humorous. I've heard great things from his students. The way he explains things just sit super neatly in my head which I am not used to in CS. Take Kauffman!!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-08T02:27:15.907269Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Awesome lecturer, extremely fun, smart, and just overall a chill person. Projects are challenging but really improve and solidify my understanding on the course material. Exams don't have any surprises or curveballs and I feel that I can only blame myself when getting subpar grades. His late policy and extra credit on projects really cut down my stress when struggling to figure out that one bug in my code one hour before submission time. He takes suggestions very well and is extremely communicative with students. Also, guest lecturer Parker solidifies him as a solid professor.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-11-09T18:23:51.950144Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "So I took this class when he was co-teaching with Cliff and I really wish I had taken it when it was his own class with his own exams, quizzes, and projects because he always talks about how he would do something even if it's not what he can do in the present moment. \r\nIn case you need some sort of statement of his character he dressed up as Peter Parker for Halloween and it was hilarious. Also, he has a dad-tone sort of lecturing style and I'm here for it. He will adjust the lectures to account for students' questions. \r\nHe also admits when mistakes are made or something doesn't work out like he hoped it would. (i.e he wrote some open-ended questions for the exam for it was a shit show but he owned up to it)",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-11-09T22:01:29.517110Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "TAKE HIM. New and learning the UMD specifics but will quickly become one of the best in the CS Department",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-13T17:29:29.147404Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "Very funny and helpful guy who cares a lot about your learning. Take him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-17T13:13:07.831578Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "Truly incredible. A super genuine guy who takes teaching seriously. Prof Ks class is super engaging and fun",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-11-17T15:20:53.012505Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "Kauffman has been an incredible teacher... highly recommend!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-28T20:43:05.586094Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Lectures are great, assignments and exams are relatively easy",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-29T20:33:39.426909Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Prof K is on his way to being one of the GOAT's of CS professors. His lectures are great, the exams are manageable and actually test content that has appeared in the course before. His projects are a little difficult but I think that's just the class itself.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-12-05T23:55:35.064675Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "Professor Kauffman is easily one of the best professors I've had at UMD so far, up there in Justin levels of greatness. Right here is a teacher who really seems like they care about the subject can teach it in a way thats easy to understand and seems to care for the students as well. He's personable, funny, and I am probably more engaged in his lectures than I am in any other CS lecture I've had before. One thing I love is that he'll always answer questions and is happy to do so. He's got funny little nerdy references in his slides as well which is nice coming from Larry. Overall, his command of the subject is impressive but not surprising given his experience. Everything he teaches in based off of textbooks or some source so you know what you're learning is legit and is following some level of a standard (and not just the arbitrary musings of some researcher). He comes off as a little passive agressive sometimes, but in a funny way and only when its warranted (a kid won't stop asking questions that are pointless and interrupt class, someone asks a question that was just answered, etc.). His slides were also pretty good, sort of dense but filled with useful motivating examples. The worst part of this experience with him was that it felt like he was always being hampered down by coteaching with Cliff, which makes sense. This is a man with 20+ years of educational experience, coming from the University of Minnesota and GWU (with raving reviews at both) and he shouldn't really have to coteach so I hope he isn't in the future. The projects that he himself wrote (project 7 and 8) were easier to understand and do compared to the collaborative ones which is good and I felt like I put in my time, learned something, and could walk away happy. If there are seats open for this man, take him. I just hope he stays at UMD because I think his ways of teaching should be an example for the whole department.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-07T19:51:45.573246Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "For context, I am BAD at cs. I\u2019ve never learned more from a professor than from Prof K. His lectures are fantastic. I am insanely antsy so focusing for a 75 minute lecture is HARD, yet when he\u2019s teaching I am locked in. He\u2019s also a huge advocate for his students!",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2023-12-09T16:41:26.637386Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "Professor Kauffman nailed everything you could want and expect of a professor. Despite being new to the department and the class, he quickly took charge of the material. His slides were excellent, covering history, documentation, example code, and exercises with answers. He gave us time to work on exercises, discuss with classmates, and always answered questions.\r\n\r\nHe genuinely cared about making sure we understood the material. He had amazing integrity, owning up to his own mistakes. He even provided recordings of the sessions. Professor Kauffman went above and beyond by sharing his opinions on the topics and discussing their practicality. He questioned why we covered certain topics and where the information came from.\r\n\r\nOverall, Professor Kauffman is a great addition to the CS Department, and I would recommend taking a class with him if you get the chance.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-12-10T11:23:49.282926Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Great teacher, knows his stuff and is well prepared. start the projects early and utilize office hours. The class is great overall as he makes everything available on his GitHub and is quick to respond to emails",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-13T04:07:26.380352Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "An amazing teacher that really goes above and beyond to help his students not only understand hard concepts, but really helps them apply it to things that will be applicable in the future and help these concepts stick. Projects are a little challenging but really interesting and class is extremely engaging.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-14T04:30:07.302468Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is the best professor I've had thus far at UMD. His lectures are pretty typical, but his course structure is excellent. His slides are well-organized and great review material. He gives out weekly homework and discussion exercises, which along with projects were my main learning drive in the class. \r\n\r\nHis exams are open-note and open-laptop but feature some difficult questions, the class average was about consistent with a typical CS class. I vastly prefer this style of exam, and I did well on both midterms. The final wasn't very difficult either, although I haven't gotten my score back as of writing this review. It is structured the same as the midterms.\r\n\r\nThe projects are pretty good. There aren't many of them compared to other classes, but the middle ones were fairly difficult. More projects might have been a little helpful, but in the end I don't feel like I missed out on much. \r\n\r\nThe last comment I have is on his extra-credit system. Kauffman has 'engagement points', which are optional extra-credit opportunities. By doing every optional assignment and participating in class you can get a couple percentage points of extra-credit, which lent me a sense of security. \r\n\r\nAll-in-all, take Kauffman if you ever have the opportunity. He's a great professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-14T16:09:29.385235Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I took him in F23, which was his first semester at UMD from UMN. If I could take him for another class, I would.\r\n\r\n(I assume some of the things he does will change as he works at UMD for longer, so I can't promise that every policy thing will be the same as when I'm writing this. But I doubt his personality or ability to teach or create great assessments will change anytime soon.)\r\n\r\nPERSONALITY:  He's easygoing and approachable but very serious about his class. He made sure that everything he wanted to be covered got covered, and that it was covered well. He expected us to care about the class and to be working hard on it. That being said, he was happy to make geeky references and jokes, signed off his emails with \"Cheers\", and made sure I got my ADS stuff properly. I just felt like he genuinely cared about all of our success.\r\n\r\nAS A LECTURER/MATERIAL: He's very competent, and I think he explained things quite well. He moves a little fast, but he did record and has good slides so that was rarely a concern. Ask questions. He didn't follow the same order or material that the other sections did, but I think the order we followed was good for understanding what we needed to and we really learned a lot of material. Like, looking back, wow. That was a lot of material. \r\n\r\nTESTS/PROJECTS/GRADING: None of my projects had secret or release tests, which ruled. Also we had open resource exams, which REALLY ruled. Will say that projects weren't easy, and many of us spent ages in OH. But they were SO useful for making sure you knew what you were doing. Like after I finished I felt really solid on concepts. His exams were great in content coverage and fairness, everything felt evenly asked about. And his \"engagement point\" policy was so student-friendly!\r\n\r\nTips for students who are taking his class:\r\n- haunt Piazza. \r\n- ask any questions you have in lecture. it actively benefits your understanding and your grade\r\n- go to discussions (not mandatory, but super useful. it just turned into to OH half the time)\r\n- start his projects early. it's easier to do when you have a lot of time.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-15T06:01:26.429279Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "Great lecturer. I had him when he was coteaching with Bakalian, but the content was well-taught, and the online notes were good. Has extra credit for participation in lectures and discussions, which can be a huge advantage, and course is project weighted.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T06:17:06.666279Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "Kauffman is a great dude, and I really enjoyed his lectures. He was co-teaching with Cliff this semester, but his exams and quizzes were still fair and he owned up to when they were not. His lectures are super engaging and have good activities baked into them. \r\n\r\nOverall, 330 was not what I expected it to be - I thought it would be more of a software engineering course, but it was more the theory behind programming languages and deep exploration of functional programming (Ocaml)",
+      "rating": 5,
+      "expected_grade": "C-",
+      "created": "2023-12-20T00:43:21.985443Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "Incredible Professor, definitely the best CS professor I've ever had, and he makes it a point to answer everyones question and make sure the class understands topics at a high level. Study the material in class and practice on your own with all the examples he provides in slides and discussions as well as actually understanding the projects, you'll be fine",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-12-21T00:08:06.709540Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC330",
+      "review": "From my course eval:\r\n\r\n\"Professor Kauffman's lectures were extremely helpful in understanding the material and I appreciated the amount of time he spent going over concepts and the depth at which he covered them. His in-class activities were a breath of fresh air after previous lecture-heavy CS courses and helped solidify concepts. He answered questions during class thoroughly and was clearly passionate about the material and about his students' success. His slides were both informative and visually appealing (as a hobbyist graphic designer, I approve). His nerdy lecture examples were memorable (I recall a Lord of the Rings-themed one demonstrating OCaml records). When extenuating circumstances arose, he was quick to respond to emails and quick to be accommodating. He was extremely open to feedback and willing to sit down in office hours with his students discussing said feedback at length. I do not think I could have had a better 330 professor than him, and I will be looking forward to taking future courses with him (if possible).\"",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-21T02:15:03.228155Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Can tell that he genuinely cares about his student's understanding. He doesn't use secret tests because he doesn't believe that they improve student's learning. He takes time to introduce concepts on an easy level with discussion exercises and homework before testing your understanding of the concepts harder in projects and exams. Kauffman is a great, down-to-earth guy and I highly recommend any of his classes.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-21T22:03:15.319524Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Well, where should I start? I came into this semester fearing 216 because I knew this course was going to be tough and I had no clue how the professor was going to be since he was new. But Kauffman made the class so much more exciting and fun than it was supposed to be. The way his course is structured really benefits the students quite a lot. 40% of the grade is in your pocket since it's all assignments, projects, and homework, which are fairly graded. The midterms and final exams have the same weight, i.e. 20% each. His projects can get a bit lengthy but the pro is that you can make up on a project that you didn't do well on by attempting the bonus credit for other projects. I would say that his exams can be a little tricky at times, but it is fair given the fact that it is an open book, and he also provided a sample paper, which was almost like the actual paper we give. He really cares about his students and answers basically any question you ask him, even if it is out of the syllabus. His entire concept of bonus engagement points is SO HELPFUL. You answer a question in class or on piazza and that gives you a bonus point! I would highly recommend you all to take him for whatever class he teaches because I can guarantee you that he won't let you down. As long as you do your work on time and understand the concepts well, you are guaranteed at least an A in this class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-22T11:48:30.006644Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "He teaches the course like he's preparing you for industry, not an exam. He has a great sense of humor and occasionally brings in fun guest speakers. His project descriptions are very detailed, but not overbearing. It's nice to have the guidance of project descriptions and the video semi-walkthrough he makes for each project. The exams are open notes & computers, but not open internet. So you can check the slides and test code during the exams, as he's preparing you for industry and how programming is actually done not a silly test. Overall a great professor and a great human!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-23T18:45:07.805185Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "Lectures are recorded and all the materials are online. Though you get bonus points for interacting during the lecture (just answering his questions or asking a question of your own). The bonus point are calculated based on a log base 2 function so for each bonus point (\"engagement point) you get the next one will need twice as many questions. so if you ask 15 questions you'll get 4 engagement points (l,ll,llll,llllllll). Each discussion and hw is worth an engagement point, so if you miss one, but still talk in lecture you're fine. You can also submit projects up to 48 hours late with each 24 hour increment costing an engagement point.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-23T18:51:29.018853Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Prof. K. is the BEST professor for 216 (and likely any other course you see him teaching). He takes time to make very helpful slides + super engaging lectures. He makes help readily available with him and TAs having office hours + being super responsive on Piazza. Exams were open-resource this semester, as he felt it was more fair to make exams similar to how you would actually be doing development in the real world (and the exams were not a trap, they were very manageable). Projects can be difficult, so definitely start early, but there is a lot of help available, including the professor's detailed project website pages as well as his YouTube videos which overview the entire project with hints. He also offers makeup credit on projects which is very attainable. Finally, he gives extra credit w/ a sort of complex system, but basically if you do the labs and ask a couple questions in class, you'll get extra credit. If you see anyone not giving Prof. K. a 5-star for 216, ignore them, this is the best prof at UMD.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-03-27T17:34:10.892635Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Excellent teacher, just attend classes, start early (just to get a feeling for it) and labs.\r\nAgain, great teacher and person.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-03-28T15:12:31.020969Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Best Prof, mind you I have failed 216 once, so I know in comparison to other profs too.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-18T02:29:32.566519Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "In general, he is quite a good professor: very smart, so you are guaranteed to learn a lot, will challenge you but makes much of the course doable and manageable. \r\n\r\nPros: \r\n- First and foremost, he has OPEN NOTE EXAMS (including laptop use, but no internet)\r\n- Gives plenty of opportunities for extra credit, and it is merely for just engaging normally in class and with coursework\r\n- You can tell he cares deeply about students' learning and gives many opportunities for asking questions in lectures\r\n- Explains new ideas very well by relating them to known ideas for prerequisite knowledge\r\n- Holds office hours a lot, where students can get help (if it's not too close to a project deadline)\r\n- Gives \"take home\" homework quizzes, that are a guaranteed 100% (can check answers)\r\n- Records lectures and posts videos!\r\n\r\nCons: \r\n- Occasionally can be a bit hard to understand and sometimes slurs his words (again this is not very common)\r\n- Because he enables such a platform for questions and getting extra credit for them, lectures can be clogged up by insistent question-asking\r\n- For me, and many students, the projects were often quite difficult, disproportionate to other assignments and in-class exercises\r\n- To me, though this is not unanimous, lectures could be a bore at times (perhaps this is because I felt this way about much of the class)\r\n\r\nOverall, to me, Kauffman is by far the best option for CMSC216 because he will enhance your learning and make a generally quite difficult class more manageable and doable, all while providing his best effort all around.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-05T00:45:18.994733Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Super passionate about what he teaches and he is able to keep the class engaged. His labs are useful and he records his lectures. Extra credit is available if you participate and complete all the labs which is also helpful. His exams are fair and similar to his practice exams(all open note). However, don't take it lightly because you still have to study hard and understand everything well in order to do good in his class.\r\nThe only negative things(that aren't really even that bad imo) that I'll say about Kauffman is that he breezes though C. After the first three weeks, you will be done with C, structs and pointers and move onto x86-64 assembly for a while. So make sure to study C before his class starts to get a foundational understanding because the rest of the course is based off this knowledge. For example, I've heard nelson spends way more time on C. The only other thing is that his projects are super long. You get around 7-10 days, and you must absolutely start them around 5 days before because they take anywhere between 20-30 hours of pure work/debugging unless you are super smart and have been programming for a long time. \r\nOther than all that, Kauffman is the way to go since you will learn so much useful information and understand computers from a new perspective.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-05T03:45:18.650716Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "You do not have to go to a single discussion or lecture. He records everything. He even provides instructions for projects through his YouTube videos. The exams were very fair. Projects were slightly time-consuming. Labs and homework quizzes were extremely easy. You also have many opportunities for extra credit. His exams are also open-note. The gold standard for a computer science course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-07T03:42:38.584493Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Prof K is great, the open note exams are fair and well, open note. He also recorded his lectures, which was great, but also decentivized going to the actual lectures. Every week there was a lab and a homework, which you could just click through the homework but the lab was <20 minutes. The projects could have been worded better, but in general were ok.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-08T21:24:40.495630Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is awesome for 216! His lectures are really entertaining and I really learned a lot because of this course. Exams are open-note and open-computer which it really low stress. Exams were generally very similar to the practice he provided and they all felt fair. Projects is this course can be hard but if you start early then you're chilling. Also, projects are ALL PUBLIC TESTS which made it much easier for me to finish. There's also extra credits available if you participate in class or make a helpful post on Piazza. Kauffman is a really kind professors and you should definitely take him for 216 over anyone else.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-13T01:27:04.624481Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "best professor i've ever had, the class was pretty easy because of how well he can teach. offers many chances for extra credit. he truly has a talent for teaching.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-13T02:28:37.404110Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Best Professor at UMD. As long as you do all your homework, labs, and projects you'll pass the class easily. Exams are pretty easy and open notes but the projects are pretty difficult and take a lot of time. You need to know the material for it! On the bright side, there's no secret test you can see what you're testing for. Koffman is the best professor I've had. You will not regret taking him.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-13T02:30:27.291343Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "HE IS GOAT!!! take his class",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-14T01:51:35.644930Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Prof. Kauffman is a perfect professor. He's a very talented lecturer with strong, well-informed opinions about what's the best way to approach programming, teaching, and learning. He injects his own humor into the lectures, makes time for questions, and gives you all of the resources and assignments you need to succeed in the class. His discussions have up to 4 TA's who walk you through weekly labs. There are also homework assignments to reinforce the material. His exams are all open-resource (compiler, notes, textbook, manual, slideshows), which I somewhat disagreed with but appreciated. This does not make them an \"easy 100\" because they test you on deeper conceptual knowledge.\r\nHis projects are hard, so it's important to start early. But if you like CS, they are very rewarding. For example, you recreate a build tool called make that's used in C and you make your own heap manager. He writes all of the tests for you (\"secret tests are stupid\") but compensates for this with harder material. His style rubrics and exam rubrics are very lenient - you'll lose 1 point for something that for another professor would lose at least 3. \r\n\r\nThe fact that the class was not stressful does not mean you can blow off the class or that you're not gaining important computer skills. I learned so much about computer systems in this class that I would not hesitate to take another class with him again.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-14T18:35:07.098844Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "GOATED PROFESSOR \r\n\r\nEVERYTHING IS RECORDED\r\nEVERYTHING IS OPEN NOTE \r\nDOING ALL THE WORK GETS YOU EXTRA CREDIT \r\nONLY HIS PROJECTS TAKE LONG",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-15T07:30:36.555304Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "When I say absolutely one of the best professors I\u2019ve had, I mean it. \r\nHe\u2019s a great lecturer who records and has incredible slides, is super nice and has student-favoring policies, and his projects don\u2019t suck. If he\u2019s an option, take his class.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-15T13:28:47.059361Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I heard horror stories about CMSC216, but after taking it with Kauffman I can't help but give him a stellar review. He made the class extremely engaging with his slides, the labs struck the perfect balance between challenging and informative, and his system of Engagement Points (bonus credit for asking questions, responding to people on Piazza, and doing labs) made it worthwhile to come to class (though, lectures ARE recorded if you happen to miss a few). He clearly loves the subject and it shows; his enthusiasm is contagious. Absolutely cannot recommend him more highly. Just a note that his projects are pretty tough, but the lack of release tests & secret tests means that you have ample opportunity to ace them if you start early.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-16T00:39:51.805274Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "The best professor I've had in general. You can tell he genuinely puts so much effort into the class. It's by no means an easy A, but if you engage and pay attention it's more fun than not. Just can't recommend him enough!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-16T13:35:58.106745Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Yeah he's the goat. He literally made it so easy to get at least a B, and if I weren't a terrible student and gotten extremely complacent midway through the semester it probably would've been a super easy A- (and I have terrible grades so that's really saying something). There's a reason he has a 5.0 rating okay just take him. His exams are super easy (they're open notes so you can have your laptops out) and his homework assignments (10% of grade) are a free 100% (and same with the labs as long as you show up to discussion). The projects were not terrible all things considered. It is definitely a tough class because you're learning a ton of new material (C/Assembly) but he basically gives you the solution to half the project if you show up to lecture and do the labs. He also revealed one of the questions on the Final Exam so that was also pretty nice. Just take him. Trust.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-16T19:49:24.096112Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Great Professor. Open Note exams, and teaches with passion.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-21T02:19:21.179081Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "the goat\u203c\ufe0f easily a 5 star professor. he explains concepts really clearly and lectures are recorded, so if you\u2019re like me and zone out a lot in lecture, you can just rewatch the videos later. kauffman\u2019s exams (including the final) are all open note/open resource/open compiler which really helped in the sense that you can have little refreshers in the middle of the test. he has weekly labs and hw quizzes, but you can do the quizzes as many times as you want until you get a 100. there\u2019s 5 projects in the semester, with 4/5 being C focused and one of them being assembly. there\u2019s no secret tests for the projects, and he lets you locally run the tests before you submit to gradescope. overall, would definitely recommend kauffman for 216!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-22T02:32:13.280182Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "One of, if not the best CS professors at UMD.  He is funny, engaging, thoughtful, and seems very genuine.  Slides are very useful and are worth looking at, lectures are recorded, projects are decently difficult but fair, and exams are open note.  He cares for his students and I cannot recommend him enough.  Take one of his classes if you have the opportunity.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-22T02:45:38.419453Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I was kind of dreading 216, but this course moved at a pace I could understand. Prof K has the structure of his class down to a science, and it strikes a really great balance between students' grades and students actually learning. There are five projects, and the first few are LONG (particularly projects 2 and 3), so start early!! This class literally has the craziest office hours situation I have every personally witnessed, so if you anticipate needing help I'll reemphasize starting early. The projects were a little buggy towards the end of the semester, which a lot of people complained about, but if you\u2019re habitually late to starting the project (\ud83d\udc81\u200d\u2640\ufe0f) it should all be fixed by the time you start, and plus they were totally manageable. The exams are a great situation all-around (open resource, not designed to trick you).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-22T12:09:03.744981Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is a fantastic teacher and the best CS professor I have had. Lectures and slides were all available online and were very detailed and helpful. Labs and homework assignments were straightforward but are important for understanding concepts at an easier level before they appear on exams and projects. Projects were a bit long, but if you start fairly early, they are definitely manageable. Exams were open-resource and at times can be a bit tricky, although still fair. As long as you do what is expected, you\u2019ll be more than fine.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-22T21:09:45.535141Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "my goat, only got a b+ cuz of my own fuck ups, probably the best professor ive ever had at umd, highly recommend for 216\r\n\r\nprojects are moderately difficult, exams are butt easy, and gives free points for labs and hws, late policy is very fair as well",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-31T02:16:39.703895Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Amazing professor. He really cares about his students and wants them to succeed. Exams are straightforward and open note (averages were pretty high). There are weekly labs and hw, but they only take like 1 or 2 hours tops. Projects are really time consuming. I got away with doing the project the night before they was due in Fawzi's 132 but could not do that for this class. Some of the project descriptions are confusing, but if you start earlyish you should be fine. There were 5 projects and no secret test for any of the projects. He also offers a lot of extra credit (lecture participation and extra stuff on projects). I thought project 3 was the hardest - mostly because of the puzzlebin part. Would definitely recommend prof k!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-06-01T23:24:54.709647Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "TL;DR : Kauffman was an incredibly good prof, and I have almost no complaints. His class was a little tough, but anyone looking to take 216 should definitely take this prof. \r\n\r\nPros: \r\n - He's a pretty chill guy and he just has a good energy to him. Lectures are pretty enjoyable, and he answers questions very well\r\n - Each of his discussion sections have 3-4 TA's so there's lots of opportunities to get extra help if you need it. \r\n - There's no secret tests for his projects, so you'll pretty much always know what parts of the code you're failing\r\n - Lectures are recorded\r\n - He gives extra credit for engagement in class lectures and discussions, and answering questions in piazza\r\n - He gives optional makeup credit for projects, so if you lose points on a project, you can make them up in the future or vice versa\r\n- His exams are open note, so you don't really need to spend time memorizing all of the small stuff\r\n\r\nCons:\r\n - The projects got to be pretty tough near the end of the semester. While they started off fair and balanced, as the semester when on, the project instructions started to become more and more unclear, and this would lead to errors that wouldn't really be the students' faults. The test cases for the projects also because more sparse and the semester went on.\r\n - During lecture, you can get extra credit for asking questions, but a decent amount of the time, questions just ended up being not realted or very loosley related to the content, and so many people were asking questions that the lectures could feel very broken up at times. For 10 minutes you would be learning stuff, and then the next 10 minutes would be questions that aren't helpful for the majority of the class (at least, in my opinion). It would just kind of be a cycle like that, so it's kind of difficult to keep focus in lectures\r\n - This isn't really Kauffman's fault, but office hours would be packed near project deadlines. While this sould partially be expected from students, the queue would end up being 12-15 students long near project deadlines, so you would be better off just going to a friend for help.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-06-10T19:06:17.468314Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Absolutely take 216 (or any other class for that matter) with Kauffman if you have a chance. First of all, there are a lot of perks class-wise: no secret or release tests, all exams are open note, bonus points for doing discussion exercises, quizzes had unlimited attempts, etc. He also is just a very kind professor who seems to care a lot about how his students do. I went to his office hours and he spent several hours going through my code with me. My one issue in this class was that I did find projects very difficult, but I feel like that would be the case with any professor and I also think that I struggled with them more than most of the other students did.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-06-17T12:46:05.073589Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is the ultimate professor. Not only is he a fantastic lecturer, but his policies make succeeding in his course super achievable! Projects are public tests only, exams are open note (and you can write/test code during them!), and he has an insane amount of opportunities to receive extra-credit. He\u2019s awesome, and I really learned a lot from his class!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-11-14T16:21:42.193235Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "One of the worse professors i have ever had. I dont know why people like him the projects r too isnaen and the tests are not easy bcaue they are open note. this guy sucks  dont take, take herman instead",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-11-19T01:52:20.197036Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Take Kauffman. 100% will not regret it. \r\n\r\npros:\r\n- cares about his students, and has great resources and clarity on the subject. \r\n- lots of scope to boost grade with labs, hw, and extra credit\r\n- only 5 projects and have only public tests\r\n- exams are very fair, do the projects to succeed in the exams\r\n\r\ncons:\r\n- projects may be challenging, but keep up with the labs and go to discussion and you will be able to do them easily",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-21T22:23:30.225946Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "Two one-star reviews solely to drop this rating. Someone should check these reviews before they are actually added. \r\nI would be careful with that saying 216 with Kauffman is easy because it's 216 because the material itself is difficult, but Kauffman is the best professor I've had so far. His organization of the entire class sets you up for success as long as you put in the work and study. He's excellent at teaching and cares a lot about his students. The material is tough, so his office hours were super helpful, and he really made me think about the material. The projects are challenging, but they only have public tests. Exams are fair but require competition for your projects to do well. If you get sick or something happens, Kauffman is very understanding and will accommodate for you. I was sick for two weeks but received an extension and lectures are recorded. He's the goat.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-11-22T06:44:05.990503Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Very generous and kind professor who cares about his students and what they learn. The material in 216 is somewhat difficult but Kauffman does his best to simplify it and make it easy to digest. He is very lenient with students, willing to push due dates and deadlines back when necessary. His tests are open note but not necessarily easy, so while notes are helpful it's important that you understand core concepts. Projects get progressively more difficult as the semester goes on but there are plenty of resources from office hours almost every day to relevant piazza posts. Kauffman is always in a happy mood and keeps class very engaging and offers extra credit when you participate in class. Overall an amazing professor and I would recommend taking his class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-25T17:58:30.078476Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is great. This is not an easy class; however, he provides so many resources (lecture recordings, recommendations for textbooks, answers to our HWs and labs before the exam, active on Piazza, office hours, etc.) I would recommended taking 216 with Kauffman. Lecture is not mandatory but you have the option for \"extra credit\" if you participate in lecture. He is also a kind guy :)",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-11-27T16:48:47.352850Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "so goated \r\ndefinitely take him for 216 if you can! make sure that you put effort into this class because its not easy AND START THE PROJECTS EARLY\r\n\r\nbut professor kauffman is genuinely the goat the class is organized so well & he cares about his students and i would absolutely recommend him",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-03T16:37:46.265164Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "One of the best professors I've ever had. The lectures are super engaging and he does a good job of clearly explaining the content. As many other reviews have said, this class is definitely not easy, I would start the projects early and keep up to date with the lectures. If you do all the projects and labs, you should be prepared for the midterms and final and will pretty much be guaranteed a good grade. Take him if you have the chance to.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-05T16:40:52.705758Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Amazing professor. Engaging lectures and fair point system. He loves answering questions, and encourages students to come to his office hours to learn more. There are only 5 projects and all were manageable. Exams were also fair. 6/5 stars.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-07T21:21:38.493642Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Absolutely the best professor I've had at UMD. Lectures were so much fun and I never wanted to skip. He's a very helpful and supportive professor who 100% cares about his students and wants them to succeed. Definitely a difficult class but you learn so much.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-09T20:35:18.520908Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Probably the best professor I will ever have, clearly cares about his students, wants to see everyone succeed, exams are fair, projects are hard but when done will help a lot in the exams. Currently the only professor whos making 216 fun and single handedly increasing the GPA of this course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-12T16:19:36.174663Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Leaving this to offset the one guy who reviewed him one star and instead recommended Herman.\r\n\r\nDont take herman",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-12T16:56:47.611726Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Truly the goat.  He knows what every student wants and does it.  This class is made easier in a perfect way without sacrificing learning the material.  If you have the option to take this man's class for anything take it.  You won't regret it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-13T18:14:45.294294Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Bruh he the goat. Amazing lecturer, great at explaining complex issues. Thorough projects that really teach you the material. Fair open note exams, ways to earn bonus points, he does it all.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-13T18:15:12.687321Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I don't even know what else to say besides this guy is amazing and he cares so much about his students. I urge you to take him for anything and I'm praying I can take a future class with him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-14T22:53:12.832666Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Solid professor. His lectures are reasonably interesting and they explain the content well. His discussions are honestly completely useless but they operate as extra office hours later in the semester so if you need extra help with a project or want greater understanding of a lab you can go. \r\n\r\nHe gives labs & \"quizzes\" which serve as grade boosters and learning checks (I say \"quizzes\" because you can retake until 100%)\r\n\r\nHis exams are very fair and are open note. This forces you to prepare notes for the exam because you will need to reference them at times but by creating notes you are also studying so I like the format. The slides have alot of info and all lectures are recorded so you could not show up if you want (i did but you do you). \r\n\r\nOverall solid teacher, recorded lectures, optional discussion, fair open note exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-15T04:50:14.331900Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is the goat!! I'd highly recommend him for 216! It's a difficult class but he's a good lecturer & has a fun personality. Lots of opportunities for extra credit (not just from participating in lecture). Discussions are not required, I did not go to a single one. Exams are open note, open lecture slides, open past coding projects, etc. Exams are graded leniently too. No multiple choice on exams (which I consider a good thing).\r\n\r\nThere are 5 projects over the course of the semester. This is a lot fewer than in 131/132, but they are much more challenging. That said, the projects felt very applicable to real life and it felt like you'd gained useful skills once you completed one (except for the Assembly one maybe). Start the projects early. Office hours are packed, use Piazza instead and read other people's posts to avoid issues before you encounter them.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-16T01:53:43.890999Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "No professor is perfect but Prof K comes as close to that as one can expect. His lectures are well planned and the course material is as well. The labs are well planned out and give you an introduction to the material. Make sure do them yourself and understand what going on same. Same thing can be said with the weekly homeworks that have quizzes (you can retake until you get a 100%) but make sure to understand what you are doing. Make sure to understand the code pack as it's impossible to go through everything in lecture and fully understand it. \r\n\r\nHis projects are the hardest I had so far in CS here at UMD. The take hours to complete and much more complicated and intricate than projects you have done in 131/132. Though there are only 5 of them, each take hours to complete which each becoming progressively harder, but not neccesarily longer. While in 131/132 you could do projects that day off or a night before you CAN'T do that here. His projects take a minimum of 10-15 hours and the assembly one took me upwards of 25-30 hours to complete. Furthermore his exams are not as easy as the appear. The practice material is standardized and very meek with some resemblance but little to none.\r\n\r\n Exam 1 I found was hard but Exam 2 was easier though assembly is a much harder concept. The open resource policy can be deceiving but Kauffman does not ask theory questions on his exams as much, given the open resource. Make sure to plan resourceful notes that have tons of examples regarding coding and debugging and analyzing issues. Kauffman belief is that you should have access to your laptop and is a very takes an industry approach to the class. \r\n\r\nHis grading structure put an heavy emphasis on exams each being worth 20% and the final the same (60% total). Other professors had much laxer exam percentages and focused on projects and lab exercises more. His labs quizzes are grade boosters as you can a 100%. I would have wished for a 3rd exam and each exam being worth like 12-15% and the projects being worth more as I spent hours on them. \r\n\r\nTLDR: Harder teacher than most, if you want an easier teacher who's funny take Nelson but if you really want to understand Operating Systems take Kauffman.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-12-18T00:56:24.887266Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is the GOAT. Best teaching style I have ever come across. 216 is a hard class but he made the concepts very understandable. All exams are open note which is helpful at times but does not help that much, you still have to know what you are doing. My only issue with him is that I think the projects are very very difficult, sometimes too difficult imo. The projects do help you prepare for the exams tho. Overall very good prof, very good speaker, very good at breaking down hard cs concepts. Although I got a worse grade in 216 then 132 I feel like I understand the course material way better. Ending note Kaufman is the GOAT and an absolute gift to the CS department(Just please make the projects easier)",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-12-18T03:59:48.533501Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I personally was not a big fan of this class. Kauffman is a great lecturer and makes concepts easy to understand, but there were some elements of the class that I was not a big fan of. I found difficulty in completing many of the projects, and the TAs were not very helpful in my opinion. The exams are open note, which while appealing to many, made them much more difficult to me. A lot of the questions on the exam were not based on the topics discussed in lecture or even projects, but tested a much more deep understanding of the C programming language. I found the exams to be very challenging and the grading for them to be very harsh as well.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-18T20:48:46.877275Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Very good lecturer and recordings were provided.  Projects forced you to learn the content and were not too difficult.  I really enjoyed how the exams were open-note because it made you rely on your understanding of the content and projects rather than just memorization.  Probably the best professor ive had at umd yet.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-18T23:48:50.655108Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "So much extra credit. Discussions are useless. Lectures are engaging. You can easily excel in the class even without touching the textbook. If you go to (or watch recordings of) all the lectures and complete all labs and homework on your own time honestly (not just copying or clicking through) it's a surprisingly easy A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-25T13:48:30.160671Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Great professor to take 216 with if you want to learn something. Good lecturer, fair exams (if you study and considering that they're open note), and extra credit on projects/exams/lectures. 216 is a hard class at Maryland but Kauffman is probably your best shot for learning. Take Nelson if you want an easy but less in depth class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-26T21:00:01.403872Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is an amazing CS professor. I would 100% recommend taking him. That being said, here is how his class works:\r\n\r\nLectures are 75-minutes, he records everything, but it is still helpful to attend since he is a good lecturer and he takes a lot of questions during lecture. Each time you ask a question, it counts as extra credit. \r\n\r\nDiscussions are pretty much free. We are required to complete at least 10 labs for the course (there are 12 labs in total).  The TA will pretty much give the answers to the lab in discussion and you're allowed to collaborate with others on it. On top of that, close to project deadlines, discussions are converted to extra office hours which can be pretty helpful. \r\n\r\nIt is really easy to get a 100% on every homework since it gives you the option to submit each question and the entire form. After every question, it tells you whether or not your answer was right, and you can keep resubmitting until you get all questions right. \r\n\r\nThe projects are very long and difficult. Start early cause office hours (located on the 4th floor of A.V. Williams for some reason) fills up very fast and it can be either very hard or not possible to get help around the project deadline. In terms of difficulty, I found projects 1, 3, and 5 to be the most time consuming. Project 3 was both the most difficult and time consuming since it was the assembly project. The late penalty is very lenient, so there not much of problem with turning them in late. \r\n\r\nThe exams are open note, but they can be quite hard. Rather than focusing on memorizing random things, they try to test big picture concepts and your ability to understand and apply them to sample programs given. There is no multiple choice, only short answer and coding questions. Furthermore, the exams can be a time crunch since almost all questions need a detailed response, so it's very easy to run out of time if you don't manage it on the exam. \r\n\r\nDespite how hard the projects and exams can be I still recommend taking Kauffman since he is a great teacher, a really nice and helpful person, and you will learn a lot of useful concepts from his class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-29T02:13:36.591195Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Very solid professor, so much better than the other 216 professors. Kauffman is a great lecturer and makes concepts easy to understand, but whenever a student asks a question, he happens to go on a 5-15 minute tangent answering that question and makes lecture boring and hard to pay attention to. Despite this, his slides and lectures are really useful (he also records his lectures so it is not mandatory to go to lecture). Additionally, discussion depends on your TAs but im my opinion, it is useless. Most student havent gone since the first week or so of class and have made it out fine. My tas barely taught for like 5 mins and thats it. \r\n\r\none thing to keep in mind is:\r\nSTART PROJECTS EARLY (AND DO NOT CHATGPT THEM).\r\nKauffman tends to make very lengthy projects and even asks project related questions (even coding questions) on his exam, so make sure to lock in for those.\r\nExams, on the other hand, weren't that bad tbh. Take your time and do not rush them because they will mostly take the whole time. Just because it is open note doesnt mean that you should not study at all because open note is not that useful (still useful tho).",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-01-05T06:39:10.321732Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I wasn\u2019t a huge fan of this class overall. The projects were challenging, but they were also very effective in helping me understand the concepts covered in lectures and I liked that they were all public tests. My biggest tip for future students is to focus on fully understanding the projects and not just finishing them, as this will help a lot on exams. Many exam questions required implementing a function as an extension of a recent project, which I found a bit unfair. Projects are designed to take time and allow collaboration with TAs, so having similar tasks on timed exams felt unrealistic.\r\nOn the other hand, the homeworks and labs were helpful for reinforcing concepts. However, one thing I didn\u2019t like was having to complete them before those concepts were taught in lecture a lot of the time. This often made them feel pointless initially, and I ended up revisiting the labs and homeworks closer to exams to actually learn from them.\r\nWhat I struggled with most were the exams. Despite being open note, they were extremely difficult, and the single practice exam provided by Kauffman was significantly easier than the actual exams, making it less useful for preparation. Even though I reviewed all the labs, homeworks, projects, lecture slides, and attended or watched every lecture, I still found the exams to be tough.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-01-06T17:34:13.914837Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I want to start by saying that this course is hard. This was personally my first time having to go through learning about systems in depth and using some of the most barebone languages in coding. But Prof Kauffman is one of the best lecturers I have ever had. He is very understanding and communicated great with us students. Assignments such as quizzes and labs are the easiest grade boosts. The organization of the class with all of the labs, projects, and his websites were very useful. I rarely was engaged with lectures, but the recordings \r\nand slides were very detailed and easy to catch up with.\r\n\r\nIn terms of the exams, I believe they were very fair. Along with being open note, they coincided heavily with his lecture examples and practice exam, but most with the labs and projects associated with the class.\r\n\r\nAs long as you put in just a little effort for the things that matter like exams and projects, you should pass this class perfectly fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-29T22:45:50.781051Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "It's all been said already, but he's amazing.  However, don't mistake the high rating as meaning that he gives out free A's. If you want that, take Nelson. Kauffman challenges you to actually learn and because he's an excellent lecturer I was happy to do that. Felt like I learned a lot in this class and the work is fair if you put in the effort.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-02-02T04:41:45.545542Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I previously took the course, got an A plus, but Kauffman seems more concerned about people getting good grades than teaching the topic. I didn't retain everything in the class which doesn't make sense considering I didn't study for the exams and somehow got an A plus. Idk if there is a better professor for this class tho cuz all the professors seemed bad.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-02-27T23:13:58.745499Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I don't think I understood much from Kauffman's lectures. His slides and lecture code was often hard to follow and he information overloads on his project docs, slides, and lab/hmw directions. Although some may find it helpful with given information, I often had a hard time understanding what exactly I am supposed to do with the given information and how I can learn/complete the tasks. I found his projects to be mentally breaking, and I don't agree that this is what is best for students. I believe this class took a huge toll on my mental health and emotional stability. but I don't think Kauffman's 216 would be a great learning experience as you would have to struggle for basically nothing. Last but not least, I don't even understand why we had to learn Assembly in his class because I find Assembly to be completely useless and no one uses it anymore in modern programming. Take this class with another professor if you can",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-04-03T23:47:14.717249Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Overall a pretty good lecturer. Class is usually engaging, but sometimes he takes a lot of questions which can make the class feel a bit boring at times. I stopped going to discussions after the first few because they're optional, but you should go if you need help with the weekly labs. The weekly homeworks are easy to get 100% on since you can keep resubmitting each MCQ question until you get it right (although you should probably try to do it seriously). The projects are very lengthy, so make sure to start them ASAP. Exams are open note, but they are all conceptual questions, so you don't really look at your notes all that often. The exams are also pretty long and take almost the full 75 minutes allotted. There is a ton of opportunity for extra credit through completing all the labs (you only need to do 10 of them for full credit, but there are 14 total), asking questions during lecture, and answering piazza posts.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-04-16T01:15:09.914858Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Now keep in mind, it's 216, so the class isn't already easy. Concepts are already harder than usual when compared to content from 131/132. So I wouldn't say it's really easy to get an A in 216 generally.\r\n\r\nPros:\r\n- Teaches really well. Like really well. You will understand computer systems on a deeper level than any other professor teaching 216 in my opinion.\r\n- He loves teaching. That means he's not like one of those professors with really bad quality slides and unorganized course structure. The entire course is structured and organized really well under him, so you'll definitely enjoy 216 somewhat with him.\r\n- Pre-recorded lectures. That means no need to go to lecture and you should still do fine\r\n- Lots of extra credit opportunities. Basically go to his classes, participate, and get engagement points, which can help you get extra credits. Even by participating on Piazza by responding to other people's questions should give you engagement points as well. He also gives these weekly quizzes which is basically like a free grade to you since you get unlimited tries.\r\n- Open Notes exams. This is honestly the best part of the class. Take really good notes in my opinion, organize it all really well (I suggest using Obsidian notes since that's what I used to organize it all). This is also why his exams are generally harder than usual I believe.\r\n- No secret tests on projects. This is honestly the best part of the projects. It would be horrible if there were secret tests as it would take eons to debug them.\r\n\r\nCons:\r\n- Hard projects. Yea I had trouble doing his projects at times since it's quite convoluted and wack and sometimes really long. Especially the Assembly project (all the best with that one). It's not bad as in impossible Yoon level bad, it's just quite challenging and you will be getting a lot of headaches by trying to figure out his projects, but they do generally help with understanding the material.\r\n- Hard exams. Compared to Nelson, Kauffman's exams are generally hard. So you will have to study and practice a lot for his exams, as well as his final. It's not like impossible hard, it's do able, but there aren't a lot of practice materials in my opinion so yeah you'll have to look at his recordings, projects, and other materials for practice and all. REMEMBER, study your projects really well, it's definitely almost always on all of his exams. \r\n\r\nOverall he's a great professor, but I suggest taking Nelson if you can (although he can have some cons too) as he provides more exam materials.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-04-17T16:01:42.783525Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "very difficult and unhelpful lectures",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-04-30T02:58:01.621366Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Decent lecturer. Can be condescending and say things are \"easy\" or \"simple\" about concepts students see for the first time which is not helpful to students learning. Released project 4 over a week late with a short deadline and project had so much testing bugs and issues that Piazza had hundreds of posts. Not sure why there are such high reviews.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-04T16:20:07.469631Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I would absolutely take Kauffman again--you can absolutely tell he loves teaching and his students, and he comes off as very approachable (which is really nice when you have a question, over email or in person). The class / projects / tests are hard, but it's absolutely worth the time and effort. Has a really good engagement point system that gives you some grace on late project submissions if you, again, put in the effort. Very well organized system, posts all his slides, records all his lectures, etc. etc.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-06T21:02:17.902285Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman and I had our enemies to lovers arc this semester. At the beginning of the semester with the stuff introducing C, I felt he went too slow, I felt the labs were unhelpful, and I felt bored in the class. But once Kauffman got to Assembly, and especially once he got to the UNIX and hardware material at the end of the semester, he really opened my eyes to learning about computer systems in general. Professor Kauffman has an enthusiastic lecturing style---you can tell he cares a lot about our understanding of the material, and the labs and homeworks he provides really do give great practice for his exams. His exams are also challenging, but definitely fair, and the open resources were a nice touch that I genuinely used, albeit barely, but when I used it it was absolutely needed. There was never a question I did not know how to do on his exams given the practice material provides you with exact question types you might see. Professor Kauffman has a plethora of pop culture references as well which keep him feeling simultaneously like your old uncle and someone in the know. \r\n\r\nI would recommend anyone take Professor Kauffman if you value your learning and your education more than your grade. His projects are difficult, but manageable if you start early, and I never had problems submitting on time nor with the actual coding itself. If you put in the work, you will get the A you desire. \r\n\r\nI have to dock one star because he called my supreme overlord Larry Herman \"Professor\" Herman. Everyone knows the GOAT is an instructor, NOT a professor.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-17T15:12:12.961943Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "If I could rate the guy higher than 5 I would. Prof K has probably the most amount of passion for teaching students I\u2019ve witnessed. Expect a lot of work with weekly labs and homework\u2019s in addition to 5 projects, but all of which help a ton with learning the content. Prof K rarely was unable to fully answer a question during lecture and he absolutely knows his stuff. Definitely recommend if you can take him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-18T04:52:10.855980Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Honestly I haven't learned anything in his class for cmsc216 because he would never explain things properly due to his unintelligible English; his notes, slides, labs, and projects didn't help and he would purposefully put tricky questions on exams just to assume that people are cheating in his class. DO NOT take this class as it will ruin your emotional stability and cause immense paranoia like it did to me. Stay away from this man and protect yourself at ALL COSTS !!!!!",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2025-05-19T13:03:09.960055Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "It's clear that the following three reviews were all written by the same disgruntled student. Please take these with a grain of salt and do your own research before making any decisions. Personally, I had no issues with Kauffman and found him to be one of the best teachers in the CS department at this school. \r\n\r\n>> Honestly I haven't learned anything in his class for cmsc216 because he would never explain things properly due to his unintelligible English; his notes, slides, labs, and projects didn't help and he would purposefully put tricky questions on exams just to assume that people are cheating in his class. DO NOT take this class as it will ruin your emotional stability and cause immense paranoia like it did to me. Stay away from this man and protect yourself at ALL COSTS !!!!!\r\n\r\n>> very difficult and unhelpful lectures\r\n\r\n>> I don't think I understood much from Kauffman's lectures. His slides and lecture code was often hard to follow and he information overloads on his project docs, slides, and lab/hmw directions. Although some may find it helpful with given information, I often had a hard time understanding what exactly I am supposed to do with the given information and how I can learn/complete the tasks. I found his projects to be mentally breaking, and I don't agree that this is what is best for students. I believe this class took a huge toll on my mental health and emotional stability. but I don't think Kauffman's 216 would be a great learning experience as you would have to struggle for basically nothing. Last but not least, I don't even understand why we had to learn Assembly in his class because I find Assembly to be completely useless and no one uses it anymore in modern programming. Take this class with another professor if you can",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-20T15:37:22.417864Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "I took Kauffman in Fall 2024, but I'm just writing my review now. He's a nice guy and is very knowledgeable about what he's teaching, but I'm gonna be honest people are glazing him way too much.\r\n\r\nFirst of all, he speaks very technically in class with heavy technical jargon and doesn\u2019t break down new concepts in a digestible way, which makes it hard to follow. Additionally, his slides have so much content on them that it's hard to digest and understand what exactly you're supposed to look at.\r\n\r\nThe good thing though, is that he gives lots of extra credit, which is pretty rare to see in a CS class, so that\u2019s nice.\r\n\r\nAnother thing is, no offense to him, but he seems a little socially awkward. I talked to him in office hours and after class, and he seems to have a hard time speaking at a normal speed and has trouble making eye contact (another thing I\u2019ve noticed with a lot of CS professors at UMD\u2014a lot of them seem autistic or socially awkward).\r\n\r\nAnother thing is that he has a lot of trouble taking criticism. In his midterm survey, so many students pointed out that there is a big difference in the level of difficulty between his practice and real exams, but he claims that because he has way more experience and is smarter than us, he knows a lot more than we do and dismisses literally any criticism.\r\n\r\nOverall, you will get a good grade in this class if you put in the effort, but him as a professor is not the best choice.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-23T08:37:58.686996Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is so goated and beloved by all his students. He made content that I otherwise would've found relatively uninteresting (operating systems, unix processes, assembly) engaging. He is incredibly passionate about teaching and always takes time to answer questions during lecture, and also post lecture recordings as well as lab overviews. I learned so much from him this semester and you can tell he actually cares about making sure his students understand content. The projects can be difficult, and I'd recommend starting them early, as well as using Piazza as much as you can because office hours are pretty limited. Exams are also tough but his homeworks and labs give you good practice for them. Most people probably don't actually do the homework but if you want extra practice then you should do it. He also gives opportunities for extra credit as mentioned in other reviews. I think there is no better professor you can take for CMSC216 and with Kauffman you'll be in good hands.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-23T15:59:01.124315Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Even though I struggled tremendously in this course, Kauffman seems to care about his students' success. He is especially engaging in lectures and extremely helpful during office hours and the staff are always there to help on OH, Piazza, and Discussion.  I believe that if you put in the effort and dedication in this course, you will be able to do well. I will say, though, that you should start ALL of Kauffman's projects on day 1 because these projects are not easy, and they require a lot of focus and attention, and you will have to know the content very well. In addition, his exams are not easy, so make sure you really understand your notes, slides, projects, lecture code, etc. I will give him 3 stars, however, because he does make this class somewhat stressful, but I do think that these stressful experiences will continue in later CMSC classes (not to say that they're bad, but they will become more rigorous, and students will need to work harder to do well). Kauffman provides tremendous grade padding from manual inspection on projects and a fair engagement point system, which can tremendously help students improve their grades. If you are someone who is interested in low-level systems, then I believe that you should definitely take 216 with Kauffman, and you will like it !",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2025-05-24T19:28:38.240476Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "This class wasn't too bad, but it really did not feel as rewarding as how the other reviews said. The structure of the class was split upon 5 projects, 2 exams and a final, hw \"quizzes\" (they're incredibly easy), and labs. The projects were quite difficult in my opinion (3 and 4 were the worst but in different ways I'll explain later), but they were good practice. PLEASE DO NOT GPT THEM, AND PLEASE START THEM EARLY (trust me you will thank me). They are designed in a way that is quite different from 132, they are very long and test the information covered very thoroughly, but it is good preparation for the exams. I thought projects 1, 2, and 5 were relatively straight forward with a decent difficulty, project 3 was pretty difficult because Assembly is just like that, but project 4 was really hard because it was assigned late (giving us less time to do it), but it was an added difficulty to figure out which tests were actually passing because it would work half of the time due to the concurrency (sometimes, tests would pass on grace, but completely fail on gradescope). The exams were actually not that bad, they tested content covered in the most recent project to the date of the exam, and were open note. But I think the open note concept is kind of misleading, it doesn't make the exam easier, it just made it a different kind of test, covering applications of topics rather than fundamentals which you may be used to from previous courses. The labs and hw were good practice if you diligently did them, and were overall pretty free grades. Kauffman did pretty unique system for participation called engagement points, which was counted under the labs you completed, but any extra lecture participation or piazza participation would be counted as bonus, which was pretty nice. \r\n\r\nThe content covered wasn't really too difficult in my opinion, but I felt lectures were pretty pointless. His slides I felt made the content way more complicated than it needed to be, and his speaking was way too technical and not easily digestible. During discussion, a lot of times it felt the TAs couldn't really give me in depth answers for questions, and mainly just went over the labs. As a result, most of the time I would learn either reading the textbook or yt vids. A lot of times too, the way Kauffman focused on materials was more related to computer hardware than the coding, which made it feel more applicable for Computer Engineering majors, and I felt like the mateiral I was learning was kinda useless compared to how other teachers taught it. Some of the reviews talked about him being condescending, others talked about him being super nice, I thought he was fine overall in approachability, but like none of the extremes. \r\n\r\nTL;DR: Kauffman is a fine professor, but I felt a lot of the reviews are rating him higher than he should be. The course content isn't too difficult, but sometimes it was pretty frustrating using the terminal and grace, and its just overall a very different experience from previous courses. Once again DO NOT GPT PROJECTS, START THEM ON DAY 1 - you will suffer the consequences otherwise trust me.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-29T16:20:29.371806Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Great professor who cares about his students' learning. Great class structure with lots of flexibility, difficult but rewarding projects, and easy but not free exams. You get what you put into this class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-29T17:25:20.411148Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "One of the best professors I've had yet. I thought his lectures were well-paced, informative and easy to understand. He is an engaging and personable lecturer who takes time to answer questions and his participation system provides a nice padding to your overall grade if you happen to need that. The later projects were ROUGH but not impossibly difficult with a reasonable amount of effort, starting on them early is definitely for the best. His open note exams (which I greatly preferred) test your ability to apply concepts instead of memorize random details, for obvious reasons. I def think your grade reflects the amount of effort you put in, and honestly this class was much less stressful than 132 for me.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-29T23:25:30.349160Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "One of the best professors I have ever had. I think he truly structures his course through a student's perspective. The fact that he records his lectures and lab walkthroughs really allowed me to fully understand the course concepts. I feel like he gave adequate practice materials for exams and although they were REALLY long, his projects were one of the biggest reasons I did well in this course. His long and intensive projects covered basically everything that we would need to know for the course and doing the projects helped me not only understand the topics conceptually but also in practice. My advice to future students would be to really understand the projects because thats usually what the coding question for exams will be based off of.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-06-02T18:21:22.219721Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Really well ran course. The projects were pretty instructive, especially the Assembly project. Considering that the tests are borderline open internet, they're surprisingly easy, and if you can do the projects, you can definitely do well on the exams. There's so many places to get bonus points, so even if you lose some points here or there, you can get them back really easily. The lectures can be a bit slow at times, but physical attendance isn't mandatory so if that's an issue you can just watch the lecture videos at your own pace. He loves answering questions, so if you're struggling with a concept, he'll make sure you understand it. Taking 216 with Kauffman really is a no-brainer, just do it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-06-20T01:33:38.203219Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Kauffman is an incredible professor and 216 is pretty easy with him. His lectures are incredibly detailed and informative. The structure of the class is very well made and makes it easy to understand everything. Every assignment given gives enough practice for the exams (you should not chatgpt the projects for this reason) so you don't need to practice much outside of the coursework and if you didn't understand something in lecture the labs and projects will usually fill these gaps. The projects only have public tests and the exams are open laptop so you can download anything you want for the exam just no google or ai. One warning I'll give is he told us he would reorganize the grading structure to deal with ai cheating and his options were either lower project weighting and raise exam weighting, add an extra midterm, or automatically fail anyone who's exam average is below 70%. Personally I don't think these should be an issue due to what I've written in this review. If you're reading this and picking classes definitely take this guy over anyone else",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-21T07:56:20.043644Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "There's a lot of things that Kauffman does well like the format of the exams (open note, open terminal) and the instructiveness of the projects (the project descriptions are very thorough). He also records lectures and really tries to make sure that you can do well in the class. However, the main reason I took off 3 stars is because of all the AI accusations he was throwing around. Like I was not accused, but I know so many people who were falsely accused of using AI and that literally made it so scary just to go to class. Even though I wasn't doing anything wrong, I always felt like I would be falsely accused. I think that this part of the course needs to change because while it is important to ensure that the class is fair for students who actually do their work, I think that before Kauffman goes around accusing people, he needs to be 100% sure they actually did something wrong.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-21T15:11:44.980867Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Amazing Professor!\r\n\r\nLectures are very engaging and he explains things clearly. Grading is very fair and he gives lots of opportunities for bonus/make up credit. Labs and HWs are relatively easy and focus on introducing concepts. Projects are hard but not impossible and they truly teach you the material. Exams are fairly difficult but they do reflect what's taught in class and are similar to the practice exams given. If you study hard and understand the labs and projects, you can definitely do well on the exams. Re doing labs on paper or parts of projects is a great way to study, the exams usually have pretty normal coding questions with the rest being short answer. The short answer matters just as much as the coding in terms of grading which isn't bad by any means. \r\n\r\nHe gives extra credit for participating in lectures and answering questions on piazza which is a great idea!! I initially was motivated to participate for the extra credit but after the first few weeks of class, I found myself participating out of genuine curiosity or just wanting to engage with the material. For piazza, this was the one class where students would always respond to questions quickly which was very helpful. \r\n\r\nOverall, Kauffman is a great professor and I'm glad I got to take this class with him!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-24T19:41:37.553411Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": null,
+      "review": "Fall 2025\r\n\r\nPros:\r\n- Class is organized VERY well in terms of helping you learn content. Labs, Homeworks and Projects build off each other, with content from the three supplementing exam preparation\r\n- Projects are incredibly comprehensive. If you understand the projects, you are ready for the exam\r\n- Provides two mini-practice exams for each midterm, which, concatenated, contain 60% of what is on the exam. (These two mini-practice exams amount to 40 minutes of exam-time, whereas actual exams are 75 minutes)\r\n- Exams are open resource, meaning you can use anything except the internet. This includes HW/Lab/Project code, lecture code/examples, slides, practice exams. This means exams focus more on application of concepts, and still require studying.\r\n- Discussion is basically TAs going over labs, so you will get most of the labs done if you go to discussion. \r\n\r\n\r\nCons:\r\n- Uses quite a bit of technical jargon for his explanations, making it difficult to understand. \r\n\r\nOther:\r\n- Discussion consists of TAs going over the week\u2019s lab\r\n- Engagement point system: If you complete all the labs and surveys, and attend all review discussion sections (the two discussion sections before each exam), you will end up with about 2% of extra credit, or equivalently 8 late project submission days\r\n- Pretty obvious but don\u2019t cheat: you\u2019ll get caught. Kauffman catches tens of people every semester (especially for using AI on the assembly project).\r\n- Projects are very long: 4 of them are done in C, 1 is in Assembly. Start all of them early (give yourself at least a week for all of them. If you start the day they are assigned, you get about a week and a half.\r\n- Rohan Panigrahi (a TA) is incredibly good at explaining concepts. \r\n\r\nGrade Statistics (you can plug into a normal distribution if you want):\r\nExam 1: Mean: 75.8%, Median: 79.29%, Standard Deviation: 11.7\r\nExam 2: Mean: 80.1%, Median: 82.3%,   Standard Deviation: 10.3 \r\nFinal:     Mean: 76%, Median: 77.8%,       Standard Deviation: 12.8",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2025-12-25T11:35:39.816208Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "A phenomenal amazing passionate considerate professor. Kauffman provides you with all the resources you need to succeed. He clearly cares a lot.\r\n- incredibly fair exams (open note too)\r\n- detailed and well-structured projects\r\n- very quick Piazza responses\r\n- lecture and lab/project walkthrough videos on Panopto\r\n- leniency with some late projects\r\n- so many opportunities for bonus points / extra credit / ways to save your grade\r\n\r\nI\u2019d recommend him 1000x",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-27T02:02:33.643106Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "All of the projects, homeworks, labs are very useful and relevant for the exams. Nothing in this class is that difficult, but make sure to start on all projects as soon as possible. Kauffman is always heavy on catching cheating on the projects; just give them your best honest attempt and I promise you'll be fine. His slides are very wordy and often contain a lot of useless information, and you're meant to rely more on your own work for the exams (they are open resource). Kauffman is by far the best choice for 216 right now and it's not really close.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-28T18:13:19.540971Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "He teaches pretty well, you come out of the class with a good understanding of 216 content. The worst part about this class are the projects, they're long and hard, start early. Tons of people get caught using GPT for the projects, but he's talked about somehow implementing it for future semesters to be more AI friendly/accommodating. \r\nFinal Grade average: 85.58\r\nFinal Grade median: 87.79",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-28T23:34:22.332851Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Great professor. While he can be a bit critical and passive aggressive, he does an outstanding job at actually teaching the course content. Each topic is explained in great detail, there is a ton of resources provided outside of lecture to study and review. The course itself is also quite fun, but can be challenging. Also open note midterms and final is pretty great. Highly recommend taking him whenever possible.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-05T17:31:21.106614Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Amazing professor! All lectures are recorded, exams are graded fairly, labs encourage group work and actual learning. Rewards effort in the class through small extra credit/make up credit which can help your grade if you're 1 point away from the next letter. I would highly recommend him.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2026-01-20T01:27:46.447116Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "intro: insanely passionate professor that is always working on the class and how it works, pretty cool in general\r\n\r\npros:\r\n- open note exams\r\n- fun lecturer that records lectures (i mainly had to watch but he is good)\r\n- good on answering questions, being available to students, even goes on piazza every now and then\r\n- gradescope homeworks that are quizzes, can retake\r\n- labs are useful to content\r\n- projects are fair, mostly public tests then manual inspection\r\n- extra credit available based on class engagement and some other small factors which helps with grades\r\n- constantly looks for feedback through surveys\r\n- piazza is good, incentive to discuss and engage with each other, prof will be on there at times\r\n- besides recordings/slides/example code, other things are also posted and are available for use\r\n- practice exam reviews a bit of the content, it is reviewed in lecture before exam (good overall)\r\n- makeup credit available on projects in a way\r\n- TAs are pretty helpful\r\n\r\nneutral\r\n- flow of class/content/lectures expects you to be on top of work constantly rather than doing it last minute including him asking questions in lecture to class\r\n- \"required\" textbook, available online when I took class, reading it is not actually necessary but it seems like very good supplemental material\r\n- discussion section not necessary to attend (when I took class) but offers good reinforcement on labs and content\r\n\r\ncons\r\n- one part of labs is a quiz section but you don't know what questions are right or wrong when you check the answers, so sometimes its hard to know what you did wrong and end up wasting extra time\r\n\r\nconclusion: take the class! he's a good professor",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-23T13:14:14.533426Z"
+    },
+    {
+      "professor": "Christopher Kauffman",
+      "course": "CMSC216",
+      "review": "Was falsely accused by Kauffman last semester. Completely wrecked my relationship with UMD CS imo.\r\n\r\nHe published his own statistics on AI cheating in his class which showed that at least 19.6% of the class was penalized with a grade reduction or a pending XF case (XF is an academic integrity mark which removes CS students from the major.) Even more students than that were accused. \r\n\r\nOn one project, he mass accused and penalized 15% of the class for cheating using compiler-generated code or AI because they used an \"advanced\" command, even though it was listed in the class slides, project rubric, project description, textbook, and an approved linked webpage on his course site. He also said we could reference compiler-generated code for the project and even bring AI-generated notes and content to exams, which makes it really unclear about what\u2019s actually allowed. He originally accused even more students for the same issue until realizing he had accidentally included a non-project-related file in his checker. He said he had high confidence in the accusation, and offered a 0 to those accused on the project (~2% overall grade reduction) or a one-on-one interview process where success would lead to a regrade request and failure results in a XF recommendation to OSC. Over 1/3 of the accused students still showed up despite the existential threat of taking the interview, which makes me believe that he was really throwing around accusations. Either way, Kauffman later wrote in a post that he \"was never once convinced of a student's innocence during an interview\" and those who were let go only had \"plausible deniability.\" The process was extremely stressful and lacked transparency.  \r\n\r\nAt the end of his course, 20 students in his section went to OSC. For context, there were 50 AI-related OSC across all departments and classes at UMD for the entire year of 2023, meaning his section last semester would account for around half of that. \r\n\r\nWhether you believe it or not, I know many people who were accused, didn't cheat, and were penalized anyway, including myself. His passive aggressive comments about not giving extra credit on later projects because of the cheating cases and verbal/written rants about \"cheating\" students devaluing the CS degree before any of the cases were even resolved made the class feel toxic, distrustful, and stressful like everyone was constantly under suspicion. On top of the difficult content, the threat of being accused and kicked out of the major over one or two lines of code on a project that is flagged as suspicious could seriously impact anyone\u2019s mental health.\r\n\r\nHe may be allowing AI in future courses to avoid this issue again (or in his words, because too many people are \"cheating\"), but this is my two cents. \r\n\r\n2 stars because I learned a lot in his class as mentioned by everyone else below me.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2026-02-26T02:00:03.698515Z"
+    }
+  ],
+  "name": "Christopher Kauffman",
+  "slug": "kauffman_christopher"
+}

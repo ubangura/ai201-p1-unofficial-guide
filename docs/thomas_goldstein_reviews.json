@@ -1,0 +1,153 @@
+{
+  "courses": [
+    "CMSC878O",
+    "CMSC250H",
+    "CMSC764",
+    "AMSC764",
+    "CMSC798",
+    "AMSC663",
+    "CMSC389O",
+    "CMSC663",
+    "AMSC664",
+    "CMSC664",
+    "CMSC498P",
+    "CMSC798P",
+    "CMSC473",
+    "CMSC673",
+    "CMSC389O",
+    "CMSC389O",
+    "CMSC473",
+    "CMSC673",
+    "AMSC764",
+    "CMSC764",
+    "CMSC389O",
+    "CMSC473",
+    "CMSC673",
+    "CMSC389O",
+    "AMSC764",
+    "CMSC389O",
+    "CMSC764",
+    "CMSC473",
+    "CMSC673",
+    "CMSC389O",
+    "AMSC764",
+    "CMSC389O",
+    "CMSC764",
+    "CMSC389O",
+    "CMSC473",
+    "CMSC673",
+    "AMSC764",
+    "CMSC389O",
+    "CMSC764"
+  ],
+  "average_rating": 3.5385,
+  "type": "professor",
+  "reviews": [
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "Taught by TAs not this professor. But definitely a good STIC class to take. Lots of EC too, so not hard to get an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-05-02T18:35:23Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "AMSC764",
+      "review": "Probably the most interesting CS class I\u2019ve taken. He definitely knows what he\u2019s talking about and he\u2019s very clear. Pace is very fast so make sure you\u2019re paying attention.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-05-16T14:30:11Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "An interesting and helpful STIC course to review all common data structure concepts before a coding interview. It is taught by TAs, not by professor. There are lots of extra credits assignments. It's easy to get an A as long as you submit the homework and quiz on time every week.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-01T23:40:15.349748Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "Taught by TAs, so the review doesn't apply to Professor Goldstein.\r\n\r\nI had no idea about Leetcode, so this course taught me how to solve some Easy Leetcode problems on arrays and strings. After that, I did not improve much, especially on topics like trees and graphs and dynamic programming.\r\n\r\nIt's not a course that starts from scratch and slowly teaches you everything there is about Leetcode problems. If you know nothing, at most, you'll learn how to solve some array and string problems. As for the rest, you get out of it what you put into it, i.e. it depends on how much you personally practice Leetcode, which has nothing to do with the course.\r\n\r\nDespite learning little, I got an A, because the exams and homeworks are easier.\r\n\r\nConclusion: take the course if you want an introduction to Leetcode, but don't expect to learn a lot just from the course itself.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-05-12T01:21:28.669335Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "Fully TA taught. Super fun class to chill in learn a bit about coding interviews/leetcode and just get some advice and talk. Class is a 5, idk anything about the teacher since no one met him before.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-20T07:47:29.545727Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "Fully taught by TA's, not by prof Goldstein (I'm sure he's a great guy but I have no idea who he is).  \r\n\r\nI think this was the most useful course I've taken in college.  It's essentially leetcode and practice interviews.  I have done a fair amount of leetcode (like 150 problems), and this class was still useful to me.  It teaches behavioral and technical interview skills that are essential to know, as well as how to solve a fair amount of leetcode.  The workload was like an hour per week and attendance is mandatory.  \r\n\r\nI would recommend this course if you've taken (or are taking) CMSC330 and have some experience with leetcode, or are preparing for internships.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-11T02:47:05.441587Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "STIC course so doesn't relate to Thomas Goldstein. I really enjoyed the class, and felt like I genuinely did learn a lot, as someone who has done some leetcode it definitely was still useful, and also helped me realize what concepts I had forgotten. TA's are super nice. If you want you can definitely just sit down, not pay attention and not talk for the 50 minutes, but I felt it was more fun to just participate. They give you so much extra credit its very difficult to not get an A, everyone I knew in the class ended with over 100%. The midterm and final which I was scared about (mock interviews) were fine, they are graded very leniently and the questions are pretty simple.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-23T15:07:37.536584Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "- Did you think the exams or other major assignments were fair?\r\nEach week, you had a short quiz on canvas, a leetcode question, and a 50 minute lecture. There were two \"exams\" which were just mock interviews. I thought everything was really helpful and did not take up that much time. Didn't interfere with my hard classes at all.\r\n\r\n- Did you think the professor had reasonable expectations of the students in the course overall? \r\nTotally TA taught, but yea\r\n\r\n- Were you a fan of the professor's teaching style?\r\nThe TAs are clearly knowledgeable and super nice. The lectures were just going over a new topic (e.g. graphs) and walking through the process of solving a couple questions related to the topic. Again, helpful.\r\n\r\n- Was the workload appropriate for the number of credits?\r\nYes\r\n\r\n- Was this course a waste of time or was it beneficial in some way?\r\nUseful for anyone who wants to improve their interviewing skills.\r\n\r\n- How much support were you given throughout the semester (office hours, extra resources, etc.)?\r\nTAs are pretty attentive on piazza.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-24T01:13:42.250617Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "STIC course taught by TAs. All TAs were very friendly and responsive on Piazza. In each lecture, we learned how to solve a LeetCode medium problem from the week\u2019s topic. Exams were mock coding interviews where we had to solve a coding problem and answer a behavioral interview question. The exams were graded generously, and I found them to be a good way to practice interviews. I also felt that the workload was very reasonable, with only one coding problem and an ELMS quiz every week. Overall, I enjoyed the class and think that it was useful.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-06-04T23:03:30.591872Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "Rip. He can\u2019t read the grade sheet that the TA hands him and assigns everyone the wrong final grade on Testudo",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-07-17T17:34:21.358110Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "Very unapproachable and uncommunicative. Will not reply back to your emails.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-07-24T19:17:57.138641Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC764",
+      "review": "The course material and homeworks(done in Jupyter notebooks, 8 of them) were good, but the professor did not care to elaborate the material in class or make sure the students followed through. The professor recorded the class and uploaded on elms. This was useful for the purposes of exam. The TAs were never visible during some(or most) of the TA sessions, nor replied to messages in the slack. I can, however, give credit to the prof for replying patiently to queries in slack before the final exam. \r\n\r\nThe homework assignments (before midterm - 5 of them) were graded just before the midterm and the ones after the midterm along with the final grade. Homework deadlines were reasonable and extended whenever students requested more time. \r\n\r\nMidterm was late but doable. Grading was very unfair and roughly 80% got below 80% and the grades were communicated almost after a month(just 2 weeks before the final). Final was also doable and questions were pretty st forward. Grading was extremely lenient and roughly 80% got above 80%. However, the days before exams were stressful because of the difficulty of the material and the grading strategy during midterm. \r\n\r\nFinally, almost all in the class(I assume roughly 70%)ended up getting A/+/- grade but cutoff was not communicated. So I felt it was, lenient but opaque course grading. \r\n\r\nThe prof (or the TAs) does not reply to student emails or slack messages promptly which was (one of the) the greatest problem(s). Also, given the vast knowledge and experience of the prof, he could have done a much better job. Sigh!",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-08-01T14:28:46.507854Z"
+    },
+    {
+      "professor": "Thomas Goldstein",
+      "course": "CMSC389O",
+      "review": "Terrible professor, do not recommend. Even though, he never teaches this course, he assigned everyone the wrong grade and never fixed it. Never communicates back with you either.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-09-07T19:18:06.109043Z"
+    }
+  ],
+  "name": "Thomas Goldstein",
+  "slug": "goldstein_thomas"
+}
