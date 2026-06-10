@@ -95,6 +95,7 @@ def fetch_professor_grades() -> None:
             for course in courses
             if course.startswith("CMSC")
             for grade in planetterp.grades(course=course, professor=professor)
+            if isinstance(grade, dict)
         ]
 
         with open(f"{settings.DOCS_PATH}/{name_prefix}_grades.json", "w") as f:
@@ -145,7 +146,7 @@ def _chunk_reviews(document: dict) -> DocumentChunks:
 
         paragraphs = [
             paragraph.strip()
-            for paragraph in text.split("\r\n\r\n")
+            for paragraph in text.replace("\r\n", "\n").replace("\r", "\n").split("\n\n")
             if paragraph.strip()
         ]
         for paragraph in paragraphs:

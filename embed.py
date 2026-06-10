@@ -22,6 +22,8 @@ def get_collection() -> Collection:
 
 
 def embed_and_store(chunks: DocumentChunks) -> None:
+    if not chunks:
+        return
     _collection.add(
         documents=[chunk.text for chunk in chunks],
         metadatas=[asdict(chunk.metadata) for chunk in chunks],

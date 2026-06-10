@@ -107,6 +107,15 @@ Reviews `<= 200` tokens will be one chunk. Reviews `> 200` tokens will be split 
 
 Paragraphs/sections in the API response are separated by `\r\n\r\n`. Split reviews into paragraphs. If a paragraph exceeds the chunk size of 200 tokens, split it into multiple chunks with overlap.
 
+**Implementation note — mixed line endings (discovered during ingestion):** The API does not consistently use `\r\n\r\n`. At least two separator variants appear in the corpus:
+
+- `\r\n\r\n` — double-CRLF blank line (documented, majority of reviews)
+- `\n\r\n` — LF + CRLF blank line (undocumented variant, widespread)
+
+Without normalization, reviews using `\n\r\n` were treated as single monolithic paragraphs. An Evan Golub review reached **1,442 tokens** as one unsplit block; a Clyde Kruskal review reached **771 tokens**. Splitting on the raw `\r\n\r\n` pattern missed these entirely.
+
+Fix: normalize `\r\n` → `\n` (and bare `\r` → `\n`) before splitting on `\n\n`. This collapses both separator variants to a double-LF while leaving single `\r\n` line breaks (list items, line wraps within a paragraph) as single `\n` — correctly below the split threshold.
+
 ---
 
 ## Retrieval Approach

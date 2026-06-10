@@ -52,6 +52,20 @@
 
 **Why these choices fit your documents:**
 
+**Implementation note — mixed line endings in review data:**
+The PlanetTerp API returns paragraph separators inconsistently across reviews. While the documented separator is `\r\n\r\n`, actual data contains at least two variants:
+
+- `\r\n\r\n` — the expected double-CRLF blank line (majority of reviews)
+- `\n\r\n` — a LF followed by a CRLF blank line, seen throughout the corpus
+
+Example from an Evan Golub review (1,442 tokens, `\n\r\n` separators — would have been left as one unsplit block):
+> *"Imagine the first day of class. As you embark on your journey through the mystifying complex universe of computer science..."* `\n\r\n` *"...I don't know what the deal is with what ALMOST EVERYONE told me but this class has been fairly easy..."*
+
+Example from a Clyde Kruskal review (771 tokens, `\n\r\n` separators):
+> *"Lecture:\r\nKruskal seemed to be a little out of his element this semester..."* `\n\r\n` *"...When answering questions, both..."*
+
+The chunking code normalizes `\r\n` → `\n` before splitting on `\n\n`, which collapses both separator variants correctly. Single `\r\n` line breaks within a paragraph are preserved as `\n` and do not trigger a split.
+
 **Final chunk count:**
 
 ---
