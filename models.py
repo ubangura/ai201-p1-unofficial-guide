@@ -23,3 +23,10 @@ class Chunk:
 
 
 DocumentChunks = list[Chunk]
+
+
+@dataclass(frozen=True)
+class RetrievalResult:
+    text: str
+    metadata: ChunkMetadata
+    distance: float
