@@ -30,3 +30,11 @@ class RetrievalResult:
     text: str
     metadata: ChunkMetadata
     distance: float
+
+
+@dataclass
+class QueryFilter:
+    professor: str | None = None
+    course: str | None = None
+    type: Literal["review", "grade_distribution"] | None = None
+    created: str | None = None
